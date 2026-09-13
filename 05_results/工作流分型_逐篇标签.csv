@@ -1,0 +1,864 @@
+﻿序号,Key,Title,Archetype
+1,49BSQFC2,"Tooth shape and sex estimation: a 3D geometric morphometric landmark-based comparative analysis of artificial neural networks, support vector machines, and Random Forest models",1
+2,88HUKGCR,Evaluation of the use of PEEK material in post-core and crown restorations using finite element analysis,3
+3,AES2CIZM,Automated assessment of mandibular shape asymmetry in 3-dimensions.,1
+4,I5RLGRTP,Accuracy of 3-dimensional stereophotogrammetry: Comparison of the 3dMD and Bellus3D facial scanning systems with one another and with direct anthropometry.,1
+5,HIB4B72X,Comparison of digital study model superimposition methods using implant-supported crowns and best-fit algorithms,2
+6,4ZGWKF9Y,Estimation of centers of rotation of the maxillary incisors during nonextraction space closure using the Invisalign appliance,1
+7,P23TVHFB,Effect of build angle and layer height on the accuracy of 3-dimensional printed dental models,2
+8,I7KVKAFC,Effect of print orientation and duration of ultraviolet curing on the dimensional accuracy of a 3-dimensionally printed orthodontic clear aligner design,4
+9,378PQPRK,Three-dimensional zone of centers of resistance in maxillary central incisors and first molars: Couple-based finite element determination,3
+10,SE6G5JDN,Comparison of 1-and 3-piece directly 3-dimensional printed indirect bonding trays: An in vitro study,2
+11,PDF7C9KQ,Evaluation of planned and achieved root angulation changes in teeth adjacent to mandibular premolar extraction sites in patients treated with Invisalign: A retrospective study,1
+12,JHGMXHR6,"Accuracy of a new, slim, and rigid CAD-CAM transfer tray: An in vivo study",2
+13,C5PL839F,Different biomechanical effects of clear aligners in closing maxillary and mandibular extraction spaces: Finite element analysis,1
+14,SNIDCHC3,Assessment of simulated vs actual orthodontic tooth movement with a customized fixed lingual appliance using untreated posterior teeth for registration and digital superimposition: A retrospective study,2
+15,HIY5AECS,Biomechanical analysis of subcondylar fracture fixation using miniplates at different positions and of different lengths,3
+16,GHP84UX8,Where is the center of resistance of a maxillary first molar? A 3-dimensional finite element analysis,1
+17,U5GXFII9,Cross-modality imaging of bisphosphonate-treated murine jawbones,1
+18,9LU3ERIG,Three-Dimensional Tooth Models with Pulp Cavity Enhance Dental Anatomy Education,4
+19,T8Q2R8EA,Effect of the presence of orthodontic brackets on intraoral scans.,2
+20,3NRBHY63,Application of a virtual and mixed reality-navigation system using commercially available devices to the lateral temporal bone resection.,1
+21,6SIK9KIX,A Feasibility Study of HoloLens Ear Image Guidance for Ear Reconstruction,1
+22,SUL3GW4D,MarginView3D: A Novel Software Enabling Comprehensive Three-Dimensional Surgical Pathology Documentation for Improved Intra- and Postoperative Cancer Care,1
+23,WPFWC6I6,Automatic Segmentation of Dental Root Canal and Merging with Crown Shape.,1
+24,VTYTBDL8,Novel Design and Optimization of Porous Titanium Structure for Mandibular Reconstruction,3
+25,FK2AQUZY,Waferless Orthognathic Surgery with Customized Osteosynthesis and Surgical Guides: A Prospective Study,1
+26,LLS6DR9F,Is Beauty a Matter of Volume Distribution? Proposal of a New Aesthetic Three-Dimensional Guide in Orthognathic Surgery,1
+27,6BVQQI7U,Qualitative exploration of 3D printing in Swedish healthcare: perceived effects and barriers,1
+28,4YHU6J4I,Automated 3D segmentation of the hyoid bone in CBCT using nnU-Net v2: a retrospective study on model performance and potential clinical utility,1
+29,4RGTB6EY,A pilot investigation of condylar position and asymmetry in patients with unilateral posterior scissors-bite malocclusion based on three-dimensional reconstructive imaging technique,1
+30,QV9TASMT,3-dimensional analysis of hard- and soft-tissue symmetry in a Chinese population.,1
+31,ATFDULYF,Three-dimensional evaluation of condylar morphology after orthodontic treatment in adult patients with Class II malocclusion by cone-beam computed tomography.,1
+32,4I8FWCMQ,Design and development of a virtual reality simulation for dental implant prosthesis training.,4
+33,QD7MIRSD,Evaluation of CBCT reconstructed tooth models at different thresholds and voxels and their accuracy in fusion with IOS data: an in vitro validation study.,1
+34,4SAG92EI,Evaluation of prostheses retained zygomatic and dental implants in large defects in the maxilla due to tumors or major trauma by biomechanical 3- dimensional  finite element analysis.,3
+35,R67KEMQQ,A novel method for 3D face symmetry reference plane based on weighted Procrustes analysis algorithm.,2
+36,IHRNZSRA,Optimum design of reference points distribution in three-dimensional reconstruction of dental model in intercuspal position,4
+37,FIBFTP9V,Use of open-source software and photogrammetry in the fabrication of 3D-printed custom trays for edentulous patients: A technical guide,4
+38,HIZDAWBD,Convolutional neural network for automated tooth segmentation on intraoral scans,1
+39,CXWGAQ8R,Comparison the accuracy of a novel implant robot surgery and dynamic navigation system in dental implant surgery: an in vitro pilot study,2
+40,HVIZBRYA,Morphological changes of the root apex in anterior teeth with periapical periodontitis: an in-vivo study,1
+41,8N2YELVJ,Digital measurement method for comparing the absolute marginal discrepancy of three-unit ceramic fixed dental prostheses fabricated using conventional and digital technologies,2
+42,586DI265,Two step approach for detecting and segmenting the second mesiobuccal canal of maxillary first molars on cone beam computed tomography (CBCT) images via artificial intelligence,1
+43,6DDWSR52,CBCT-Based 3D Assessment of Maxillary Sinus and Pharyngeal Airway in Unilateral Cleft Lip and Palate,1
+44,E6VT69AR,The effect of ultrasonic tip working length on fluid dynamics in the root canal during the irrigation procedure: a computational fluid dynamics study,1
+45,CCQTZ6RH,Association between diabetes and pulp stone prevalence and morphological characteristics: a CBCT-based retrospective study,1
+46,ST9LNB5B,"Biomechanical effects of digitally constructed titanium, modified polyetheretherketone, and polyetherketoneketone subperiosteal implants on atrophied maxilla: a finite element analysis",3
+47,UUBTWEUW,Technical considerations of computer-aided planning in severe orbital trauma: A retrospective study,1
+48,HAHRMEEF,Three-dimensional finite element analysis of two-implant-supported locator overdenture in different reinforced denture base designs under four loading conditions,3
+49,34MP4QBJ,Tooth rotational control with varying attachment configurations in clear aligners under compromised periodontal ligament support: a finite element study,3
+50,7IZQ956D,Machine learning in 3D auto-filling alveolar cleft of CT images to assess the influence of alveolar bone grafting on the development of maxilla,1
+51,UQD3PPU3,Comparative biomechanics of all-on-4 and vertical implant placement in asymmetrical mandibular: a finite element study,3
+52,7HZ83PC7,Biomechanical comparison of various implant inclinations and abutment types in a bendable implant system,3
+53,FHF2C4Z8,Digital three-dimensional visualization of intrabony periodontal defects for regenerative surgical treatment planning,1
+54,SNBL5TZ6,Automated pipeline for linear and volumetric assessment of facial swelling after third molar surgery,1
+55,8BR5A4LH,Automatic restoration and reconstruction of defective tooth based on deep learning technology,4
+56,CM7FEBXL,Accuracy of implant abutment level digital impressions using stereophotogrammetry in edentulous jaws: an in vitro pilot study,2
+57,SJ9KNVQL,Accurate mandibular canal segmentation of dental CBCT using a two-stage 3D-UNet based segmentation framework,1
+58,RI7R6Y8M,Stress distribution in zirconia-reinforced glass ionomer restorations in molar incisor hypomineralization: A finite element analysis,3
+59,37PRIYQ7,Intra-oral scan segmentation using deep learning,1
+60,FS7LLKDV,Strain gauge analysis and deformation detection of maxillary denture bases reinforced by CAD/CAM milled zirconia and cobalt chromium (Co-Cr) frameworks: An in-vitro study,2
+61,SDN96I58,Biomechanical analysis of stress around the tilted implants with different cantilever lengths in all-on-4 concept,4
+62,YUI4LKWS,Biomechanical comparison of different framework materials in mandibular overdenture prosthesis supported with implants of different sizes: a finite element analysis,3
+63,IG7LMPC6,"Biomechanical behavior of titanium, cobalt-chromium, zirconia, and PEEK frameworks in implant-supported prostheses: a dynamic finite element analysis",3
+64,WANWYQUE,Case report: Fabrication of a dental implant guide based on tetrahedron positioning technology,2
+65,4RZD5BRS,Deep learning-based automatic segmentation of MRONJ lesions on CBCT images,1
+66,AGL676NH,Effect of the prosthetic index on stress distribution in Morse taper connection implant system and peri-implant bone: a 3D finite element analysis,3
+67,2QFH389T,Investigating the impact of diameters and thread designs on the Biomechanics of short implants placed in D4 bone: a 3D finite element analysis,3
+68,XYUFR7DJ,AI-powered segmentation of bifid mandibular canals using CBCT,1
+69,REL6ZPC4,Effect of segmentation techniques (manual versus semiautomatic) on the accuracy of the linear measurements driven from the reconstructed mandibular condyle using CBCT,1
+70,Y4MP5BH5,Deep semi-supervised learning for automatic segmentation of inferior alveolar nerve using a convolutional neural network,1
+71,A5TW6D8I,A case series on a new reference in mandibular angles harmonization: the Frontozygomatic-Infraorbital Line (FZ-IOL),1
+72,65D7NUJE,MaxI-Net: A 3D AI Framework for CBCT-Based Maxillofacial Defect Reconstruction and Patient-Specific Implant Generation with Biomechanical Validation.,3
+73,Y74MMKQJ,A Finite Element Analysis Study of Edentulous Model with Complete Denture to Simulate Masticatory Movement,3
+74,G9J5IXKK,Three-Dimensional Accuracy of Digitally Planned Orthodontic Tooth Movement in a Fully Customized Self-Ligating Lingual System,2
+75,2ZAM6LZB,Influence of Framework Material on Biomechanical Performance of an All-on-4 Prosthesis Supported by Bendable Monoblock Implants,3
+76,UVUEYTMM,Assessment of the Highest Stress Concentration Area Generated on the Mandibular Structure Using Meshless Finite Elements Analysis,3
+77,FQG9RPPJ,Comparison of Artificial Intelligence-Based Applications for Mandible Segmentation: From Established Platforms to In-House-Developed Software,1
+78,DDJDZ2IZ,Finite element analysis (FEA) of stress distribution in platform-switched short dental implants.,3
+79,EQW8VEQK,Biomechanical effects of inclined implant shoulder design in all-on-four treatment concept: a three-dimensional finite element analysis,3
+80,4MCRUAJM,Biomechanical comparison of different prosthetic materials and posterior implant angles in all-on-4 treatment concept by three-dimensional finite element analysis,3
+81,3DRR3UYA,Mechanical response of different frameworks for maxillary all-on-four implant-supported fixed dental prosthesis: 3D finite element analysis,3
+82,DV2DXAL4,Biomechanical Optimization of the Human Bite Using Numerical Analysis Based on the Finite Element Method,3
+83,TQG3WKJX,Three-Dimensional FEA Analysis of the Stress Distribution on Titanium and Graphene Frameworks Supported by 3 or 6-Implant Models,3
+84,3IEUJSUM,A reliable micro-CT-based method reveals dynamic changes to alveolar bone and tooth root following ligature-induced periodontal injury in the mouse,1
+85,UMFZ4A7L,"The 3D skull 0-4?years: A validated, generative, statistical shape model.",1
+86,UQR3H5EW,Different Treatment Modalities Using Dental Implants in the Posterior Maxilla: A Finite Element Analysis.,3
+87,NMYGPRBY,Carbon fiber-reinforced PEEK as a framework material for single implant-retained mandibular overdentures,3
+88,U4EFVD3N,Bioprinting on 3D Printed Titanium Scaffolds for Periodontal Ligament Regeneration,4
+89,GBU6N5KA,Three-Dimensional Finite Element Analysis of Different Connector Designs for All-Ceramic Implant-Supported Fixed Dental Prostheses.,3
+90,SCPVCH8P,Scanning Accuracy of 10 Intraoral Scanners for Single-crown and Three-unit Fixed Denture Preparations: An In Vitro Study.,2
+91,GCV6RFJL,Cadaveric Study and Micro-Computed Tomography of the Anatomy of Palatine Aponeurosis and its Link to the Soft Palate Muscles and Pharyngeal Muscles.,1
+92,SUBWE4UX,Effect of Occlusal Scheme and Bone-Level Implant Number and Position on Stress Distribution in Kennedy Class II Implant-Assisted Removable Partial Dentures: A  3D Finite Element Analysis.,4
+93,49MIXWYD,Complete Digital Workflow for Evaluation of the Three-Dimensional Monson's Sphere Using Digital Scanning.,1
+94,MQGENIRJ,Automated Orientation and Registration of Cone-Beam Computed Tomography Scans.,1
+95,W8628Y5K,"Accuracy of static computer-assisted implant placement in long span edentulous area by novice implant clinicians: A cross-sectional in vitro study comparing  fully-guided, pilot-guided, and freehand implant placement protocols.",2
+96,WUGG7RGX,Accuracy of digital and conventional implant-level impression techniques for maxillary full-arch screw-retained prosthesis: A crossover randomized trial.,2
+97,6BY72ZIY,Assessment of the application of a novel three-dimension printing individualized titanium mesh in alveolar bone augmentation: A retrospective study,1
+98,HECHH8ZW,Comparison of Different Frameworks and Implant Angulations in All-On-Four and Six Concepts: A Finite Element Analysis,3
+99,PLCSV5QB,Intra Oral Photogrammetry: Trueness Evaluation of Novel Technology for Implant Complete-Arch Digital Impression In Vitro,2
+100,4H956ZKF,“Three-in-one” patient-specific surgical guides for simultaneous dental implants in fibula flap jaw reconstruction: A prospective case series,1
+101,CWYF2FX9,Comparison of the accuracy of implant placement using different drilling systems for static computer-assisted implant surgery: A simulation-based experimental study,4
+102,AY74A6GH,Artificial intelligence and mixed reality for dental implant planning: A technical note,1
+103,84KPWKRW,Research on the dimensional accuracy of customized bone augmentation combined with 3D-printing individualized titanium mesh: A retrospective case series study,1
+104,MXRP67U6,Accuracy and safety of a haptic operated and machine vision controlled collaborative robot for dental implant placement: A?translational study.,1
+105,ECIFX957,Clinical evaluation of autonomous robotic-assisted full-arch implant surgery: A 1-year prospective clinical study.,2
+106,XFVSNR6Q,"Computer-assisted bone augmentation, implant planning and placement: An in vitro investigation",2
+107,53KUMU6R,Validation of a novel AI-based automated multimodal image registration of CBCT and intraoral scan aiding presurgical implant planning,2
+108,GAYWQD7W,/Does the geometry of scan bodies affect the alignment accuracy of computer-aided design in implant digital workflow: An in vitro study?,2
+109,YCHGF3KN,Developing a three-dimensional statistical shape model of normal dentition using an automated algorithm and normal samples,1
+110,F6T9LBCV,Automatic virtual reconstruction of maxillofacial bone defects assisted by ICP (iterative closest point) algorithm and normal people database,1
+111,IP9HNSDB,Local mechanical stresses can explain the mechanoregulation of bone healing after mandibular reconstruction: an in silico study,3
+112,KTS7Y4S6,Evaluation of mandibular changes after rapid maxillary expansion: a CBCT study in youngsters with unilateral posterior crossbite using a surface-to-surface matching technique,1
+113,4GCSCPFE,The effect of mandibular advancement on pharyngeal airway space in patients with oral squamous cell carcinoma: A monocentric prospective study with computed tomography,1
+114,MKQJRINH,Three-dimensional volumetric evaluation of dental pulp cavity/tooth ratio in anterior open bite malocclusion using cone beam computed tomography,1
+115,MXANGCGS,An open deep learning-based framework and model for tooth instance segmentation in dental CBCT,1
+116,EEF8CDJW,Multi-objective optimization for enhanced digitalization in direct 3D printing: an application in dentistry,1
+117,652AE8BH,Feasibility and accuracy assessment of AI-driven incisor restoration using 3D point cloud data,2
+118,PXTMHV7H,Comparative analysis of volumetric changes between resection volume of oral tongue cancer and post operative volume of radial forearm flaps,1
+119,2HHCZJZ3,3D model construction and biomechanical analysis of temporomandibular joint disc perforation based on arthrography,1
+120,4Z274IMC,Biomechanical behavior of implant retained prostheses in the posterior maxilla using different materials: a finite element study,3
+121,HGU9YKI5,Unilateral Condylar Hyperplasia: A Thee-Dimensional CBCT Morphometric and Volumetric Evaluation of Mandibular Condyle by Open-Source Softwares,1
+122,5I4SSN7M,Three-dimensional assessment of tongue cancer prognosis by preoperative MRI,1
+123,WV2YRJPV,Dental measurement procedure based on 3D analysis and data processing.,2
+124,8DSDLZHX,Two-piece versus single-piece patient-specific titanium subperiosteal implants in atrophied edentulous mandibles: A finite element analysis.,3
+125,HFL89TH9,A mixed reality-based navigation method for dental implant navigation method: A pilot study,3
+126,AQ7UL4F3,The influence of framework material on stress distribution in maxillary complete-arch fixed prostheses supported by four dental implants: a three-dimensional finite element analysis,3
+127,GR6A932U,Automated generation of implant-supported bar attachment system for patient-specific edentulous mandible: parametric modelling and finite element analysis,3
+128,GUATC4KK,Stress distribution on implant- supported zirconia crown of maxillary first molar: effect of oblique load on natural and antagonist tooth,3
+129,LER47S6U,How to predict the future face? A 3D methodology to forecast the aspect of patients after orthognathic surgeries,1
+130,6KRL8HF5,Influence of Implant Dimensions in the Resorbed and Bone Augmented Mandible: A Finite Element Study.,3
+131,NTBICZNM,Is There a Need to Increase Palatal Root Torque of Upper Incisors in Lingual Appliance? A Finite Element Analysis.,3
+132,6GIVN8GS,Evaluation of Strain and Insertion Torque of Mini-implants at 90° and 45° Angulations on a Bone Model using Three-Dimensional Finite Element Analysis.,3
+133,SG47UPMT,Advanced Simulation System for Orbitozygomatic Fracture Reconstruction: Multicenter Validation of a Novel Training and Objective Assessment Platform.,3
+134,G468UMA5,Training of Oral and Maxillofacial Surgery Residents in Virtual Surgical Planning: A Feasibility Study Comparing Open-Source Freeware and Commercially  Available Software for Mandibular Reconstruction with Fibula Free Flap.,1
+135,YZHWVIEG,Automatic Pulp and Teeth Three-Dimensional Modeling of Single and Multi-Rooted Teeth Based on Cone-Beam Computed Tomography Imaging: A Promising Approach With  Clinical and Therapeutic Outcomes.,1
+136,FA6QRXQN,Finite Element Analysis of Platform Switching Effects on Stress Distribution in Posterior Implants Placed in Different Bone Types Under Axial and Oblique Loading  Conditions.,3
+137,V9V4K2H2,In-House Three-Dimensional Printing in Orbital Reconstructive Surgery: A Case Report and Future Perspectives.,1
+138,WXXEPTFD,"Biomechanical Evaluation of Stress Distribution in Equicrestal and Sub-crestally Placed, Platform-Switched Morse Taper Dental Implants in D3 Bone: Finite Element  Analysis.",3
+139,X6AN57YI,Mandibular Flexure and Crestal Bone Stress Distribution on an Implant-Supported Fixed Full Arch Mandibular Prosthesis: Finite Element Analysis in Three  Dimensions.,3
+140,3TZA3JYJ,Comparative Evaluation of the Wear Rate of Reinforced Glass Ionomer Cement and Bulk-Fill Composite Using 3D Scan in Extracted Teeth and Its Association With  Clinical Wear Rate in Class I and II Restorations: A Randomized Clinical Trial.,2
+141,MEJFWDKZ,Accuracy of Complete-Arch Scans Obtained by Intraoral Scanner and Smartphone Three-Dimensional Scanning Applications With Different Smartphone Position  Setups: An In Vitro Study.,2
+142,ZZ85MX92,Effect of Different Cantilever Lengths in Polyether Ether Ketone Prosthetic Framework in All-on-Four Technique on Stress Distribution: A Three-Dimensional  (3D) Finite Element Analysis.,1
+143,W692WAXG,Accuracy Assessment of Customized Titanium Plates Compared to 3D-Printed Splints in Le Fort I Osteotomy: A Randomized Clinical Trial Evaluating Clinical and  Radiographic Outcomes.,1
+144,EYH7C2TZ,Craniofacial Soft-Tissue Anthropomorphic Database with Magnetic Resonance Imaging and Unbiased Diffeomorphic Registration,1
+145,7RLZP4A4,Proof-of-Concept Digital-Physical Workflow for Clear Aligner Manufacturing.,2
+146,N4NBSSAU,Assessing the Volume of the Head of the Mandibular Condyle Using 3T-MRI-A Preliminary Trial.,1
+147,3EX7T8DA,"Automated Support Generation for Fixed Partial Dentures and Impact of Bone Loss, Bone Quality and Support Types: Parametric Cad and Finite Element Analysis.",3
+148,KC7UPHLF,Automated Remodelling of Connectors in Fixed Partial Dentures.,3
+149,G6977KXR,Influence of Framework Material and Posterior Implant Angulation in Full-Arch All-on-4 Implant-Supported Prosthesis Stress Concentration.,3
+150,LC2F3NZR,Digital Accuracy of Closed-Tray Implant Impressions: Influence of Polyvinyl Siloxane Viscosity and Subgingival Posterior Implant Angulation.,2
+151,HTUE3J8F,A Comparison of Full Arch Trueness and Precision of Nine Intra-Oral Digital Scanners and Four Lab Digital Scanners.,2
+152,CI6MMSH5,OpenMandible: An open-source framework for highly realistic numerical modelling of lower mandible physiology.,1
+153,23Y7ND62,Assessing the physical and mechanical properties of 3D printed acrylic material for denture base application,4
+154,3GB9RL4W,The role of cortical zone level and prosthetic platform angle in dental implant mechanical response: A 3D finite element analysis,3
+155,AP4P8U75,Morphology and mechanical performance of dental crown designed by 3D-DCGAN,3
+156,Q986RNC6,Accuracy of metal 3D printed frameworks for removable partial dentures evaluated by digital superimposition,2
+157,6GSLLXSS,Evaluation of the mechanical properties and fit of 3D-printed polyetheretherketone removable partial dentures,3
+158,CJ5Q5P3J,Establishment of optimal variable elastic modulus distribution in the design of full-crown restorations by finite element analysis,3
+159,MIIDKKPB,Trueness of stereolithography ZrO2 crowns with different build directions,2
+160,QFFZ2SWF,Finite element analysis of the effect of framework materials at the bone-implant interface in the all-on-four implant system.,3
+161,KXVDKKYK,A new way of analyzing tooth movement using universal coordinate system geometry single point superposition in a 3D model.,1
+162,HDYG8L7N,Unleashing the potency of multi-segmental DCIA flap in mandibular reconstruction with the aid of virtual surgery-A retrospective cohort study,1
+163,P2RSUDHI,Machine learning assessment of dental age classification based on cone-beam CT images: a different approach.,1
+164,SYGM4R6E,Morphological variation of gubernacular tracts for permanent mandibular canines in eruption: a three-dimensional analysis,1
+165,E97IPCII,Accuracy of upper airway volume measurements using different software products: a comparative analysis,1
+166,J78F7I8I,Differentiation of radicular cysts and radicular granulomas via texture analysis of multi-slice computed tomography images,1
+167,RSDDM8EI,Development of automatic landmark identification for mandible using curvature-based registration,1
+168,YP5VIRNP,Automated tooth segmentation in magnetic resonance scans using deep learning - A pilot study,1
+169,ZMBGXJTE,Artificial intelligence-based fully automatic 3D paranasal sinus segmentation,1
+170,MLA5PE8Y,"In Vitro Evaluation of Accuracy of CBCT-Derived Volumes in Maxillary Defects: Effects of kVp, Device, and Software",1
+171,A94JIKBB,Automatic Segmentation of the Infraorbital Canal in CBCT Images: Anatomical Structure Recognition Using Artificial Intelligence,1
+172,863TCEA7,Using the Finite Element Method to Determine the Odonto-Periodontal Stress for a Patient with Angle Class II Division 1 Malocclusion,3
+173,ZE3WQLXI,Comparison Study of Extraction Accuracy of 3D Facial Anatomical Landmarks Based on Non-Rigid Registration of Face Template,1
+174,KZIYILZU,Artificial Intelligence for 3D Reconstruction from 2D Panoramic X-rays to Assess Maxillary Impacted Canines,1
+175,IPRIVZUP,Developing an Artificial Intelligence Solution to Autosegment the Edentulous Mandibular Bone for Implant Planning.,1
+176,GMQCCFR9,Developing an Artificial Intelligence Solution to Autosegment the Edentulous Maxillary Bone for Implant Planning.,1
+177,P3IE33LP,Evaluation of the Influence of Build Orientation on the Surface Roughness and Flexural Strength of 3D-Printed Denture Base Resin and Its Comparison with  CAD-CAM Milled Denture Base Resin.,3
+178,S4MRIA3P,Mechanical Response of PEKK and PEEK As Frameworks for Implant-Supported Full-Arch Fixed Dental Prosthesis: 3D Finite Element Analysis.,3
+179,3ZVZI7FS,Design of an interactive system for access cavity assessment: A novel feedback tool for preclinical endodontics,2
+180,AIZ65U9H,Integrating Digital Feedback Into Competency-Based Medical Education for Crown Preparation Skill Acquisition: A Pre-Post Study of Dental Interns in Taiwan,2
+181,KYG8D3UF,Development of a Quantitative Method to Assess Dental Students' Manual Dexterity in Tooth Cavity Preparation,2
+182,TWGZIE88,The accuracy of automated facial landmarking - a comparative study between Cliniface software and patch-based Convoluted Neural Network algorithm.,1
+183,5V4M8IQL,A 3-D Finite Element Analysis of a Single Implant Retained Overdenture Reinforced with Short Versus Long Frameworks.,3
+184,8ZIRPRCJ,Secondary Mandible Reconstruction with Computer-Assisted-Surgical Simulation and Patient-Specific Pre-Bent Plates: The Algorithm of Virtual Planning and Limitations Revisited,1
+185,8LJI9ZZH,Effect of Mandibular Advancement on Condylar Remodelling of Class II Malocclusion Adolescent Patients With or Without Anterior Disc Displacement: A Retrospective Study,2
+186,9DHRAUNV,Precision and Efficacy of Digital Technology in Orthognathic Surgery for Facial Asymmetry Correction: A Quantitative Analysis,2
+187,6WML986Q,Digital Hybrid Model Preparation for Virtual Planning of Reconstructive Dentoalveolar Surgical Procedures,1
+188,2MUY3JET,Automated reconstruction: Predictive models based on facial morphology matrices.,1
+189,64V3G83K,Three-dimensional superimposition of digital models for individual identification,2
+190,7D8C3IE9,3D imaging for dental identification: a pilot investigation of a novel segmentation method using an intra oral scanning device,2
+191,3UIJFW4V,An innovative additively manufactured implant for mandibular injuries: Design and preparation processes based on simulation model.,1
+192,PRQRZMAW,The effect of mandibular flexure on the design of implant-supported fixed restorations of different facial types under two loading conditions by three-dimensional finite element analysis,3
+193,3DULHY4P,"In-House, Open-Source 3D-Software-Based, CAD/CAM-Planned Mandibular Reconstructions in 20 Consecutive Free Fibula Flap Cases: An Explorative Cross-Sectional Study With Three-Dimensional Performance Analysis",1
+194,K7USC6AL,A Comparative Study on a Novel Fibula Malleolus Cap to Increase the Accuracy of Oncologic Jaw Reconstruction,1
+195,3KLNEKRB,Realizing in-house algorithm-driven free fibula flap set up within 24 hours: a pilot study evaluating accuracy with open-source tools,1
+196,HTRWWCZV,Virtual surgical planning for maxillary reconstruction with the scapular free flap: An evaluation of a simple cutting guide design,1
+197,R8BYGXA2,Developing an Interactive Computer Program for Integrated Dental Education.,4
+198,2N5V8KH4,Validation of three-dimensional facial imaging captured with smartphone-based photogrammetry application in comparison to stereophotogrammetry system,1
+199,3TBNKUQA,Initial implementation of surgical guide design utilizing digital medicine for lateral orbital decompression surgery,1
+200,75U924X7,Esthetic rehabilitation for a Kennedy Class IV patient using detachable 3D printing diagnostic denture and removable partial denture with polyetheretherketone framework,2
+201,ZRTG4C5T,A Framework to Enhance the Experience of CBCT Data in Real-Time Using Immersive Virtual Reality: Impacting Dental Pre-Surgical Planning,1
+202,3C3LWSIA,Automated Dental Landmarks Recognition in Special Models via Neural Network,1
+203,6L7WJ4MX,Effects of the cone-beam computed tomography protocol on the accuracy and image quality of root surface area measurements: An in vitro study.,1
+204,MH77VGXZ,Optimization of forensic identification through 3-dimensional imaging analysis of labial tooth surface using open-source software.,1
+205,6SHXRW5Z,Volumetric analysis of mucous retention cysts in the maxillary sinus: A retrospective study using cone-beam computed tomography.,1
+206,N6477A2Z,Effect of posterior span length on the trueness and precision of 3 intraoral digital scanners: A comparative 3-dimensional in vitro study.,2
+207,YFI6KQ92,Three-Dimensional Volumetric Investigation of Onodi Cells: A Multi-Slice Computed Tomography Study.,1
+208,ILAFRFCN,Segmentation of Cemento-Osseous Dysplasias Using an Artificial Intelligence Algorithm,1
+209,4D8XQVXT,Occlusal Analysis of Algorithm-designed Restoration Using Different Virtual Articulator Parameters: A Preliminary Study,4
+210,APVNWPAS,Comparing the accuracy and treatment time of a robotic and dynamic navigation system in osteotomy and root-end resection: An in vitro study,2
+211,DVQKTI8D,Practitioners' Perceptions of Augmented and Virtual Reality in Endodontic Treatment Planning: A Pilot Study,1
+212,8TB2V9T8,Virtual reconstruction of orbital defects using Gaussian process morphable models.,1
+213,V89XCKDS,Augmented reality navigation with real-time tracking for facial repair surgery.,1
+214,GVHB8NVU,Contactless surface registration of featureless anatomy using structured light camera: application to fibula navigation in mandible reconstruction.,1
+215,PEQ6GY9D,Fibular registration using surface matching in navigation-guided osteotomies: a proof of concept study on 3D-printed models.,1
+216,PRJIHEU3,Reconstruction of dental roots for implant planning purposes: a feasibility study,1
+217,NYZNSSTW,Computer-aided design and fabrication of nasal prostheses: a semi-automated algorithm using statistical shape modeling,4
+218,9NDT7NR8,Development of a maxillofacial virtual surgical system based on biomechanical parameters of facial soft tissue,1
+219,8FWPXUE2,Depth-based registration of 3D preoperative models to intraoperative patient anatomy using the HoloLens 2,2
+220,TGY9GAAH,Accuracy of imaging software usable in clinical settings for 3D rendering of tooth structures.,1
+221,XMP5NQCB,Designing an occlusal appliance digital protocol using an open-source 3D modeling software program: a technical report.,4
+222,WYM2M69G,First steps of a digital workflow to build up a virtual articulator using open-source Autodesk Meshmixer software,4
+223,4NP6UKJF,Accuracy of intraoral scanners in the cleft anatomy of neonates,2
+224,QQZNUG9U,3D printing in endodontics: report of three clinical cases with innovative approaches,1
+225,HQTBY7E3,Establishment and evaluation of a 3D quantitative analysis method for dental plaque based on an intraoral scanner technique,1
+226,LUDVB4UY,Three-Dimensional Comparison of the Maxillary Surfaces through ICP-Type Algorithm: Accuracy Evaluation of CAD/CAM Technologies in Orthognathic Surgery.,2
+227,43K9BQWT,Impacts of Thresholds of Gray Value for Cone-Beam Computed Tomography 3D Reconstruction on the Accuracy of Image Matching with Optical Scan,2
+228,RXAH2VQD,Marker-free registration for intraoperative navigation using the transverse palatal rugae,2
+229,6B57AE6C,The development of computer-aided patient-specific template design software for 3D printing in cranio-maxillofacial surgery,1
+230,S299EA4M,Automated calculation of ontology-based planning proposals: An application in reconstructive oral and maxillofacial surgery,1
+231,EUTQFE9J,A Systematic Study of Restorative Crown-Materials Combinations for Dental Implants: Characterization of Mechanical Properties under Dynamic Loads,3
+232,2TIWQGZY,Mandibular bone remodeling around osseointegrated functionally graded biomaterial implant using three dimensional finite element model,3
+233,BYIE23L8,Biomechanical behavior of temporomandibular joint movements driven by mastication muscles,3
+234,VLH4HX4X,Three-Dimensional Evaluation of the Accuracy of Zygomatic Implant Placement Through an In-House Fully Guided Approach.,4
+235,CZB4EPYR,Influence of Different Fabrication Techniques on the Accuracy of Radiographic Scan Templates in Cases of Full-Arch Computer-Guided Implant Placement: An In Vitro Study,2
+236,EW7489ZA,"Virtual Implant Planning and Surgical Guide for Single Implant Placement Fabricated from a Digital Diagnostic Cast, 2D Radiographic Imaging, and an Open-Source Program: A Dental Technique",1
+237,5VMVSI6N,"Comparison of Stress Distribution Among Standard Dental Implants Placed in Grafted Bone, Zygomatic Implants, and Subperiosteal Implants in the Atrophic Edentulous Maxilla: 3D Finite Element Analysis",3
+238,K9F3VXCV,Precise maxillectomy reconstruction with a scapula flap using novel in-house 3D-printed surgical guides.,1
+239,2TTJ5J6D,New method for analysing spatial relationships of facial muscles on MRI: a pilot study,1
+240,L3AXKYYL,Registration of magnetic resonance and computed tomography images in patients with oral squamous cell carcinoma for three-dimensional virtual planning of mandibular resection and reconstruction,2
+241,TCEB4QZU,An innovative AI-based dual segmentation application for head surgery,1
+242,7GRJAY7C,Computer-assisted surgery with markerless augmented reality for the surgical removal of mandibular odontogenic cysts: report of two clinical cases,1
+243,CA3MCA2T,Soft tissue-based registration of intraoral scan with cone beam computed tomography scan,2
+244,VF5QRJ45,Three-dimensional evaluation of tooth preparation forms in paediatric zirconia crowns: An in vitro study,1
+245,QQ6NHWZM,Regenerative Orthodontics: GBR and Corticotomy to Stretch the Limits of Orthodontic Treatment,2
+246,3L3AZP53,"WEAR, FATIGUE, AND FRACTURE RESISTANCE OF DIFFERENT MONOLITHIC CAD/CAM ONLAYS AS ABUTMENTS FOR ACETAL RESIN OR COBALT-CHROMIUM REMOVABLE PARTIAL DENTURE  FRAMEWORKS.",3
+247,ZBFWEZCA,Digital Gothic Arch Tracing Device with Open- Source Software for CAD/CAM Denture Fabrication.,4
+248,PNUIRE9F,Effect of Using Cheek Retractors on Patient Satisfaction and Trueness of Peripheral Borders in Maxillary Digital Scans for Totally Edentulous Patients: An  In Vivo Study.,2
+249,5RKTEJM6,"Evaluation of Surface Characteristics, Accuracy, and Dimensional Stability of Tooth Preparation Dies Fabricated by Conventional Gypsum and 3D-Printed  Workflows.",2
+250,Z5PYCCYC,Accuracy of Digital Impressions Obtained Using Six Intraoral Scanners in Partially Edentulous Dentitions and the Effect of Scanning Sequence,2
+251,LRXPJYLH,Accuracy of Four Different Intraoral Scanners According to Different Preparation Geometries,2
+252,RIBUBPAA,Investigation of Stress Distribution Between Two Different Implant Concepts in Implant-Supported Maxillary Prostheses with Different Framework Materials: A Finite Element Study,3
+253,QJDV5PK4,Biomechanical Performance of PEEK and Graphene-Modified PMMA as Telescopic Removable Partial Denture Materials: A Nonlinear 3D Finite Element Analysis,3
+254,Q68ZEUCG,Voxel-based superimposition of Cone Beam CT scans for orthodontic and craniofacial follow-up: Overview and clinical implementation.,2
+255,AJW3ZDYY,Mandibular asymmetry retreatment with minimal presurgical orthodontic preparation and fully customized lingual orthodontics: A case report with new possibilities  using blender open-source software.,1
+256,SILBC2M4,A study on the association between the inferior nasal turbinate volume and the maxillary sinus mucosal lining using cone beam tomography,1
+257,XG3GHLVR,Enhancing skeletal stability and Class III correction through active orthodontist engagement in virtual surgical planning: A voxel-based 3-dimensional analysis,2
+258,EQ8LE4IL,Computer-aided design and fabrication of statistically shaped nasal prostheses: A feasibility study,1
+259,IDQSDLWM,Finite-Element Analysis of the Effect of Utilizing Various Material Assemblies in “All on Four” on the Stresses on Mandible Bone and Prosthetic Parts,3
+260,IUL8I974,Effect of internal structures on the accuracy of 3D printed full-arch dentition preparation models in different printing systems,2
+261,T5FJEIPG,BounTI (boundary-preserving threshold iteration): A user-friendly tool for automatic hard tissue segmentation.,1
+262,VK8QS8J5,A mathematical algorithm of the facial symmetry plane: Application to mandibular deformity 3D facial data,1
+263,MAV6QNXN,In Silico Mechanical Effort Analysis of the All-On-4 Design Performed With Platform-Switching Distal Short Dental Implants,3
+264,LK5R8TKE,The all-on-4 concept in the maxilla-A biomechanical analysis involving high performance polymers.,3
+265,KFMHNQAV,In-House 3D Printed Positioning and Cutting Guide System for Mandibular Reconstruction. Protocol and case report.,1
+266,IRINA65L,Interdisciplinary innovative approach to an aggressive ossifying fibroma case: Integrating 3D surgery and customized reconstruction in maxillofacial and dental  care.,1
+267,AQ37V5WT,Assessment of the stresses produced on the bone implant/tissue interface to the different insertion angulations of the implant - a three-dimensional analysis by  the finite elements method.,3
+268,T43PJP5P,"A Complete Digital Workflow for Planning, Simulation, and Evaluation in Orthognathic Surgery",1
+269,ED4NLMLY,Restoring Mandibular Anatomy After Complex Trauma: Clinical Applications of a Statistical Shape Model,1
+270,ZFEP26RP,A User-Friendly Protocol for Mandibular Segmentation of CBCT Images for Superimposition and Internal Structure Analysis,1
+271,NXZDYPC2,A Reproducible 3D Classification of Orbital Morphology Derived from CBCT and FBCT Segmentation,1
+272,9MVRH769,Digitization of Dentate and Edentulous Maxillectomy and Mandibulectomy Defects with Three Different Intraoral Scanners: A Comparative In Vitro Study,2
+273,7D3DPPH4,"Influence of Preparation Design, Marginal Gingiva Location, and Tooth Morphology on the Accuracy of Digital Impressions for Full-Crown Restorations: An In Vitro Investigation",2
+274,9MP86R5J,No Significant Bone Resorption after Open Treatment of Mandibular Condylar Head Fractures in the Medium-Term,1
+275,XRXG22EC,Correlation Analysis of Nasal Septum Deviation and Results of AI-Driven Automated 3D Cephalometric Analysis,1
+276,EN8V4LGH,Accurate Bracket Placement with an Indirect Bonding Method Using Digitally Designed Transfer Models Printed in Different Orientations-An In Vitro Study,2
+277,7N57MWGV,Automatic Segmentation of the Nasolacrimal Canal: Application of the nnU-Net v2 Model in CBCT Imaging,1
+278,L5U9ITAK,Early Placement of Patient-Specific One-Piece Drill-Free Fully Digital Designed Dental Implants: A Feasibility Study,4
+279,WYDE6M86,A 3-D Finite Element Analysis of Stress Distribution on Implant-supported Fixed Prosthesis with Four Different Commercially Available Implant Systems.,3
+280,L8M7M2BX,Endodontic Treatment of a Molar with Peculiar Anatomy: Case Study with CBCT and 3D Printed Model.,1
+281,5TGPGAFM,Comparative Evaluation of Stress Distribution around Various Threaded Implants with and without Platform Switch: A 3-D Finite Element Analysis.,3
+282,Z2SBK7IA,Patient-Specific Implant Customization for Treatment of Internal Orbital Fractures Using Office-Based Three-Dimensional Printing.,1
+283,2TJBVIZP,Using 3D Printing and Mirror Image Modeling in Orbital Floor Reconstruction.,1
+284,2AL8ZQJG,Using a New Deep Learning Method for 3D Cephalometry in Patients With Cleft Lip and Palate.,1
+285,VPLLGW2S,Volumetric and Morphological Analysis of Mandibular Condyles of Angle Class 2 and 3 Malocclusion Patients,1
+286,9HL5KCJ3,Fully Digital Workflow for an Immediate Implant-Retained Prosthesis Following Maxillectomy Resection Surgery,1
+287,5SW9J4UC,Biomechanical Behavior of Different Distributions of Zygoma and Pterygoid Implants in Rehabilitation of Severely Atrophic Posterior Maxilla: A 3D Finite Element Analysis,3
+288,SW2VBSEU,Facial asymmetry in syndromic craniosynostosis patients undergoing midface surgery compared to a large general population.,1
+289,K7WRBECT,Postoperative assessment of forehead contouring in facial feminization surgery,4
+290,VPIYMEQ5,A portable mixed reality navigation system for oral and maxillofacial surgery: Design and preliminary clinical evaluation,1
+291,46CXKFWE,AI-assisted Software Development in Digital Dentistry: A Technical Innovation Report with Three Open-Source Applications.,2
+292,UI48XFYD,A comparative analysis of soft tissue volumetric alterations utilizing root mean square and positive and negative average calculations through two software.,1
+293,TQZ3FUDA,Automated orofacial virtual patient creation: A proof of concept.,1
+294,Y6BWB87N,Accuracy of a Novel Semi-Autonomous Robotic-Assisted Surgery System for Single Implant Placement: a Case Series.,2
+295,E39JLY9S,Effect of the number and distribution of fiducial markers on the accuracy of robot-guided implant surgery in edentulous mandibular arches: An in vitro study.,1
+296,XK8P9LMU,Application of the virtual-fit method for fixed complete denture cases designed on intraoral scans: Effect of cement spacing.,2
+297,8KHY7GJA,Accuracy of single implant scans with a combined healing abutment-scan body system and different intraoral scanners: An in vitro study.,2
+298,RX5BZKF9,Facial scanning accuracy depending on the alignment algorithm and digitized surface area location: An in vitro study.,2
+299,7TRUUDTS,Accuracy of conventional impressions and digital scans for implant-supported fixed prostheses in maxillary free-ended partial edentulism: An in vitro study.,2
+300,AN569QGJ,Effect of auxiliary geometric devices on the accuracy of intraoral scans in full-arch implant-supported rehabilitations: An in vitro study.,2
+301,JR957DQR,Chairside virtual patient protocol. Part 1: Free vs Guided face scan protocol.,2
+302,45ZDRSPX,Feasibility and accuracy of a partial point cloud registration method for transoral robot-assisted surgery of zygoma fracture: A phantom study,2
+303,DXKTSK7K,Artificial intelligence and augmented reality for guided implant surgery planning: A proof of concept,1
+304,JCMKQXDT,"Comparison of the accuracy of static and dynamic computer-assisted implant surgery in extraction sockets, encased healed sites, and distal extension: an in vitro study",2
+305,B88UY5CW,Retentive design of a small surgical guide for implant surgery: An in-vitro study,2
+306,KI9W5W7K,Segmentation of the upper airway using deep learning - nnUNet,1
+307,YCC6S4PK,"An alternative approach to code, store, and regenerate 3D data in dental medicine using open-source software: A scripting-based technique",2
+308,AXSX89GF,DentalSegmentator: Robust open source deep learning-based CT and CBCT image segmentation,1
+309,ITMJC47T,Influence of three coded healing abutment design on intraoral scan accuracy: a comparative in vitro study,2
+310,4BWKTZSG,Explainable artificial intelligence to quantify adenoid hypertrophy-related upper airway obstruction using 3D Shape Analysis,1
+311,VY5CRRHN,Accuracy of dental implant placement using static versus dynamic computer-assisted implant surgery: An in vitro study,4
+312,SE34LAZ9,Risk assessment of inferior alveolar nerve injury after wisdom tooth removal using 3D AI-driven models: A within-patient study,1
+313,LEAIKBNU,Effect of triangular mesh resolution on the geometrical trueness of segmented CBCT maxillofacial data into STL format,4
+314,7CLZIHKA,Complete arch implant capture using a photogrammetry algorithm and smartphone app: An in vitro study,4
+315,KTMFTBUV,Chairside virtual patient protocol. Part 3: In vitro accuracy of a digital facebow,4
+316,2FFUFDEY,Adaptation of maxillary removable partial denture frameworks fabricated with a direct digital workflow: A randomized crossover clinical trial,2
+317,V2HXN7RX,Influence of the dental arch and number of cutting-off and rescanning mesh holes on the accuracy of implant scans in partially edentulous situations,2
+318,RFBGE32H,Enhancing dental education with a 3D point cloud comparison and augmented reality for auto-evaluation of fixed prosthodontic practice: An in vitro study,2
+319,WCEUBWKT,Accuracy of single-implant digital impression with various scanbody exposure levels at anterior and posterior regions,2
+320,A9DPU6MJ,Layered deep learning for automatic mandibular segmentation in cone-beam computed tomography,1
+321,28GE8FQS,A straightforward protocol for designing an interim hollow shell with open-source software,4
+322,4UA3PSB8,"A 3D in vitro model of biphasic calcium phosphate (BCP) scaffold combined with human osteoblasts, osteoclasts, and endothelial cells as a platform to mimic the oral microenvironment for tissue regeneration",4
+323,ZQUSKV8U,Trueness of artificial intelligence-driven CBCT tooth segmentation: A comparative validation ex vivo pilot study,1
+324,3DSGGH64,Augmented Reality of Anatomical Structures of the Maxillomandibular Complex for Learning Dental Radiographic Techniques,4
+325,X97T8NRA,Intelligent Virtual Dental Implant Placement via 3D Segmentation Strategy,1
+326,KCI2D4H9,Effect of three different veneering techniques on the stress distribution and in vitro fatigue behavior of core-veneer all-ceramic fixed partial dentures.,3
+327,4WXYA3TN,Evaluation of stress distribution in and around dental implants using three different implant-abutment interfaces with platform-switched and  non-platform-switched abutments: A three-dimensional finite element analysis.,3
+328,AGK8CVHH,Virtual 3D tooth creation for personized haptic simulation training in access cavity preparation.,4
+329,UWH984BZ,The influence of pontic distribution on the marginal and internal gaps of CAD/CAM five-unit anterior zirconia framework.,4
+330,MY7LE3CF,Prediction of the bone volume for sinus augmentation through 3-dimensional analysis,1
+331,6CWVAMF6,Comparison of precision of implant placement between two different guided systems for static computer-assisted implant surgery: A simulation-based experimental study,4
+332,LC73M2WP,Automated Detection of Middle Mesial Canals in Mandibular Molars on CBCT using nnU-Net: A Retrospective Diagnostic Accuracy Study.,1
+333,MNH8ZML7,A Novel Approach to Repositioning and Stabilization of a Luxated Tooth With Displacement Using a 3D Printed Guide,1
+334,JRKEL5DC,Accuracy and Efficiency of Endodontic Microsurgery Assisted by Dynamic Navigation Based on Two Different Registration Methods: An In Vitro Study,1
+335,ZGJZZYG7,Application of Real-time Augmented Reality-guided Osteotomy and Apex Location in Endodontic Microsurgery: A Surgical Simulation Study Based on 3D-printed Alveolar Bone Model,1
+336,T7FYF6BP,3D superimposition of human dentition contours in personal identification: A preliminary study,1
+337,4S9PAY5N,Biomechanical effect of implant design on four implants supporting mandibular full-arch fixed dentures: In vitro test and finite element analysis,3
+338,ZAXSXJM9,Preclinical evaluation of a 3D-printed hydroxyapatite/poly(lactic-co-glycolic acid) scaffold for ridge augmentation,4
+339,QBWG7CKJ,The Integration of Micro-CT Imaging and Finite Element Simulations for Modelling Tooth-Inlay Systems for Mechanical Stress Analysis: A Preliminary Study,3
+340,QAMHCCD9,A Slicer-Independent Framework for Measuring G-Code Accuracy in Medical 3D Printing.,2
+341,Q36P232F,Development of Semi-Automatic Dental Image Segmentation Workflows with Root Canal Recognition for Faster Ground Tooth Acquisition.,1
+342,Y3QGEHSC,AI-Generated vs. Traditional STL Models in CBCT Imaging: A Pilot Study on Measurements Accuracy and Reliability,1
+343,3IABES8D,"Comparative evaluation to study the effect of implant support on complete fixed dental prosthesis fabricated with peek framework when implants placed in all-on-4  and all-on-6 situation, by strain gauge analysis and finite element analysis - An  in vitro study.",3
+344,EU82CKXQ,Analysis of micromovements and peri-implant stresses and strains around ultra-short implants - A three-dimensional finite-element method study.,3
+345,RSUECYHG,Effect of Different Restorative Materials on Stress Distribution around Dental Implants.,3
+346,IM5S2DUC,Finite Element Analysis: Connector Designs and Pontic Stress Distribution of Fixed Partial Denture Implant-Supported Metal Framework.,3
+347,2YGJ6PCB,Evaluation of Stress in the Maxillary Complex of a Unilateral Cleft Lip and Palate on Simulated Occlusal Loading Using Finite Element Analysis.,3
+348,BBZVVUEG,Stress distribution and axial force under different filing parameters during root canal preparation: An in vitro FEA and experimental study.,3
+349,G2CIWA2W,Biomechanical simulation of segmented intrusion of a mandibular canine using Robot Orthodontic Measurement & Simulation System (ROSS),3
+350,7S2EB8EK,Comparison between experimental digital image processing and numerical methods for stress analysis in dental implants with different restorative materials,3
+351,R4F9LK9P,Influence of Scanner Precision and Analysis Software in Quantifying Three-Dimensional Intraoral Changes: Two-Factor Factorial Experimental Design,1
+352,SQ3JDDN7,PowerScope 2 functional appliance: A 3D finite element simulation of its action on the mandible.,3
+353,ZF8KYU3K,Stress distribution in endodontically treated external cervical resorption lesions restored with MTA and biodentine - A finite element analysis.,3
+354,J277RC4P,Effect of Different Implant-Abutment Mismatches on Stress Distribution: A 3-Dimensional Finite Element Study,3
+355,M78JJLDC,Patient-Specific SubperiostealTitanium Implant for Maxillary Reconstruction Following Oncologic Resection: A One-Year Follow-Up Case Report,4
+356,R3X7T5XC,Fixation Pins Increase the Accuracy of Implant Surgery in Free-End Models: An In Vitro Study,2
+357,9KI3DYAU,Virtually-Planned Orthognathic Surgery Achieves an Accurate Condylar Position,1
+358,WY7HU9GF,CAD-CAM for removable partial denture fabrication after marginal mandibulectomy based on a well-adjusted pre-existing denture.,4
+359,ESG5XPH2,Three-dimensional evaluation of maxillary second molar position in untreated patients with normal occlusion,1
+360,ZV568RJY,A Novel Digital Technique for Measuring the Accuracy of an Indirect Bonding Technique Using Fixed Buccal Multibracket Appliances,2
+361,36T3IZ5W,Accuracy of Three-Dimensional Soft-Tissue Prediction Considering the Facial Aesthetic Units Using a Virtual Planning System in Orthognathic Surgery,1
+362,C465U7B6,Computer-aided design and 3D fabrication of a segmented silicone obturator-RPD prosthesis for rehabilitating maxillary defects.,4
+363,RDSAFSUS,Creating a digital duplicate denture file using a desktop scanner and an open-source software program: A dental technique.,1
+364,EW2C8XGG,Accuracy of impressions for multiple implants: A comparative study of digital and conventional techniques.,2
+365,SHU8ZH2B,Fully digital workflow for duplicating clasp-retained removable partial dentures using three-dimensional printing: A clinical report.,4
+366,26W6AMTX,Three-dimensional macroscopical quantification of plaque accumulation on implant-supported fixed complete dental prostheses surfaces: A methodological  pilot study.,1
+367,JVZTWR93,Scanning accuracy of nondental structured light extraoral scanners compared with that of a dental-specific scanner.,2
+368,R7GEJ225,Effect of scan body designs and internal conical angles on the 3-dimensional accuracy of implant digital scans.,2
+369,G3EFXBN7,Does partial adhesive preparation design and finish line depth influence trueness and precision of intraoral scanners?,2
+370,Q7HRL8QA,Effect of splinting scan bodies on the trueness of complete arch digital implant scans with 5 different intraoral scanners.,2
+371,9SDX4TPK,Accuracy of scanning using photogrammetry and reverse scan for complete arch implant-supported prostheses: An in vitro comparative study.,2
+372,LRABR3D6,Accuracy evaluation of dual-function scan body for recording complete arch implant-supported prostheses.,2
+373,5WZYNINZ,Surgical guides for flapless dental implant placement and immediate definitive prosthesis installation by using selective laser melting and sintering for 3D metal and polymer printing: A clinical report,1
+374,RVS3GX4D,Dental biomechanics of root-analog implants in different bone,3
+375,9Q6DIK59,Design and fabrication of an interim fi xed restoration with an open-source nondental CAD software program and additive manufacturing: A technical report,4
+376,F54P2T5S,Designing a complete-arch digital trial tooth arrangement for completely edentulous patients by using an open-source CAD software program: A dental technique,1
+377,SA3TBA8Z,Accelerated denture base festooning using a free 3D modeling computer program: A dental technique,4
+378,SV83KBN8,Micro-CT analysis of marginal and internal fit of milled and pressed polyetheretherketone single crowns,4
+379,ULYRP2VM,Topology design and structural optimization of Co-Cr frameworks for implant-supported prostheses,4
+380,TVXA8RF7,Fit of removable partial denture frameworks fabricated from 3D printed patterns versus the conventional method: An in vitro comparison,2
+381,I2CX599X,Evaluation of two printing techniques for maxillary removable partial denture frameworks,2
+382,E7QLY3AY,Complete arch digital implant scan accuracy with screw-retained or snap-on scan bodies: A comparative in vitro study,2
+383,I5J9AXNU,Comparing the trueness of 3D printing and conventional casting for the fabrication of removable partial denture metal frameworks for patients with different palatal vault depths: An in vitro study,2
+384,4FC2X3LJ,Trueness of removable partial denture frameworks additively manufactured with selective laser melting,2
+385,8T69IZN7,An open-source multifunctional registration device for implant-supported complete dentures,4
+386,MIEBLJ9Y,Accuracy (trueness and precision) of a dual-structured light facial scanner and interexaminer reliability,4
+387,IHJP7YG5,"Comparison of 3D changes of 3Y, 4Y, and 5Y zirconia single crowns under different sintering protocols",2
+388,5ETNVR26,Adaptation of cobalt chromium frameworks fabricated by conventional versus selective laser melting techniques: An in vitro and clinical assessment,2
+389,DQD774W7,Three-dimensional in vivo and finite element analyses of peri-implant bone remodeling after superstructure placement,3
+390,T3M3ZIE9,Influence of abutment types on the success of two-unit implant-supported fixed dental prostheses: A three-dimensional finite element analysis and fatigue test combined with microleakage evaluation,3
+391,J4KXNK2R,An integrated hollow bulb obturator prosthesis with a metal framework for a soft palate defect fabricated by multiple digital techniques,2
+392,2KUMDHYG,Use of intraoral scan for implant-supported dental prosthesis to design and fabricate a CAD -CAM veri fi cation device: A dental technique,4
+393,HHBRBZMJ,Clinical evaluation of the precision of interocclusal registration by using digital and conventional techniques,2
+394,VIMM38A6,Verification of a digital approach for three-dimensional evaluation of marginal and internal fit,2
+395,J2RIBVBJ,"Accuracy of registration between digitized extraoral scan bodies and virtual casts: Effect of the edentulous area, tooth anatomy, and registration method",2
+396,TTKVIR7E,Time efficiency and precision of splinted complete arch implant scanning,2
+397,JJVILXDI,Creating a 3D diagnostic cast with realistic tooth shade and translucency using an open source nondental CAD software program: A dental technique,4
+398,PQUU6GDK,Jaw motion tracking with open-source tools: A dental technique,1
+399,A89XJPGS,Effect of the CBCT data segmentation threshold on registration accuracy with surface scanning,2
+400,9CLL4MDW,Accuracy of Implant Placement Position Using Nondental Open-Source Software: An In Vitro Study.,2
+401,749LIY2T,Effect of Scanner Type and Scan Body Location on the Accuracy of Mandibular Complete-Arch Digital Implant Scans: An In Vitro Study.,2
+402,VQI8ZHBV,Best-Fit Algorithm Influences on Virtual Casts' Alignment Discrepancies.,2
+403,7DUXHX7E,Digital Workflow for Establishing the Posterior Palatal Seal on a Digital Complete Denture,4
+404,KL5WKS3T,An In Vitro Evaluation of the Effect of 3D Printing Orientation on the Accuracy of Implant Surgical Templates Fabricated By Desktop Printer,4
+405,TD2LKENZ,Effect of customized abutment taper configuration on bone remodeling and peri-implant tissue around implant-supported single crown: A 3D nonlinear finite element study,3
+406,4JY485Q3,Biomechanical evaluation of customized root implants in alveolar bone: A comparative study with traditional implants and natural teeth,3
+407,SXDKKLNE,Implant-Abutment Discrepancy Before and After Acrylic Resin Veneering of Complete-Arch Titanium Frameworks Manufactured Using Milling and Electron Beam Melting Technologies,2
+408,4HEU9QFR,Comparison of denture base adaptation between additive and conventional fabrication techniques,4
+409,6EAY9ZAU,Accuracy of Digital Impressions at Varying Implant Depths: An In Vitro Study,2
+410,TMBZ6YS8,Accuracy of Guided Implant Surgery in 25 Edentulous Arches: A Laboratory Observational Study,2
+411,YSRNRCZ9,Influence of Liquid on the Tooth Surface on the Accuracy of Intraoral Scanners: An In Vitro Study,2
+412,Y2LB4NXX,Digital Duplication and 3D Printing for Implant Overdenture Fabrication,4
+413,EGCD2BWK,"Biomechanical Analysis of Different Framework Design, Framework Material and Bone Density in the Edentulous Mandible With Fixed Implant-Supported Prostheses: A Three-Dimensional Finite Element Study",3
+414,ARJBG6C9,Effect of different digital technology on the adaptation and retention of Co-Cr partial denture frameworks,2
+415,PJ6EWCT2,Effect of Internal Design Modification on the Mechanical Properties of Laser Sintered Cobalt-Chromium Multi-Unit Metal-Ceramic Frameworks,4
+416,CMS4H94J,Flexural properties and fatigue limit of 3D-printed and milled resin-based materials,4
+417,4X7L73PH,The influence of metal artifact reduction on the trueness of registration of a cone-beam computed tomography scan with an intraoral scan in the presence of severe restoration artifact,2
+418,NGPJEDGB,Optimization of Prosthodontic Computer-Aided Designed Models: A Virtual Evaluation of Mesh Quality Reduction Using Open Source Software,4
+419,G36GDPM2,3D Surface Deviation Wear Analysis of Veneered PEEK Crowns and Its Correlation with Optical Digital Profilometry,2
+420,TR23898V,"Geometric assessment of imaging methods for complete denture form: Comparisons among cone-beam computed tomography, desktop dental scanning, and handheld  optical scanning.",2
+421,HZ9GBDTR,Surgical guides for dental implants: Measurement of the accuracy using a freeware metrology software program.,2
+422,EP3KFPLS,Measured accuracy of intraoral scanners is highly dependent on methodical factors.,2
+423,FT2R69U5,Accuracy evaluation of complete-arch models manufactured by three different 3D printing technologies: a three-dimensional analysis,2
+424,2CXB78BF,Influence of molding angle on the trueness and defects of removable partial denture frameworks fabricated by selective laser melting,2
+425,BN7QDGCL,Influence of reinforcement bar on accuracy of removable partial denture framework fabricated by casting with a 3D-printed pattern and selective laser sintering,2
+426,9Z3DYF9Y,Effect of implant placement depth on bone remodeling on implant-supported single zirconia abutment crown: A 3D finite element study,3
+427,X9PHNC4E,Protocol for obtaining a digital and physical three-dimensional color map of the skull based on the Hounsfield scale using open-source and free software.,1
+428,X2XYASLM,"Biomechanical evaluation of All-on-4, M-4, V-4, and zygomatic implant concepts in the rehabilitation of the atrophic maxilla: a finite element analysis.",3
+429,G4EY4CPT,Evaluation of ortogonblender software bone movement tools in bimaxillary orthognatic surgeries performed in dolphin software,2
+430,JBLBAXQD,Dynamic finite element analysis of stress distribution in edentulous fixed restorations: Effects of different implant configurations and framework materials,3
+431,FB4XISL2,Machine learning-assisted diagnosis of parotid tumor by using contrast-enhanced CT imaging features,1
+432,RS26NFUB,Volumetric measurement of manually drawn segmentations in cone beam computed tomography images of newly formed bone after sinus floor augmentation with bovine-derived bone substitutes,1
+433,F4LRK4QN,"Development and biomechanical evaluation of subject-specific, anatomically complete 3D finite element models of the temporomandibular joint using the four-finger mouth-opening test",3
+434,66ZG9X74,Changes of Airway Space and Flow in Patients Treated with Rapid Palatal Expander (RPE): An Observational Pilot Study with Comparison with Non-Treated Patients,1
+435,VRFC6566,Advantages of a Training Course for Surgical Planning in Virtual Reality for Oral and Maxillofacial Surgery: Crossover Study,1
+436,IAAA5PCM,Efficacy of a Virtual 3D Simulation-Based Digital Training Module for Building Dental Technology Students' LongTerm Competency in Removable Partial Denture Design: Prospective Cohort Study,4
+437,EVIJIMCA,Comparison of dimensional accuracy between direct-printed and thermoformed aligners,2
+438,CMTY5QG7,"Comparative Error Analysis of 3D-Modeling, -Printing and - Scanning Methods Used in Orthodontics",2
+439,B5653MJF,Stress analysis and risk of failure during clenching in ceramic assembly models: 3-dimensional finite element analysis,3
+440,27WN5KMX,Novel three-dimensional methods to analyze the morphology of the nasal cavity and pharyngeal airway,1
+441,2JKFABNV,"Feasibility, trueness and precision of intraoral scanners in digitizing maxillectomy defects with exposed zygomatic implants in situ: An in vitro 3D comparative study",2
+442,RTDGZ4YL,Effects of Periodontal Splints on Biomechanical Behaviors in Compromised Periodontal Tissues and Cement Layer: 3D Finite Element Analysis,3
+443,Y7RSNUSR,Comparison between digital superimposition and microcomputed tomography methods of fit assessment of removable partial denture frameworks,2
+444,R3L4M4DQ,Biomechanical effects of different materials for an occlusal device on implant-supported rehabilitation in a tooth clenching situation. A 3D finite element analysis,3
+445,J3WWB7A4,Effect of artificial aging and different surface finishing protocols on the flexural strength and surface hardness of a photopolymer for manufacturing monolithic polychromatic complete dentures using PolyJet 3D printing,4
+446,DVMCH739,An End-to-End Deep Learning Pipeline for Automated Mandible Virtual Surgical Planning Using Real-World Clinical Data,1
+447,KLUTS8EC,CBCT analysis of mandibular position and bilateral symmetry in adult female patients with a deep overbite before and after flat bite plate treatment: a retrospective study,1
+448,4LLWL53K,Intraoral volume changes in relation to the hard tissue shape changes in asymmetric patients before and after orthognathic surgery- A retrospective CT study,1
+449,5KJ9ZCAV,The precision of gingival recession measurements is increased by an automated curvature analysis method,1
+450,VCEI47L3,Finite Element Analysis of Novaloc Attachments at Extreme Angulations and Arch Forms: A Specification Study,3
+451,7PML7Y2A,Fabrication of Customized dental guide by stereolithography method and evaluation of dimensional accuracy with artificial neural networks,2
+452,4WWZ78KQ,Stress Distribution Pattern in Zygomatic Implants Supporting Different Superstructure Materials,3
+453,EEUPFIYZ,Biomechanical Comparison of Asymmetric Implant Configurations for All-on-Four Treatment Using Three-Dimensional Finite Element Analysis,3
+454,A4YJJ2FI,Unveiling Software Limitations in the Assessment of the Minimum Sectional Area and Volume in Cleft LIP and Palate Patients,1
+455,IIAXIP3S,Stress Distribution on Various Implant-Retained Bar Overdentures,3
+456,WA5FYPIY,Accuracy of Mandibular Removable Partial Denture Frameworks Fabricated by 3D Printing and Conventional Techniques,2
+457,BDYVLJ3U,Dimensional Accuracy of Different Three-Dimensional Printing Models as a Function of Varying the Printing Parameters,4
+458,GXJQYRBP,Optimization of Digital Light Processing Three-Dimensional Printing of the Removable Partial Denture Frameworks; The Role of Build Angle and Support Structure Diameter,2
+459,MRYJYM5I,Comparison of Implant Surgery Methods of Cortical Tapping and Cortical Widening in Bone of Various Density: A Three-Dimensional Finite Element Study,3
+460,ZKA8VNG5,Biomechanical Behavior of Different Framework and Superstructure Material Combinations in Two-Implant-Supported Four-Unit Prostheses: A Dynamic Finite Element Analysis,3
+461,JU74TGET,"Evaluation of Stresses on Implant, Bone, and Restorative Materials Caused by Different Opposing Arch Materials in Hybrid Prosthetic Restorations Using the All-on-4 Technique",4
+462,AS7ZN4BZ,Assessment of Compatibility between Various Intraoral Scanners and 3D Printers through an Accuracy Analysis of 3D Printed Models,2
+463,DJZMFHEI,"FEA Comparison of the Mechanical Behavior of Three Dental Crown Materials: Enamel, Ceramic, and Zirconia",3
+464,WYNW8VHR,Optimization of CBCT data with image processing methods and production with fused deposition modeling 3D printing,1
+465,GIPQHWGT,Development and validation of a 3D anthropomorphic phantom for dental CBCT imaging research,2
+466,8X3LL8Z8,Comparative Analysis of Fused Deposition Modeling and Digital Light Processing Techniques for Dimensional Accuracy in Clear Aligner Manufacturing,2
+467,8GU9PNPM,Influence of Framework Material and Abutment Configuration on Fatigue Performance in Dental Implant Systems: A Finite Element Analysis,3
+468,WSCIJHCB,Postoperative facial appearance of patients with extensive oral squamous cell carcinoma can be adequately preserved with in?house virtually planned mandibular  reconstruction.,1
+469,26QMLGSA,Identifying teeth and tooth fragments from digital 3D models.,1
+470,3RPDNKWU,The level of confidence of dentists in identifying intact and sectioned teeth.,1
+471,CD45V2UD,In-house manufactured 3D guides for the localization and treatment of mandibular lesions. Workflow and case series.,1
+472,QUEPSGLA,Evaluating the effect of subcrestal placement on platform switched short dental implants and von mises stress in D3 bone-A 3D FEM study,3
+473,5TR3AEI5,Biomechanical Analysis of Prosthetic Designs Retained by Two or Four Implants in the Edentulous Mandible: A Three-Dimensional Finite Element Analysis,3
+474,XSN8NLIH,Augmented Reality Navigation in Craniomaxillofacial/Head and Neck Surgery.,1
+475,XN2B2AFD,Biomechanical behavior of all-on-4 concept and alternative designs under different occlusal load configurations for completely edentulous mandible: a 3-D finite element analysis,3
+476,V3VSUWJ5,Geometric Fidelity of Magnetic Resonance Imaging and Computed Tomography-Derived Virtual 3D Models of Porcine Cadaver Mandibles: Conventional Versus Artificial Intelligence-Based Segmentation,1
+477,6UCDT3F9,Digital (R)Evolution: Open-Source Softwares for Orthodontics,4
+478,AHMZVPPN,Virtual surgical planning and augmented reality for fixation of plate during Le Fort I osteotomy.,2
+479,J2CNNQSY,Accuracy of three-dimensional virtual simulation of the soft tissues of the face in OrtogOnBlender for correction of class II dentofacial deformities: an  uncontrolled experimental case-series study.,1
+480,D9VEKSXK,A volumetric study of mandibular condyles in orthognathic patients by semiautomatic segmentation.,1
+481,FIL9LNEE,Stackable Guides: Digital Workflows for Full Arch Dental Implant Rehabilitation.,4
+482,YUDZDAIE,Objective evaluation of orbito-zygomatic reconstruction with scapular tip free flaps to restore facial projection and orbital volume,1
+483,N9ZAH6VU,Accuracy of formula-based volume and image segmentation-based volume in calculation of preoperative cystic jaw lesions' volume,1
+484,82NRY6N3,Predicting craniofacial fibrous dysplasia growth status: an exploratory study of a hybrid radiomics and deep learning model based on computed tomography images.,1
+485,SP7TFWTM,Automatic landmark identification in cone-beam computed tomography,1
+486,UHQE3CS7,Characterizing orthodontic tooth movement in real time using dental monitoring scans: A pilot study,2
+487,KDE2M5D3,Automated artificial intelligence-based three-dimensional comparison of orthodontic treatment outcomes with and without piezocision surgery,1
+488,NYKRJAXL,"Euler-angle norms for tooth rotation, torque and tip",1
+489,UVUY86IG,Smartphone-based scans of palate models of newborns with cleft lip and palate: Outlooks for three-dimensional image capturing and machine learning plate tool,2
+490,BTRBWGA4,CBCT-based volumetric assessment of the maxillary sinus in temporomandibular disorder: Integration of morphometric analysis and classical machine learning classification,1
+491,NBS4IYNK,Automatic multi-anatomical skull structure segmentation of cone-beam computed tomography scans using 3D UNETR,1
+492,SCQPUB64,Repairing Facial Fractures with Interrupted Maxillary-mandibular Arches by Computer-assisted Reverse Planning Model Surgery.,1
+493,GHGXCYB3,Assessing the accuracy of artificial intelligence in mandibular canal segmentation compared to semi-automatic segmentation on cone-beam computed  tomography images.,2
+494,XV6TN9HP,Impact of different CAD software programs on marginal and internal fit of provisional crowns: An in vitro study,2
+495,JVG59S45,Cohesive Zone Modeling of Pull-Out Test for Dental Fiber-Silicone Polymer,3
+496,YALN4286,A comprehensive technique using digital workflow to improve an unpleasant smile: A clinical report.,4
+497,CHPWA376,Effect of supporting implants inclination on stability of fixed partial denture: A finite element study,3
+498,YPG9NYLS,Biomechanical evaluation of stress distributions at the implant-abutment complex and peri-implant bone around mandibular dental implants with different neck geometries and inclinations,3
+499,VEG8UPY6,Three-dimensional analysis of reconstructed skulls using three different open-source software versus commercial software,1
+500,6RH7TWR6,Design of patient specific basal dental implant using Finite Element method and Artificial Neural Network technique,3
+501,PKILU3V6,A Case Report of Zygomatic Fracture Reconstruction: Evaluation with Orbital Measurements and Models Registration,1
+502,3PAYNYFP,An integration protocol for aligning intraoral scans to facial scans using the nasal geometry reference in a fully dentate patient.,2
+503,Z4PR8PUL,Novel 3D segmentation for reliable volumetric assessment of the nasal airway: a CBCT study,1
+504,AZCWGFVM,Workflow of digitally guided direct composite resin restorations using open source software and 3D printing: a clinical technique,4
+505,N6QYS54F,Digital fabrication of removable partial dentures made of titanium alloy and zirconium silicate micro-ceramic using a combination of additive and subtractive manufacturing technologies,4
+506,LRM3CUTM,An unusual case of dens invaginatus on a mandibular second molar: a case report.,1
+507,UN8WM3ED,Cutting guides in mandibular tumor ablation: Are we as accurate as we think?,2
+508,HIA7QIPW,Effect of full arch two scanning techniques on the accuracy of overdenture conventional and CAD/CAM Co-Cr bars.,2
+509,LVQV6BQX,Convolutional mesh autoencoders for the 3-dimensional identification of FGFR-related craniosynostosis.,1
+510,LFMJ4JFT,Influence of 3D printing angles on the accuracy of indirect adhesion transfer models: an in vitro study.,2
+511,EXREY3AC,Accuracy of intraoral scanning versus conventional impressions for partial edentulous patients with maxillary defects.,2
+512,T4WWA89F,Evaluation of Non-dental open source software in comparison to dental software in construction of digitally designed partial dentures frameworks.,4
+513,S3TXFJRP,Automatic segmentation and landmark detection of 3D CBCT images using semi supervised learning for assisting orthognathic surgery planning,1
+514,UVASR96M,Three-dimensional non-destructive visualization of teeth enamel microcracks using X-ray micro-computed tomography,1
+515,FJHBG6RW,Fully automated condyle segmentation using 3D convolutional neural networks,1
+516,D4HHNVLC,Three-dimensional semi-automated volumetric assessment of the pulp space of teeth following regenerative dental procedures,1
+517,AR2J5ZEV,Canal-Net for automatic and robust 3D segmentation of mandibular canals in CBCT images using a continuity-aware contextual network,1
+518,C6DR5SCA,Finite element analysis of welded titanium bar and poly ether ether ketone bar in maxillary full arch splinted interim prosthesis,3
+519,IPKJEC72,The impact of modifying 3D printing parameters on mechanical strength and physical properties in vat photopolymerisation,2
+520,BQRVT8EM,3D assessment of the nasolabial region in cleft models comparing an intraoral and a facial scanner to a validated baseline,2
+521,2UMIFZRN,Development and virtual validation of a novel digital workflow to rehabilitate palatal defects by using smartphone-integrated stereophotogrammetry (SPINS),4
+522,U8JBS7DW,Interpretable artificial intelligence for classification of alveolar bone defect in patients with cleft lip and palate,1
+523,JBK4VDNH,AI-based automatic segmentation of craniomaxillofacial anatomy from CBCT scans for automatic detection of pharyngeal airway evaluations in OSA patients,1
+524,JHV3F4QS,A morphometric anthropometric analysis of the upper lip in adult Western Romanian population- a retrospective study,1
+525,R2XL2V5D,Craniofacial and olfactory sensory changes after long-term unilateral nasal obstruction-an animal study using MMP-3-LUC transgenic rats,1
+526,5SMCC8Y7,Cone-beam computed tomography-guided volumetric assessment of secondary alveolar bone grafting,1
+527,I3VUEDA6,Multi-objective optimization of custom implant abutment design for enhanced bone remodeling in single-crown implants using 3D finite element analysis,3
+528,79IB3PRZ,Volumetric differences in temporomandibular joint components in patients with facial asymmetry: A 3D tomographic segmentation study,1
+529,7KZCURKL,Cone-Beam Angle Dependency of 3D Models Computed from Cone-Beam CT Images,2
+530,U7MMJUK2,Accelerometry-Enhanced Magnetic Sensor for Intra-Oral Continuous Jaw Motion Tracking,3
+531,GBKMLEI9,Patient Specific Classification of Dental Root Canal and Crown Shape.,1
+532,CEEZPM88,Application of Barophoresis in Chronic Generalized Periodontitis: a Mathematical Substantiation.,4
+533,SK5KLUVX,Finite Element Analysis of an Implant-Supported FDP with Different Connector Heights,3
+534,HJFRIAYZ,Evaluation on a teaching software for removable partial denture framework design.,4
+535,YMSMMVTX,Dimensional accuracy of medical models of the skull produced by three-dimensional printing technology by advanced morphometric analysis,2
+536,W9MD2UYS,Enhancing the accuracy of genioplasty using mixed reality and computer-aided design/manufacturing: a randomized controlled trial,1
+537,RTD3YEDF,Manufacturing accuracy and volumetric changes of stereolithography additively manufactured zirconia with different porosities,4
+538,PARZEQ25,Comparison of digital and conventional methods of fit evaluation of partial removable dental prosthesis frameworks fabricated by selective laser melting,2
+539,REMSV9YU,Process parameter optimization for removable partial denture frameworks manufactured by selective laser melting,2
+540,IDN8M8Q7,Center of resistance of maxillary canines: a 3D computational model for orthodontic applications,3
+541,7W7AW9ET,A Porcine Model Using Adipose Stem Cell-Loaded Scaffolds for Alveolar Ridge Augmentation,1
+542,TYDB4YNK,Effects of Type and Amount of Orthodontic Tooth Movement on Digital Model Superimposition Accuracy.,2
+543,W8LMAKKZ,Investigation of Different Miniscrew Head Designs by Finite Element Analysis.,3
+544,UBAZZ8UQ,An Open Source Framework for Free Precise Digital Facial Analysis.,1
+545,KAMJ6MSW,Comparison of Fracture Load of the Four Translucent Zirconia Crowns,4
+546,S8P6WG4Y,Fit Accuracy of Cobalt-Chromium and Polyether Ether Ketone Prosthetic Frameworks Produced Using Digital Techniques: In Vitro Pilot Study,2
+547,2K22USSR,3D Printing Technology with Reverse Guide Design in Autogenous Tooth Transplantation: An in vitro Pictorial Report,1
+548,AUHQYKM6,Transfer accuracy of four different lingual retainer transfer methods using digital orthodontic models: An in vivo comparative study,2
+549,TAVPDM8D,"Effect of thermal cycling on the mechanical properties of conventional, milled, and 3D-printed base resin materials: a comparative in vitro study",4
+550,6Z8WC5MR,Comparing 3D Tooth Movement When Implementing the Same Virtual Setup on Different Software Packages,2
+551,BLV4YE3S,Effects of canine movement on maxillary anterior en-masse retraction with clear aligners: a finite element study,3
+552,2JTAYJJD,REFERENCE AREAS SELECTION AFFECTS REGISTRATION OF AI-SEGMENTED MANDIBLES ACQUIRED WITH CBCT,2
+553,S4H5JVW3,Orthodontic treatment improves gingival morphological symmetry parameters: a retrospective study,1
+554,2XCE6F7N,Three-dimensional assessment of two different canine retraction techniques: a randomized split-mouth clinical trial,2
+555,QJSKYIQF,Fabrication of Metal-Reinforced Complete Dentures Using the CAD-CAM Technique,4
+556,7VD2J5PF,Biomechanical evaluation of a customized 3D-printed polyetheretherketone condylar prosthesis,3
+557,THQFPEYX,"Marginal and Internal Gaps, Surface Roughness and Fracture Resistance of Provisional Crowns Fabricated With 3D Printing and Milling Systems",4
+558,NKHLQW6Q,Finite element analysis of class II mandibular unilateral distal extension partial dentures,3
+559,24Y7C84K,Automatic Segmentation of Mandibular Ramus and Condyles,1
+560,U8CZVJBX,Interactive Volume Rendering Module using Two-Dimensional Transfer Function on Cone-Beam Computed Tomography Data,1
+561,SXD7ZNDY,Digital Twin-Based Stereo Dataset Generation Method for 3D Reconstruction of Teeth,1
+562,GNNPTY9X,Innovative Facial Sculpting of the Human Skull Using 3D Scanning Techniques,1
+563,YCBI9HI4,Influence of splinting scan bodies or incorporating three-dimensionally printed scan aids on the trueness of complete arch digital scans.,4
+564,G9RBUHY9,"Time-resolved prediction of dental implant biomechanics through integration of finite element analysis, osseointegration dynamics, and deep learning",3
+565,LQZ2C4X4,Randomized crossover study of immersive planning in craniomaxillofacial trauma comparing virtual reality and workstation workflows,1
+566,9EGJ5B29,Accuracy of DICOM-DICOM vs. DICOM-STL Protocols in Computer-Guided Surgery: A Human Clinical Study,2
+567,22IDN6AX,A novel approach to craniofacial analysis using automated 3D landmarking of the skull,1
+568,RBJV9U6L,Development of 3D in vitro mineralized bone model to reproduce dental implants osseointegration process.,4
+569,GZCR8ZD9,An in vitro evaluation of bond strength and failure behavior between 3D-printed cobalt-chromium alloy and different types of denture base resins,4
+570,F5DKTHEG,The geometric relationship between root length and root surface area determined from digital tooth models.,1
+571,TXLBAMRE,Accuracy of facial skeletal surfaces segmented from CT and CBCT radiographs,2
+572,IHJYACL8,Multi-Material 3D Printing of a Customized Sports Mouth Guard: Proof-of-Concept Clinical Case,4
+573,CC9R3U63,Is All-on-four effective in case of partial mandibular resection? A 3D finite element study,3
+574,QX8DEXZK,Development of an experimental model for assessment of palatal tissue decomposition by intraoral scanner.,2
+575,26HSVAMX,Feasibility study and material selection for powder-bed fusion process in printing of denture clasps.,4
+576,XXD237D5,Ortho-OPD: An Automatic Osteotomy Planes Design Model for Orthognathic Surgery Based on Deep Learning,1
+577,4QDY3R9M,Realization of a Dental Framework by 3D Printing in Material Cobalt-Chromium with Superior Precision and Fitting Accuracy,2
+578,WQU7Y7H4,Assessing the Effect of Interimplant Distance and Angle on Different Impression Techniques,2
+579,S22NI99I,The impact of mixed reality training method on novice trainees of dental implants: an in vitro study,2
+580,7YA2AMRR,Sex and age biological variation of the mandible in a Portuguese population- a forensic and medico-legal approaches with three-dimensional analysis,1
+581,SJNPSVRX,Virtual reality and 3D printing in head and neck cancer: an educational experience,1
+582,AAF545N2,Evaluation of Root Angulations Through Panoramic Films Using Artificial Intelligence,2
+583,YTX9I6KD,Precise sparse-view dental crown reconstruction via 3D Gaussian neural fields,4
+584,6P4BE843,Influence of age-related changes on crack growth trajectories and toughening mechanisms in human dentin,3
+585,LIFEJWBH,Combining 3D Multi-Object Reconstruction with Finite Element Analysis for Accurate Dental Modelling and Restoration,3
+586,KJ67GB6M,Lateral stress distribution analysis on hafnium metal bar for implant superstructure- A finite element analysis.,3
+587,ATX75SMI,Evaluation of trueness and precision of removable partial denture metal frameworks manufactured with digital technology and different materials,2
+588,SE8L9A5N,"Effect of implant number, attachment type, and framework material on stress distribution in mandibular overdentures: a finite element analysis",3
+589,2U8ZWJEZ,Accuracy evaluation of dental CBCT and scanned model registration method based on pulp horn mapping surface: an in vitro proof-of-concept,1
+590,96FVBXB8,Enlarge the Error Prediction Dataset in 3-D Printing: An Unsupervised Dental Crown Mesh Generator,4
+591,52HGP6QH,An application framework of 3D assessment image registration accuracy and untouched surface area in canal instrumentation laboratory research with micro-computed tomography,2
+592,4JN55E2T,"Comparison between relining of ill-fitted maxillary complete denture versus CAD/CAM milling of new one regarding patient satisfaction, denture retention and adaptation",2
+593,69LQ9WZ4,Accuracy of Static Computer- Assisted Implant Placement in Posterior Edentulous Areas with Different Levels of Tooth- Support by Novice Clinicians.,2
+594,4SXNSXGG,Geometric accuracy of magnetic resonance imaging-derived virtual 3-dimensional bone surface models of the mandible in comparison to computed tomography and cone beam computed tomography: A porcine cadaver study,2
+595,E84ZXP9F,Three-Dimensional Hemisided Analysis of the Pharyngeal Airway: A Novel Technical Strategy to Evaluate Asymmetric Remodeling After Orthognathic Surgery,1
+596,E3EJX7HU,Digital Workflow with Open-Source CAD-CAM Software Aimed to Design a Customized 3D Laser-Printed Titanium Mesh for Guided Bone Regeneration,4
+597,S2SASU6I,Evaluation of Zirconia and High Performance Polymer Abutment Surface Roughness and Stress Concentration for Implant-Supported Fixed Dental Prostheses,3
+598,6DBVHM5M,A micro-CT-integrated 3D simulation framework reveals fluid transport mechanisms and void dynamics in root canal biomaterials,3
+599,ZMQU8EMV,Biomechanical analysis of All-on-4 implant supported framework using different materials across various clinical practice,3
+600,WWG3SIDR,Development and validation of a robotic system for milling individualized jawbone cavities in oral and maxillofacial surgery,1
+601,W2SGSLB2,A novel digital and visualized guided bone regeneration procedure and digital precise bone augmentation: A case series,1
+602,F998RIHV,Clinical efficacy of maxillary digital removable partial dentures based on direct intraoral scanning and selective laser melting technology: a double-blind randomized controlled crossover clinical trial,2
+603,X8S8V6W9,Trueness and marginal fit of implant-supported complete-arch fixed prosthesis frameworks made of high-performance polymers and titanium: An explorative in-vitro study,2
+604,K9ID822E,Does Printing Orientation Matter in PolyJet 3D Printed Teeth for Endodontics? A Micro-CT Analysis,1
+605,R7BP6AWA,Three-dimensional facial volume analysis using algorithm-based personalized aesthetic templates,2
+606,ZF4BBLEI,Effect of Palatal Vault Depth on the Trueness of Metal Laser-Sintered and Cast Cobalt-Chromium Removable Partial Denture Frameworks,2
+607,RC9HDKWL,"Individual, High-Precision 3D Mandibular Model for Finite Element Analysis of Three-Unit Bridges: A Biomechanical Pilot Study.",3
+608,CLHU5JFE,"An open-source, three-dimensional growth model of the mandible.",1
+609,K9R7DQR7,"Effect of printing technology, layer height, and orientation on assessment of 3D-printed models.",2
+610,QJG6B55I,"Semi-automated three-dimensional analysis of maxillary anomalies in patients with Muenke syndrome, Saethre-Chotzen syndrome or TCF12-related craniosynostosis: A  retrospective study.",1
+611,5Q98LR84,pH-responsive polydopamine-coated mesoporous silica nanoplatform integrated into 3D-printed PLA/nHA scaffolds for synergistic bone regeneration,2
+612,7IYSLJJL,"TIP, TORQUE & ROTATIONS: How accurately do digital superimposition software packages quantify tooth movement?",2
+613,BRDTGEI3,Dimensional measurement accuracy of 3-dimensional models from cone beam computed tomography using different voxel sizes,2
+614,BIJ37P6U,Digitally-driven optimization of intraoral water jet parameters for plaque removal: a personalized 3D-guided orthogonal study.,4
+615,4CWA53IE,Wear at the implant-framework interface between titanium implant platform and the additively manufactured titanium and cobalt-chromium frameworks,2
+616,27GSFABH,Complete 3D Kinematics Parameters of the Temporo-Mandibular Joints Using in Vivo Data Fusion,1
+617,F558I89A,A method based on 3D affine alignment for the quantification of palatal expansion,2
+618,8YNE4S72,The cumulative effect of error in the digital workflow for complete-arch implant-supported frameworks: An in vitro study,2
+619,9CQF4EX6,Automatic multi-class classification of 3D relationships between the mandibular third molar and canal on cone-beam computed tomography using a geometry-aware network,2
+620,CR3SB4FK,Fracture Resistance of Posterior Tooth-Supported Cantilever Fixed Dental Prostheses of Different Zirconia Generations and Framework Thicknesses: An In Vitro Study,4
+621,K82RU7NF,The effects of additive manufacturing technologies and finish line designs on the trueness and dimensional stability of 3D-printed dies,2
+622,SXVNEQGA,A Novel Guided Zygomatic and Pterygoid Implant Surgery System: A Human Cadaver Study on Accuracy.,1
+623,IHRQELW2,The effect of different tooth preparation finishing procedures and immediate dentin sealing on the scanning accuracy of different intraoral scanners.,2
+624,SGT6ZTK7,A Benchmark Dual-Modality Dental Imaging Dataset and a Novel Cognitively Inspired Pipeline for High-Resolution Dental Point Cloud Synthesis,1
+625,4BR99TM2,A deep learning framework for automated dental segmentation and diagnostic report generation from cone-beam computed tomography,1
+626,72VTFG8B,Augmented Reality-Assisted Micro-Invasive Apicectomy with Markerless Visual-Inertial Odometry: An In Vivo Pilot Study,1
+627,HQDWHX32,Continuous Bijection Supervised Pyramid Diffeomorphic Deformation for Learning Tooth Meshes From CBCT Images,1
+628,ABQTSUVS,In vitro comparison of five desktop scanners and an industrial scanner in the evaluation of an intraoral scanner accuracy.,2
+629,9QEYAAGH,Corticotomy Depth as a Modulator of Orthodontic Tooth Movement and PDL Stress-A Finite Element Study,3
+630,JJD2I8Q6,Microstructural heterogeneity of the collagenous network in the loaded and unloaded periodontal ligament and its biomechanical implications,1
+631,W5WVZD2W,Influence of the preparation design on the survival probability of occlusal veneers,3
+632,7G2A3A2R,Redefining MRI-Based Skull Segmentation Through AI-Driven Multimodal Integration.,1
+633,BTIMYQVX,Precision-optimized process control in DLP printing of ultra-thin zirconia prostheses: A multi-factor accuracy analysis,2
+634,JSU2KA77,Metal Organic Framework-Incorporated Three-Dimensional (3D) Bio-Printable Hydrogels to Facilitate Bone Repair: Preparation and In Vitro Bioactivity Analysis,4
+635,5LFW4IMR,"Influence of Framework Material on Stress, Fatigue, and Stability of “All-on-Four” System Components-Biomechanical Evaluation with Finite Element Analysis",3
+636,WMXWH3IN,A Machine Learning Pipeline for Cusp Height Prediction in Worn Lower Molars: Methodological Proof-of-Concept and Validation Across Homo,1
+637,DLN24UBD,Effect of Different CAD/CAM Milling and 3D Printing Digital Fabrication Techniques on the Accuracy of PMMA Working Models and Vertical Marginal Fit of PMMA Provisional Dental Prosthesis: An In Vitro Study,2
+638,I623BJYL,"Surgical Navigation, Augmented Reality, and 3D Printing for Hard Palate Adenoid Cystic Carcinoma En-Bloc Resection: Case Report and Literature Review",1
+639,53Y9LVNA,A Comparative study on the Effectiveness of Augmented Reality on Denture Tooth Selection.,1
+640,YUDAP2TL,Effect of industrial scanner and framework material interaction on the marginal gaps of CAD-CAM complete arch implant frameworks,2
+641,L9XBQG6L,Predicting 3D Post-Orthodontic Facial Outcomes With a Diffusion Model Trained on Unpaired Datasets,1
+642,2Y9I2C6I,Intaglio Surface Adaptation of Removable Partial Denture Framework Fabricated by Various Data Acquisition Techniques and Fabrication Approaches.,2
+643,WBCEDXET,Modeling fracture in multilayered teeth using the finite volume-based phase field method,3
+644,BLI79NLU,Customized 3D-printed models for training in repairing large maxillary sinus membrane perforations.,1
+645,MACLY32F,A Novel Digitized Method for the Design and Additive Manufacturing of Orthodontic Space Maintainers,4
+646,5SRGE8HN,Automatic orbital segmentation using deep learning-based 2D U-net and accuracy evaluation: A retrospective study,1
+647,TI4JGF9N,Subtractive versus additive indirect manufacturing techniques of digitally designed partial dentures,2
+648,49PG86KL,Validation of a novel tool for automated tooth modelling by fusion of CBCT-derived roots with the respective IOS-derived crowns,1
+649,JVRN27GF,Three-dimensional virtual planning in mandibular advancement surgery: Soft tissue prediction based on deep learning,1
+650,CRTLD8EM,IDNet: A Diffusion Model-Enhanced Framework for Accurate Cranio-Maxillofacial Bone Defect Repair,1
+651,YYJF9M92,Effects of incremental mandibular advancement on upper airways morphology and anatomical structures: a preliminary CT scan study on body donors.,1
+652,46W9JXVL,Suitability and Trueness of the Removable Partial Denture Framework Fabricating by Polyether Ether Ketone with CAD-CAM Technology,2
+653,RLHZZQIF,Three-dimensional finite element analysis of full-arch implant-supported dental restorations: complete vs. segmented frameworks,3
+654,C4T4CYED,Accuracy and surface roughness of Co-Cr partial denture frameworks with different fabrication methods,2
+655,P8WWLP4V,Three-Dimensional Volumetric Analysis of Frontal Ethmoidal Cells and Evaluation of Influential Factors: A Helical Computed Tomography Study,1
+656,8PBRU82N,TCFNet: Bidirectional face-bone transformation via a Transformer-based coarse-to-fine point movement network.,1
+657,CM5ESAGD,"DIVA, a 3D virtual reality platform, improves undergraduate craniofacial trauma education",1
+658,QNI34BLU,The microbiological effect of virgin coconut oil on the morphological and volumetric dimensional changes of 3D printed surgical guides (in vitro study),2
+659,7GANPVVG,A novel approach for determining instantaneous centers of rotation of the mandible with an intraoral scanner: A preliminary study.,2
+660,YHMC9EU4,An In Vitro Study of the Reproducibility of the Drilling Access of Digitalized Surgical Guides Generated via Three Different Implant Planning Software Programs,4
+661,F78S65N9,Mandible Segmentation of Dental CBCT Scans Affected by Metal Artifacts Using Coarse-to-Fine Learning Model,1
+662,Y5JWYY4F,Three-dimensional analysis of mandibular and condylar growth using artificial intelligence tools: a comparison of twin-block and Frankel II Appliances,1
+663,IYKJ62I6,Pressure-based finite element analysis of setup distance in clear aligner canine retraction comparing bodily and tipping movements.,3
+664,B2M3DARR,Computer Aided Orthognathic Surgery: A General Method for Designing and Manufacturing Personalized Cutting/Repositioning Templates,1
+665,34EC3W3G,A Comparison of Denture Base Retention and Adaptation Between CAD/CAM and Conventional Fabrication Techniques,2
+666,KLM4ETUM,Mechanical Performance of Chairside Ceramic CAD/CAM Restorations and Zirconia Abutments with Different Internal Implant Connections: In Vitro Study and Finite Element Analysis,3
+667,2CNYCSQG,Stress distribution in titanium and zirconia implants with full-arch prostheses: a finite element analysis.,3
+668,4PBV2R5L,Comparative analysis of five AI platforms for mandibular canal segmentation on CBCT images,1
+669,CL73C5HV,Study on fracture behavior of molars based on three-dimensional high-precision computerized tomography scanning and numerical simulation,1
+670,W3DKWQAN,Clinical implementation of an EU MDR-compliant point-of-care manufacturing framework for patient-specific 3D-printed PEEK implants in craniomaxillofacial  reconstruction.,1
+671,WVD49PF9,Robot-assisted augmented reality navigation for osteotomy and personalized guide-plate in mandibular reconstruction: a preclinical study,4
+672,NV8EMBKE,The accuracy of a novel image-guided hybrid robotic system for dental implant placement: An in vitro study.,1
+673,MVGIWU9B,AI-Assisted Identification of the Medial Lingual Foramen on CBCT: A Deep Learning Approach for Preoperative Implant Assessment.,1
+674,HCE22CUF,Oral-Anatomical Knowledge-Informed Semi-Supervised Learning for 3D Dental CBCT Segmentation and Lesion Detection,1
+675,YWYMMHNG,Workflow for guided implant placement based on anatomic landmarks and the CAD-CAM fabrication of a prosthetic framework for an implant-supported fixed dental prosthesis,1
+676,39AN7GMH,STRESS DISTRIBUTION OF MONOLITHIC AND VENEERED THREE-UNIT ZIRCONIA FDPS: A FINITE ELEMENT ANALYSIS,3
+677,N6CQF3L9,Combining Coaxial Electrospinning and 3D Printing: Design of Biodegradable Bilayered Membranes with Dual Drug Delivery Capability for Periodontitis  Treatment.,4
+678,7ECMK5KU,Performance of Rigid and Soft Transfer Templates Using Viscous and Fluid Resin-Based Composites in the Attachment Bonding Process of Clear Aligners.,2
+679,RFPYNGAN,Skeletal facial asymmetry: reliability of manual and artificial intelligence-driven analysis,2
+680,X4AMPF75,A novel fluoride tray-assisted workflow for artificial intelligence-driven automated maxillary gingival segmentation on cone beam CT,1
+681,6LPJ3GYL,Reduced graphene oxide loaded with tetrahedral framework nucleic acids for combating orthodontically induced root resorption,1
+682,GID4YXLX,Jaw Morphology and Factors Associated with Upper Impacted Canines: Case-Controlled Trial,1
+683,ARSEKXEW,Low-Profile Electromagnetic Field Sensors in the Measurement and Modelling of Three-Dimensional Jaw Kinematics and Occlusal Loading,3
+684,QY8WZNYX,Digital Dental Biometrics for Human Identification Based on Automated 3D Point Cloud Feature Extraction and Registration,1
+685,YYC34XSZ,Fully Digital versus Conventional Workflows for Fabricating Posterior Three-Unit Implant-Supported Reconstructions: A Prospective Crossover Clinical Trial,2
+686,EC9P5DI3,In Vivo Assessment of SED: A Novel Biomechanical Indicator for Periodontal Tissue Remodeling in Clear Aligner Therapy,3
+687,QLSFY6I6,3D printing titanium grid scaffold facilitates osteogenesis in mandibular segmental defects,4
+688,X6MQB5ZG,"3D printed indirect bonding trays: transfer accuracy of bar vs shell design in a prospective, randomized clinical trial",2
+689,HSRHKBRU,Computational Evaluation of Stress Distribution in Endocrown-Restored Immature Mandibular Molars: A Finite Element Approach,3
+690,9SNK3E6R,Effect of Internal Structural Design on Stress Distribution in 3D-Printed Subperiosteal Implants Under Mechanical Loading,3
+691,ZPAI37L6,Mandibular stability and condylar changes following orthognathic surgery in mandibular hypoplasia patients associated with preoperative condylar resorption,2
+692,6B24QV77,"Procedure Increasing the Accuracy of Modelling and the Manufacturing of Surgical Templates with the Use of 3D Printing Techniques, Applied in Planning the Procedures of Reconstruction of the Mandible",2
+693,IJJPZDUJ,Mandibular extracellular vesicles mediate morphogenesis and mineralization of tooth germs in miniature swine through the miR-206/HDAC4 signaling axis,1
+694,6J23L4DI,Digital assessment of the accuracy of implant impression techniques in free end saddle partially edentulous patients. A controlled clinical trial,2
+695,2REVVA6Z,A Digital Workflow for the Fabrication of a Milled Removable Partial Denture,4
+696,5GKX37T6,Patient-specific virtual surgical planning for tongue reconstruction: evaluating hyperelastic inverse FEM with four simulated tongue cancer cases,1
+697,KHNTF6NJ,Posterior implant angulation without cantilever reduction in mandibular All-on-4: a controlled finite element analysis of stress transfer and implant macrodesign  effects.,3
+698,XGS4APUB,Multi-view deep learning for mandibular landmark localization,1
+699,HI8MENLK,Three-Dimensional Finite Element Analysis of Stress Distribution in a Tooth Restored with Full Coverage Machined Polymer Crown,3
+700,8F9WEIIK,Comparing the trueness of 3D printing and conventional casting for removable partial denture metal framework fabrication in different mandibular major connectors designs: An in vitro study,2
+701,68LCNUVN,Direct ink writing with dental composites: A paradigm shift toward sustainable chair-side production,2
+702,I8JFM7AT,Automated artificial intelligence-driven 3-dimensional craniofacial superimposition for clinically useful treatment outcomes in growing patients: A  multicenter study.,1
+703,DHQBWA35,Microstructure and Mechanical Properties of Co-Cr Alloy Fabricated by Selective Laser Melting Technology for Removable Partial Denture Frameworks,4
+704,UEHCEHSN,A Three-Year Prospective Study Comparing Stereolithography Printed Models to Classical Impression and Plaster Cast Models in Orthodontic Therapy: A 3D Objectification Approach,2
+705,R8CJZGFR,Comparison of marginal accuracy in two different materials used in provisional crown and bridge - an in vitro experimental study,2
+706,BBL9T48I,Biomimetic 3D-printed gyroid scaffolds with versatile bioactive coatings for complex craniomaxillofacial bone regeneration,4
+707,QHUP7V97,Intelligent geometry compensation for additive manufactured oral maxillary stent by genetic algorithm and backpropagation network,4
+708,AY6279X7,Geometric plane alignment as a methodological requirement for accurate angular measurement in three-dimensional craniofacial imaging.,1
+709,2TPBCDEY,Accuracy of guided implant surgery obtained using 3D-printed surgical guides - An in vitro comparison of four evaluation methods,2
+710,9D6677BV,Effect of framework material and gyroid lattice design on the biomechanics of all-on-four full-arch prostheses.,3
+711,RB2EMABN,In vivo trueness and precision of full-arch implant scans using intraoral scanners with three different acquisition protocols,2
+712,CKG49MIJ,Prosthesis repair of oral implants based on artificial intelligenc`e finite element analysis,3
+713,VXGSB6P7,"Hierarchical 2D to 3D micro/nano-histology of human dental caries lesions using light, X-ray and electron microscopy",1
+714,T6EQ48WZ,Study on 3D printed MXene-berberine-integrated scaffold for photo-activated antibacterial activity and bone regeneration,1
+715,K9NG599R,Multi-Architecture deep learning for CBCT segmentation of dental hard tissues and pulp in mixed dentition.,1
+716,DFBH82QS,Protease-responsive protein hydrogel enabling spatiotemporal ClO2 release for precision treatment of intracellular infections and periodontitis,1
+717,RYA4IC44,"Impact of framework material, cantilever design, and wing configuration on stress distribution in patient specific additively manufactured subperiosteal jaw implants: a 3D finite element analysis",3
+718,R6YFN9SG,Effect of print orientation of 3D-printed aligner templates on the volumetric accuracy of transferred composite attachments: an in vitro study,2
+719,5MX98NQ5,Comparison of stereolithography (STL) and polygon file format (PLY) for intraoral scans: From chairside to archive.,2
+720,A3GV56C7,Spatiotemporal mechanical stimuli from dental crypt during tooth development: An integrated experimental and computational study,3
+721,DCJH8XKA,Etched 3D-Printed Polycaprolactone Constructs Functionalized with Reduced Graphene Oxide for Enhanced Attachment of Dental Pulp-Derived Stem Cells,4
+722,3FJVJNIB,Impact of the superimposition reference area on intraoral scanning accuracy in a partially dentate maxilla.,2
+723,567Q4TW9,A customised 3D U-Net model for bifid mandibular canal segmentation and detection on CBCT: a diagnostic accuracy study,1
+724,UYKQ4QIQ,Clinical efficacy of early intervention timing for inversely impacted maxillary central incisors,1
+725,92FDR9R4,Impact of profile angle of CAD-CAM abutment on the marginal bone loss of implant-supported single-tooth posterior restorations,2
+726,A2IQLI82,Biomechanical evaluation of prosthetic framework materials in subperiosteal implants: a finite element analysis,3
+727,9RK8X4SA,A 3D In-vitro model of the human dentine interface shows long-range osteoinduction from the dentine surface,4
+728,PWK5Z86Q,AI-driven automation of occlusal surface design in digital prosthodontics: a clinically validated workflow,2
+729,UVGSTG9C,Detecting Mandible Fractures in CBCT Scans Using a 3-Stage Neural Network.,1
+730,J4VD92PC,Digital model superimpositions: are different software algorithms equally accurate in quantifying linear tooth movements?,2
+731,U2VNRQWT,Accuracy of face scan-based virtual facebow records: A comparison between two registration methods,2
+732,ZGJK5PD2,Microrobotics for Precision Biofilm Diagnostics and Treatment,4
+733,8HPQKBVZ,Passive fit and time efficiency for prefabricated versus conventionally constructed cobalt chromium CAD\textbackslashCAM 3-unit implant supported frameworks in free end saddle models: a pilot invitro study,4
+734,RZZAIR96,Effect of different storage conditions on dimensional accuracy of 3D-printed dental models,2
+735,HHXKMFE3,Mechanotherapeutic Modulation of the Nasal Microenvironment: RAMPA-Induced Maxillofacial Remodeling and Its Pathophysiological Impact on Mucus Rheology and  Chronic Inflammation.,3
+736,EKQJE262,"Comparison of Low-Dose, Standard-Dose, and High-Definition CBCT Protocols for STL Reconstruction Accuracy in Digital Bone Scaffold Workflows.",1
+737,3TF24KAM,Feasibility of augmented reality using dental arch-based registration applied to navigation in mandibular distraction osteogenesis: a phantom experiment,1
+738,Y5SI9D7I,Automatic prediction of depth of invasion in oral tongue squamous cell carcinoma using a multimodal regression network fusing prior text and anatomical knowledge,1
+739,7QDPDBCV,Comparison of biomechanical performance of custom implants with different designs under functional load: a finite element analysis.,3
+740,DFF9LQMV,Development and Validation of a Freehand 3-D Ultrasound System for Real-Time Intraoral Image Reconstruction,1
+741,FFCB7QN3,In-vivo evaluation of Artificial Intelligence Driven Remote Monitoring technology for tracking tooth movement and reconstruction of 3-dimensional digital models during orthodontic treatment,2
+742,QLPEUI2S,Biomechanical Evaluation of Framework Materials in All-on-Four Versus All-on-Six Prostheses: A Finite Element Study.,3
+743,HN62NC7A,"Biomechanics of the tooth cervical region investigated using 3D digital image correlation, micro CT, and finite element analysis",3
+744,B8ZTR89F,A Low-Cost Wireless Bite Force Measurement Device,4
+745,5EV82UG8,Tomographic similarity scan with a computed modified absolute mandibular midsagittal plane for precise and objective localization of mandibular asymmetry,2
+746,37R7W5UU,Comparison of the accuracy of removable partial denture frameworks fabricated using conventional and digital impressions: a clinical study,2
+747,5N9WLQW9,Biomechanical comparison of titanium and Y-TZP subperiosteal implants in atrophic maxilla: a finite element study.,3
+748,9VYQRD5N,Effect of attachment flash on clear aligner force delivery: an in vitro study,4
+749,IUQMK852,Evaluation of the stability of the palatal rugae using the three-dimensional orthodontic treatment,2
+750,SUK2X4DR,Evaluation of an AI-based segmentation model for mandibular fracture segmentation on CBCT using volumetric and 2D slice-based validation approaches.,1
+751,NJJRVPS5,"Comparison of the reproducibility of maxillary position transfer with a mechanical facebow and those with facial scanning and cone beam computed  tomography, based on a method of model orientation using anatomical landmarks.",2
+752,92NITIHK,Does adding markers increase the accuracy and efficiency of intraoral scanning of complete dentures?,2
+753,DTQPUFEH,A finite element analysis of a dental implant with a conformal lattice structure: a parametric exploration under occlusal loading.,3
+754,9792KQV4,"Evaluation of the accuracy (trueness, precision) and processing time of different 3-dimensional CAD software programs and algorithms for virtual cast alignment.",2
+755,UKZFIWZJ,Three-Dimensional Printed Hydroxyapatite Bone Substitutes Designed by a Novel Periodic Minimal Surface Algorithm Are Highly Osteoconductive,4
+756,PKJDLVCU,Deep learning driven segmentation of maxillary impacted canine on cone beam computed tomography images,2
+757,K8IC6T9C,A comparative study of bone remodeling around hydroxyapatite-coated and novel radial functionally graded dental implants using finite element simulation,3
+758,YUGFZPB8,Instantaneous and Markerless Registration for Mandible Reconstruction Robot With Fibular Holder,3
+759,WJH5GAGS,"Traditional, 2D and 3D Workflows: What Is Better for Aesthetic Rehabilitation of Superior Anterior Teeth?",4
+760,JFGG5SRB,Visualizing physiological sclerotic dentin via micro-computed tomography: A pilot study.,1
+761,CQM5FTNI,An Innovative “Tooth-On-Chip” Microfluidic Device Emulating the Structure and Physiology of the Dental Pulp Tissue,4
+762,4IAWUJZW,Novel design of additive manufactured hollow porous implants.,3
+763,QDLVNNQA,Upper Airway Segmentation Based on the Attention Mechanism of Weak Feature Regions,1
+764,BBL5YC5J,Spontaneous dental implant macro-migration in low-density bone: An 8-year case report.,2
+765,WS7EVNAT,Effect of platform design of dental implant abutment on loosening and fatigue performance,3
+766,D9FTATP8,Clinical evaluation of a one-piece polyetheretherketone removable partial denture fabricated using a novel digital workflow: A self-controlled clinical trial,4
+767,X6ATHIVM,Effect of preparation design and scan pattern on the accuracy of intraoral scans for complete arch laminate veneers under simulated intraoral variables,2
+768,VTPR5HZL,Estimating Reference Shape Model for Personalized Surgical Reconstruction of Craniomaxillofacial Defects,1
+769,JANGC8LD,"Fractured Full-Arch Tooth-Supported Zirconia Bridge: Thin Design, Surface Damage, and Excessive Cement Layer Thickness.",2
+770,WMEDMW72,Influence of Transmucosal Contour on Peri-Implant Soft Tissue Dimensions: A Cross-Sectional Study in Posterior Single-Tooth Implants.,2
+771,JILIPTM5,The link between abutment configuration and marginal bone loss in subcrestally placed posterior implant-supported restorations,2
+772,WY9YT5C5,Predicting site-specific alveolar bone remodeling in class III decompensation: a preliminary study based on a data-driven RBF framework.,1
+773,LSHIDCRW,Objective characterization of dental occlusal and fissure morphologies: Method development and exploratory analysis,2
+774,NJ5KK25B,Effect of peri-implant bone resorption on mechanical stress in the implant body: In vivo measured load-based finite element analysis,3
+775,7M8ERVJ3,Development of an Automatic Computer Program to Determine the Optimal Dental Implant Size and Position for Fibula Free Flap Surgery.,1
+776,ZPHWMMKX,Influence of different education approaches on the implantation performance of dental practitioners in aesthetic zone.,2
+777,FIMEVJK3,Biomechanical effect of implant thickness and screw diameter on CFR-PEEK subperiosteal implants: a three-dimensional finite element analysis,3
+778,MZH3CXYR,A digital workflow for pair matching of maxillary anterior teeth using a 3D segmentation technique for esthetic implant restorations,1
+779,JYJSMM4M,Dynamic navigation for prosthetically driven zygomatic implant placement in extensive maxillary defects: Results of a prospective case series,1
+780,QNT8ENQE,"Influence of Intraoral Scanners, Operators, and Data Processing on Dimensional Accuracy of Dental Casts for Unsupervised Clinical Machine Learning: An In Vitro  Comparative Study.",4
+781,XUN6KXA3,Clinical factors influencing implant positioning by guided surgery using a nonmetal sleeve template in the partially edentulous ridge: Multiple regression analysis of a prospective cohort,2
+782,EZJLMVRU,DentalArch: AI-Based Arch Shape Detection in Orthodontics,2
+783,P44D7LA4,Fit and retention of complete denture bases: Part I e Conventional versus CAD-CAM methods: A clinical controlled crossover study,2
+784,7VE5J5DD,"Influence of exposure protocol, voxel size, and artifact removal algorithm on the trueness of segmentation utilizing an artificial-intelligence-based system",2
+785,AN2LBDKB,Custom design of a temporomandibular joint prosthesis: A kinematic approach evaluated by finite element analysis,3
+786,IHFWL9JR,Application of temporary patient-specific plate in head and neck osteocutaneous free flap reconstruction: a prospective pilot study.,1
+787,TYANEIC4,Electromagnetic Navigation in Mandibular Reconstruction Using Autologous Grafts: A Color-Coded Assistance for Precise Positioning of Bone Segments.,1
+788,QRK3VBMA,Optimization of Resin Printing Parameters for Improved Surface Roughness Using Metaheuristic Algorithms: A Multifaceted Approach,4
+789,JH94FFYH,Experimental study on dimensional variations of 3D printed dental models based on printing orientation.,2
+790,LH8UPF46,Automated micro-CT quantification of clear aligner fit: a pilot comparison of manufacturing processes.,1
+791,EW9LCFMA,A Smart Projective Imaging and Navigation System for Oral and Maxillofacial Surgery,1
+792,KY63Y6R9,Zirconia endocrown with intracanal extension and zi posts on maxillary molars: in silico study,3
+793,TZGXEUSU,Evaluation of the Retentive Forces from Removable Partial Denture Clasps Manufactured by the Digital Method,4
+794,KBURGWIJ,Fully automated 3D segmentation of periapical lesions on CBCT images using nnU-Net v2,2
+795,JB6FVHV7,Age-related changes in the parotid gland: a computed tomography-based radiomics study.,1
+796,SB5HVH7V,Direction-oriented fiber guiding with a tunable tri-layer-3D scaffold for periodontal regeneration,4
+797,MTZIVEQB,Tissue surface adaptation and retention of digital obturator after one year of use,2
+798,H9GBH348,Biomechanical Effects of Platform Diameter and Screw Length in an Abutment-Free Tissue-Level Implant System Compared with a Ti-Base Configuration: 3D Finite Element Analysis,3
+799,EB4NSAMK,Does the fixture thread depth affect the accuracy of implant placement during fully guided immediate implant placement?: A human cadaver study.,2
+800,I73XE6IF,Root canal treatment planning by automatic tooth and root canal segmentation in dental CBCT with deep multi-task feature learning,1
+801,4SX8KTJM,A New Method to Evaluate Trueness and Precision of Digital and Conventional Impression Techniques for Complete Dental Arch,2
+802,ZUNK9NNI,Development of Micro-CT-Based Anatomically Accurate Tooth Model for Finite Element Analysis of Composite Restorations.,1
+803,JP3XLWTI,Digital duplication of maxillary complete denture: A dental technique.,1
+804,G42JR78G,Rehabilitation of the Severely Atrophic Maxilla with Subperiosteal Implants: A Biomechanical and Decision Analysis of Material and Configuration Choices.,3
+805,TYDR2R9S,Three-dimensional finite element analysis of temporomandibular joint stresses following botulinum toxin injection and occlusal splint therapy in bruxism.,3
+806,GMX68ZMT,An open-source AI tool for predicting cephalometric measurements from clinical data and photographic images,2
+807,M7P5EH6Q,Automatic three-dimensional facial symmetry reference plane construction based on facial planar reflective symmetry net,2
+808,NM4KD692,In vivo trueness of full-arch implant-supported CAD/CAM restorations and models based on conventional impressions,2
+809,3SRFQXMZ,"Quantitative and qualitative evaluation of precision in dental 3D facial scanning across handheld, fixed multicamera, and smartphone depth-sensing systems.",2
+810,QYXA5YVP,Three-dimensional finite element analysis of zygomatic and pterygoid implants for the rehabilitation of severely atrophic maxilla,3
+811,ZFERNRSM,A novel method of 3D printing locating guide for abutment screw removal in cement- retained implant-supported prostheses,4
+812,PGF7LT48,Trueness of the apical and middle root portion segments of 3D-printed removable die and alveolar cast designs manufactured using stereolithographic 3D printing,2
+813,B3ERSAXL,"Noncarious cervical lesions in the aging population analyzed through digital scanning: occlusal risk factors, dimensions, and morphology",2
+814,RHIDMTCI,Efficacy of Submucosal Polydeoxyribonucleotide Injection after Impacted Mandibular Third Molar Extraction: A Randomized Controlled Trial,2
+815,JDYAQ7WP,Early-stage stability and degradation of patient-specific biodegradable 3D-printed implants for critical mandibular reconstruction,3
+816,GT74L8L4,Vertical and Horizontal Ridge Augmentation Using Customized Three-Dimensionally Printed Polycaprolactone Mesh in Atrophic Posterior Maxillae: A Case Report,4
+817,QAQKMGUW,Biomechanical Analysis of Different Pacifiers and Their Effects on the Upper Jaw and Tongue,3
+818,FVXUA272,Augmented Reality-Assisted Surgical Exposure of an Impacted Tooth: A Pilot Study,1
+819,LQCXZNNJ,"Concurrent computed tomography-based evaluation of nasal morphology, airway volume, and skeletal changes following craniofacial distraction osteogenesis: A  pilot retrospective case series.",1
+820,K8EJXEIE,Accuracy of intraoral optical scan versus stereophotogrammetry for complete-arch digital implant impression: An in vitro study.,2
+821,VNRCK3YD,A platform combining automatic segmentation and automatic measurement of the maxillary sinus and adjacent structures,1
+822,BI5PRGUX,Differentiation of benign and malignant oral lesions through surface texture analysis and SVM modeling,1
+823,42EI79XL,Investigation of Conventional vs Nonoriginal CAD/CAM Bars with Production Stage Differences: An In Vitro Precision Study Using a Novel Technique,2
+824,HPU3KI8B,A TMPS-designed personalized mandibular scaffolds with optimized SLA parameters and mechanical properties,1
+825,BXT93NMY,Bone-Implant Osseointegration Monitoring Using Electro-mechanical Impedance Technique and Convolutional Neural Network: A Numerical Study,3
+826,USUBE7IV,3D Single-Tooth Reconstruction via Curriculum Learning and Topology-aware Generation,1
+827,8GLIISG6,Three-Dimensional Hard and Soft Tissue Healing at Implants With A Modified Neck Design: An In Vivo Preclinical Study,2
+828,RLTJ6JCJ,Effect of Crestal Position on Bone-Implant Stress Interface of Three-Implant Splinted Prostheses: A Finite Element Analysis,3
+829,2ZLUSNLH,"Evaluation of the Effects of Diameter, Length, Splinted or Nonsplinted Form, and Crown-to-Implant Ratio on the Stress Distribution Around Extra-Short Implants in  the Posterior Mandible: Finite Element Analysis.",3
+830,D4L4LQ75,A reproducible optical-microscopic framework for evaluating electronic apex locator performance in different irrigants using 3D-printed transparent resin  teeth.,1
+831,EBNEIKEM,Effect of various printing parameters on the accuracy (trueness and precision) of 3D-printed partial denture framework,2
+832,BP8J829M,Accuracy of the Implant Replica Positions on the Complete Edentulous Additive Manufactured Cast.,2
+833,JTZRXANB,Influence of planning software and template design on the accuracy of static computer assisted implant surgery performed using guides fabricated with material extrusion technology: An in vitro study,4
+834,JXPNURLI,New Approach to Dental Morphometric Research Based on 3D Imaging Techniques.,1
+835,EJE3LUQJ,Tablet-based Augmented reality and 3D printed templates in fully guided Microtia Reconstruction: a clinical workflow.,1
+836,W29E6BQZ,Fit and retention of complete denture bases: Part II - conventional impressions versus digital scans: A clinical controlled crossover study.,2
+837,CD6KF4YY,CT-based three-dimensional morphometric analysis of the bony palate and hard palatal mucosa in female orthognathic surgery candidates.,1
+838,VC56Q29E,A high-throughput framework for predicting three-dimensional structural-mechanical relationships of human cranial bones using a deep learning-based method,3
+839,CES5463F,"Toothnroll: An R Package for Landmarking, Measuring, and Mapping Dental Tissues of Hominoid Anterior Teeth",1
+840,29Y6WKV5,Three-dimensional evaluation of the effects of Bionator and Forsus appliances on oropharyngeal airway volume in patients with mandibular retrognathia,2
+841,FGNMQN65,Clinical validation of the virtual splint registration workflow for craniomaxillofacial surgery,1
+842,EXVEHKU3,Advances in the Resection and Reconstruction of Midfacial Tumors Through Computer Assisted Surgery,1
+843,S3XDHQ38,Mineralized osteoblast-derived exosomes and 3D-printed ceramic-based scaffolds for enhanced bone healing: A preclinical exploration,4
+844,X4EJBTIQ,Three-Dimensional Quantitative Analysis of Maxillary Arch Morphology Across Sagittal and Vertical Skeletal Patterns,1
+845,XC63D9X7,A personalized automated system of 3D facial soft tissue landmarks annotation based on deep learning and computer vision,1
+846,B7TAIWTK,A 3D Co-Culture System Inspired by Fracture Healing Cell Interactions for Bone Tissue Engineering,4
+847,A88G5IRI,Novel standardized method for inducing medication-related osteonecrosis of the jaw in rats and precise quantitative assessment of pathological outcomes,1
+848,LZEYGM5C,Automatic landmark identification for surgical 3d-navigation - A proposed method for marker-free dental surgical navigation systems,1
+849,33Z49IEH,Osteogenic Potential of 3D-Printed Porous Poly(lactide-co-trimethylene carbonate) Scaffolds Coated with Mg-Doped Hydroxyapatite,3
+850,TY5VT4UV,Mixed Reality as a Digital Visualisation Solution for the Head and Neck Tumour Board: Application Creation and Implementation Study,1
+851,TLW8WS3P,Morphology and Function Dual-Adjustable Biomimetic 4D-Printed Scaffold for the Regenerative Restoration of Complex Bone Defects,4
+852,K8X9AYTL,Refined Surgical Protocol for the Insertion of Bioactive-coated Titanium Microscrews in the Rat Tibia,1
+853,K24ZBIB8,Enhancing panoramic dental imaging with AI-driven arch surface fitting: achieving improved clarity and accuracy through an optimal reconstruction zone,1
+854,QMGYIHYL,Multiclass CBCT Image Segmentation for Orthodontics with Deep Learning,1
+855,ZC52QN7Q,Mixed reality combined with surgical navigation versus conventional navigation for resection of oral and maxillofacial tumors: a comparative study,1
+856,5PW99INS,Optimization of PETG 3D printing parameters for the design and development of biocompatible bone implants,1
+857,M6X88YQR,Increased rate of pseudarthrosis in the anterior intersegmental gap after mandibular reconstruction with fibula free flaps: a volumetric analysis,1
+858,EI2TNAGK,Principal component analysis of 3-dimensional facial soft-tissue morphology in three adult populations,1
+859,LFFHBJQR,Enhancing Maxillofacial Surgery: 3D-Printed Models from CT Scans for Improved Surgical Planning,1
+860,YHB9JYVX,Tooth Segmentation of Dental Mesh Based on Improved Region Growing,1
+861,UZID4KPU,Face analyzer 3D: Automatic facial profile detection and occlusion classification for dental purposes,2
+862,8RD3AVC7,Effect of bar material on the biomechanical performance of hybrid dental prosthesis,3
+863,3LP7326M,Type of maxillary segment mobilization affects three-dimensional nasal morphology,2

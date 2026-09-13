@@ -1,0 +1,29 @@
+{
+  "identified": {
+    "PubMed": 1727,
+    "Web of Science": 1695,
+    "IEEE Xplore": 304
+  },
+  "identified_total": 3726,
+  "duplicates_removed": 1170,
+  "screened_title_abstract": 2556,
+  "excluded_at_title_abstract": 1639,
+  "fulltext_recheck": {
+    "excluded_records_with_full_text_available": 1168,
+    "excluded_records_without_full_text": 775,
+    "records_reclassified_as_eligible": 304
+  },
+  "assessed_for_eligibility_full_text": 1781,
+  "excluded_after_fulltext_assessment": 918,
+  "included": 863,
+  "v3_to_v4_removals": 4,
+  "removals_reason": "4 studies retained in the previous dataset were removed because the archived full text contains no named third-party non-dental 3D software; 3 further studies were removed because their publication date fell outside the prespecified window (after 30 June 2026).",
+  "note": "Title/abstract screening applied the topic, article-type, language and date criteria; because the software criterion cannot be evaluated reliably at abstract level, every excluded record for which a full text could be obtained was re-assessed at full text and 304 additional eligible studies were identified.",
+  "exclusion_breakdown": {
+    "re_assessed_records_not_eligible": 864,
+    "excluded_at_full_text_screening": 47,
+    "removed_from_previous_set_no_named_software": 4,
+    "outside_prespecified_date_window": 3
+  },
+  "final_included": 863
+}

@@ -1,0 +1,7 @@
+{
+  "_comment": "Copy this file to config.local.json and insert your own DeepSeek API key. config.local.json is gitignored and must never be committed or uploaded.",
+  "deepseek_api_key": "YOUR_DEEPSEEK_API_KEY_HERE",
+  "base_url": "https://api.deepseek.com/v1/chat/completions",
+  "model": "deepseek-chat",
+  "temperature": 0.1
+}

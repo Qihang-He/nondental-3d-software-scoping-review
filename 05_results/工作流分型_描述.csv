@@ -1,0 +1,5 @@
+﻿Archetype,n,占比%,场景1,场景1%,场景2,场景2%,软件族1,软件族2,研究类型
+1,331,38.4,Segmentation/Reconstruction,56,Morphology/Phenotype,32,Medical image processing,General-purpose 3D modelling,"computational(143), clinical(111)"
+2,246,28.5,Analysis/Accuracy,100,Design/Manufacturing,9,Reverse engineering / 3D reconstruction,General-purpose 3D modelling,"in_vitro(142), clinical(60)"
+3,178,20.6,Biomechanics,98,Design/Manufacturing,11,Engineering simulation,Computer-aided design,"computational(165), in_vitro(11)"
+4,108,12.5,Design/Manufacturing,98,Segmentation/Reconstruction,9,General-purpose 3D modelling,Reverse engineering / 3D reconstruction,"in_vitro(51), technical_note(21)"
