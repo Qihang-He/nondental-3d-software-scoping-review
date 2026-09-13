@@ -2,6 +2,7 @@
 ## Reproducibility repository
 
 **Repository:** https://github.com/Qihang-He/nondental-3d-software-scoping-review
+**Archived release (DOI):** 10.6084/m9.figshare.33684943.v1 — https://doi.org/10.6084/m9.figshare.33684943.v1
 
 Everything needed to reproduce the review is here: the search strategies, the screening and coding
 prompts, every script, the raw model responses, the locked dataset, all derived statistics, the
@@ -97,13 +98,14 @@ model logs already deposited in `04_logs/`.
 
 Code and data are released for reuse with attribution; see `LICENSE`.
 
-**Please cite the versioned release rather than the moving `main` branch.** The material deposited
-for the manuscript corresponds to release tag **`v1.0`**:
+**Please cite the archived release rather than the moving `main` branch.**
 
-- Repository: https://github.com/Qihang-He/nondental-3d-software-scoping-review
-- Citable version: `v1.0`
-  (https://github.com/Qihang-He/nondental-3d-software-scoping-review/releases/tag/v1.0)
-- Machine-readable citation metadata: `CITATION.cff` (GitHub shows a "Cite this repository" button)
+- **DOI (archive, version-pinned):** 10.6084/m9.figshare.33684943.v1 —
+  https://doi.org/10.6084/m9.figshare.33684943.v1
+- **Source repository, release `v1.0`:**
+  https://github.com/Qihang-He/nondental-3d-software-scoping-review/releases/tag/v1.0
+- **Machine-readable citation metadata:** `CITATION.cff` (GitHub shows a "Cite this repository" button)
 
-The release tag pins the exact state of every script, log, dataset and statistic reported in the
-manuscript. If you use these materials, please cite the article together with the release above.
+The archived deposit and the release tag both pin the exact state of every script, log, dataset and
+statistic reported in the manuscript. If you use these materials, please cite the article together
+with the DOI above.
