@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite both the article and this repository."
+title: "Application of Nondental 3D Software in Dentistry: A Scoping Review - reproducibility materials"
+abstract: >-
+  Complete search strategies, prompts, analysis scripts, raw model responses, the
+  two-stage full-text re-assessment pass, the locked analysis dataset (863 included
+  studies), all derived statistics and the author-verification materials for a
+  scoping review of nondental 3D software use across dental disciplines.
+type: software
+version: "1.0.0"
+date-released: "2026-09-13"
+license: MIT
+repository-code: "https://github.com/Qihang-He/nondental-3d-software-scoping-review"
+keywords:
+  - scoping review
+  - dentistry
+  - three-dimensional imaging
+  - dental software
+  - digital workflow
+  - reproducibility
+authors:
+  - family-names: "He"
+    given-names: "Qihang"
+  - family-names: "Liu"
+    given-names: "Yuchen"
+  - family-names: "Zhao"
+    given-names: "Ruifeng"
+  - family-names: "Li"
+    given-names: "Zhiwen"
+  - family-names: "Liu"
+    given-names: "Miao"
+  - family-names: "Song"
+    given-names: "Shiwei"
+  - family-names: "Liu"
+    given-names: "Chen"
+  - family-names: "Bai"
+    given-names: "Shizhu"

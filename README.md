@@ -95,5 +95,15 @@ model logs already deposited in `04_logs/`.
 
 ## 5. Licensing and citation
 
-Code and data are released for reuse with attribution; see `LICENSE`. If you use these materials,
-please cite the published article and this repository (DOI to be added on archiving).
+Code and data are released for reuse with attribution; see `LICENSE`.
+
+**Please cite the versioned release rather than the moving `main` branch.** The material deposited
+for the manuscript corresponds to release tag **`v1.0`**:
+
+- Repository: https://github.com/Qihang-He/nondental-3d-software-scoping-review
+- Citable version: `v1.0`
+  (https://github.com/Qihang-He/nondental-3d-software-scoping-review/releases/tag/v1.0)
+- Machine-readable citation metadata: `CITATION.cff` (GitHub shows a "Cite this repository" button)
+
+The release tag pins the exact state of every script, log, dataset and statistic reported in the
+manuscript. If you use these materials, please cite the article together with the release above.
