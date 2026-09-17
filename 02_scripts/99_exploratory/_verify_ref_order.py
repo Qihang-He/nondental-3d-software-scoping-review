@@ -7,9 +7,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 os.chdir(ROOT)
 D = os.path.join('01_投稿文件', 'R2_草稿')
 md = open(os.path.join(D, 'Revised_manuscript_R2.md'), encoding='utf-8').read()
-ref = open(os.path.join(D, 'References_R2.md'), encoding='utf-8').read()
-body = md[:md.index('## Figure legends')]
-legends = md[md.index('## Figure legends'):]
+body = md[:md.index('## References')]
+ref = md[md.index('## References'):]
+legends = md[md.index('## Figure legends'):md.index('## References')]
 
 
 def nums_of(bracket):

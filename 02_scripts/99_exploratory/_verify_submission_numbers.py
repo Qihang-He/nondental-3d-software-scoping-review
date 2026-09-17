@@ -163,7 +163,7 @@ has(M, 'the full included set (n = %d)' % N, 'SuppFigS1 denominator')
 # ------------------------------------------------ PRISMA
 has(M, '%s records' % format(P['identified_total'], ','), 'PRISMA identified')
 has(M, '%s were duplicates' % format(P['duplicates_removed'], ','), 'PRISMA duplicates')
-has(M, 'leaving %s records for screening' % format(P['screened_title_abstract'], ','), 'screened')
+has(M, 'leaving %s for screening' % format(P['screened_title_abstract'], ','), 'screened')
 EB = P['exclusion_breakdown']
 has(M, 'Title and abstract screening excluded 1,943 records', 'screening exclusions')
 has(M, 'and %d were excluded' % P['excluded_after_fulltext_assessment'], 'PRISMA excluded')
@@ -225,6 +225,29 @@ has(M, '3D reconstruction (%d)' % fam['RE'], 'family RE')
 has(M, '3D modelling (%d)' % fam['GEN3D'], 'family GEN3D')
 has(M, 'engineering simulation (%d)' % fam['SIM'], 'family SIM')
 has(M, 'computer-aided design (%d)' % fam['CAD'], 'family CAD')
+
+# ------------------------------------------------ journal-format compliance
+ME = DOCS[M]
+checks += 6
+if '## Declaration of generative AI and AI-assisted technologies' not in ME:
+    fail.append('FORMAT   manuscript                      generative-AI declaration missing')
+if 'DeepSeek-V4.1-Flash' not in ME or 'deepseek-chat' not in ME:
+    fail.append('FORMAT   manuscript                      model name/version not stated in Methods')
+if '## References' not in ME:
+    fail.append('FORMAT   manuscript                      reference list not merged')
+ref_entries = re.findall(r'^\[(\d+)\]',
+                         open(os.path.join(D, M), encoding='utf-8').read(), re.M)
+if [int(x) for x in ref_entries] != list(range(1, len(ref_entries) + 1)):
+    fail.append('FORMAT   manuscript                      reference numbering not contiguous')
+if len(ref_entries) != 59:
+    fail.append('FORMAT   manuscript                      expected 59 references, found %d'
+                % len(ref_entries))
+if '**' in ME:
+    fail.append('FORMAT   manuscript                      bold markers present')
+if re.search(r'[\u4e00-\u9fff]', ME):
+    fail.append('FORMAT   manuscript                      Chinese characters present')
+print('reference entries in manuscript:', len(ref_entries))
+print()
 
 # ------------------------------------------------ stale values
 STALE = ['861', '1,075', '1,046', '1,377', '297.3', '300.8', 'One hundred and ten',

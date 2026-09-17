@@ -36,8 +36,8 @@ LEG = {'Figure_1': 'Figure1_PRISMA', 'Figure_2': 'Figure2_landscape', 'Figure_3'
 missing = [v for v in LEG if not (os.path.exists(os.path.join(SUB, v + '.png'))
                                   and os.path.exists(os.path.join(SUB, v + '.pdf')))]
 print('figures png+pdf present: %s' % ('yes' if not missing else missing))
-for f in ['Title_Page.docx', 'Manuscript.docx', 'Response_to_Reviewers.docx', 'Declarations.docx',
-          'Highlights.docx', 'References.docx', 'Supplementary_File_1.docx',
+for f in ['Cover_Letter.docx', 'Title_Page.docx', 'Manuscript.docx', 'Response_to_Reviewers.docx',
+          'Declarations.docx', 'Highlights.docx', 'Supplementary_File_1.docx',
           'Supplementary_File_2.xlsx', 'Supplementary_File_3.xlsx',
           'Supplementary_File_4.xlsx', 'Supplementary_Figure_S1.png']:
     if f not in names:

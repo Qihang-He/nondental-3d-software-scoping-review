@@ -21,12 +21,12 @@ os.makedirs(OUT, exist_ok=True)
 
 # 源文件名 -> 干净英文名（去掉 R2 后缀）
 DOC_MAP = {
+    'Cover_Letter_R2.docx': 'Cover_Letter.docx',
     'Title_Page_R2.docx': 'Title_Page.docx',
     'Revised_manuscript_R2.docx': 'Manuscript.docx',
     'Response_to_reviewers_R2.docx': 'Response_to_Reviewers.docx',
     'Declarations_R2.docx': 'Declarations.docx',
     'Highlights_R2.docx': 'Highlights.docx',
-    'References_R2.docx': 'References.docx',
     'Supplementary_File_1_R2.docx': 'Supplementary_File_1.docx',
 }
 

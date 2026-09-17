@@ -30,7 +30,12 @@ print('%-46s %6s' % ('SECTION', 'words'))
 print('-' * 54)
 for n, w in rows:
     print('%-46s %6d' % (n[:46], w))
-main = sum(w for n, w in rows if n not in ('Abstract', 'Figure legends', 'PREFACE'))
+
+# main text = Introduction .. Conclusions, i.e. everything between those headings
+names = [n for n, _ in rows]
+start = names.index('Introduction')
+end = names.index('Figure legends')
+main = sum(w for _, w in rows[start:end])
 print('-' * 54)
 print('%-46s %6d' % ('MAIN TEXT (Introduction .. Conclusions)', main))
 print('%-46s %6d' % ('whole file', wc(md)))
