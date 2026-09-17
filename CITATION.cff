@@ -20,7 +20,7 @@ authors:
     given-names: Shizhu
 identifiers:
   - type: doi
-    value: 10.6084/m9.figshare.33886810
-    description: figshare archive (locked dataset, n = 861)
+    value: 10.6084/m9.figshare.33891811
+    description: figshare archive (locked dataset, n = 853)
 repository-code: "https://github.com/Qihang-He/nondental-3d-software-scoping-review"
 license: MIT

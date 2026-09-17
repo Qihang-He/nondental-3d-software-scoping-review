@@ -16,7 +16,7 @@ ROOT = _ROOTP
 ANA = os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '08_分析用')
 OUT = os.path.join(ROOT, _os.path.join(_ROOTP, '02_图表附件'), 'R2_补充材料', 'Dataset_provenance_table.csv')
 
-S = json.load(open(os.path.join(ANA, '统计核心_v5.json'), encoding='utf-8'))
+S = json.load(open(os.path.join(ANA, '统计核心_v6.json'), encoding='utf-8'))
 P = json.load(open(os.path.join(ANA, 'PRISMA_链路_v2.json'), encoding='utf-8'))
 N = S['N']
 
@@ -36,8 +36,8 @@ rows = [
      '%d records with month-level dates; %d records with year only, not plotted; 2026-H1 incomplete '
      '(search closed 30 June 2026); slope %.2f studies per half-year over all periods, %.2f excluding '
      '2026-H1' % (S['trend_denominator'], S['n_year_only'],
-                 json.load(open(os.path.join(ANA, '补充统计_v3.json'), encoding='utf-8'))['trend_all']['slope'],
-                 json.load(open(os.path.join(ANA, '补充统计_v3.json'), encoding='utf-8'))['trend_excl_2026H1']['slope'])),
+                 json.load(open(os.path.join(ANA, '补充统计_v4.json'), encoding='utf-8'))['trend_all']['slope'],
+                 json.load(open(os.path.join(ANA, '补充统计_v4.json'), encoding='utf-8'))['trend_excl_2026H1']['slope'])),
     ('Figure 2b (geographic distribution)', 'v5 (n = %d)' % N,
      '%d countries or territories; ISO-3 country codes; no missing values' % S['n_countries']),
     ('Figure 2c (study design)', 'v5 (n = %d)' % N,

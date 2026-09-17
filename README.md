@@ -7,7 +7,7 @@ Everything needed to reproduce the review is here: the search strategies, the sc
 prompts, every script, the raw model responses, the locked dataset, all derived statistics, the
 figures' inputs, and the per-record sample re-examination verdicts.
 
-**Locked dataset:** `06_data/locked_analysis_dataset.csv` (n = 861 included studies).
+**Locked dataset:** `06_data/locked_analysis_dataset.csv` (n = 853 included studies).
 Every quantitative value in the manuscript is generated from this file by
 `02_scripts/05_analysis/_tools_stats_core.py`.
 See `PIPELINE.md` for the execution order and `02_scripts/MANIFEST.csv` for the full script index.
@@ -30,7 +30,7 @@ This revision therefore applies the criterion in two stages:
 | Reverse check of the previously included set | same standard applied in reverse | 4 records removed (no named package in the full text); 3 software annotations corrected |
 | Date-window check | publication after 30 June 2026 | 3 records removed |
 
-The included set consequently changed from 566 to **861 studies**.
+The included set consequently changed from 566 to **853 studies**.
 775 excluded records had no retrievable
 full text and could not be re-assessed; this residual uncertainty is stated in the manuscript.
 
@@ -42,8 +42,8 @@ duplicates removed    1,170
 screened (title/abs)  2,556
 excluded at stage 1   1,639   (of which 1,168 re-assessed in full text, 775 without full text)
 assessed at full text 1,781
-excluded at full text 920
-INCLUDED              861
+excluded at full text 928
+INCLUDED              853
 ```
 
 ---
@@ -104,4 +104,4 @@ please cite the published article and this repository:
 https://github.com/Qihang-He/nondental-3d-software-scoping-review
 
 The archived dataset is available from figshare:
-https://doi.org/10.6084/m9.figshare.33886810
+https://doi.org/10.6084/m9.figshare.33891811

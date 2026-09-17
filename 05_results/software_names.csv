@@ -20,92 +20,82 @@ HyperMesh,22
 Magics,20
 Geomagic (unspecified),18
 InVesalius,15
-SpaceClaim,14
 ANSYS Workbench,14
-MATLAB,13
+SpaceClaim,14
+CATIA,10
 VRMesh,10
 Fusion 360,10
-CATIA,10
 Avizo,9
-Inventor,9
 ImageJ,9
-ALGOR,8
-Siemens NX (UG),8
+Inventor,9
 3D-DOCTOR,8
 AutoCAD,8
+Siemens NX (UG),8
+ALGOR,8
 ZBrush,7
 Geomagic Freeform,7
 Brainlab,7
 Amira,6
-Solid Edge,5
-Unity,5
-COMSOL Multiphysics,5
 VGStudio MAX,5
+Solid Edge,5
+COMSOL Multiphysics,5
+Unity,5
 Simpleware,4
-MeViSLab,4
 Geomagic Qualify,4
+MeViSLab,4
 Creo,4
-RadiAnt DICOM Viewer,3
-OsiriX,3
-Cura,3
-PolyWorks,3
-LS-DYNA,3
 Brainlab Elements,3
 ALTAIR OptiStruct,3
+RadiAnt DICOM Viewer,3
+OsiriX,3
+LS-DYNA,3
+Cura,3
+PolyWorks,3
 Brainlab iPlan,3
-Final Surface,2
-Netfabb,2
 MITK,2
+Dragonfly,2
+Final Surface,2
+Geomagic Verify,2
 PowerShape,2
 nTop,2
-Horos,2
-Dragonfly,2
 RapidForm,2
-Python,2
-Geomagic Verify,2
-Meshroom,1
-HyperWorks,1
-Cam HyperMill,1
-Marc,1
-ANSYS Polyflow,1
-Tinkercad,1
-MOI,1
-Cliniface,1
+Horos,2
+Netfabb,2
+Unreal Engine,1
 Artisynth,1
+Z88,1
+HyperWorks,1
+ANSYS Polyflow,1
+Brainlab Mixed Reality Viewer,1
 Scalismo Lab,1
-Vectary,1
+Digimizer,1
+Cliniface,1
+PATRAN,1
+ANSYS Mechanical,1
 Reality Composer,1
-PrusaSlicer,1
-Simplify3D,1
-Midas,1
-R2 Gate,1
-Polycam,1
-Calypso,1
+Brainlab CMF,1
+GOM ATOS Professional,1
 SculptGL,1
+Simplify3D,1
+CreatWare,1
+PrusaSlicer,1
+ANSYS DesignModeler,1
+Cam HyperMill,1
+Onshape,1
+FreeCAD,1
+hyperCAD-S,1
+Midas FX+,1
+Vectary,1
+MOI,1
+Calypso,1
+Tinkercad,1
+TRI/3D-BON,1
 ImFusion,1
+Simpleware ScanIP,1
+Analyze,1
+Polycam,1
 KIRI Engine,1
 Scaniverse,1
-PATRAN,1
-Unreal Engine,1
-CreatWare,1
-Digimizer,1
+Meshroom,1
 Artec Studio,1
-Viewbox,1
-GOM ATOS Professional,1
-Analyze,1
-Simpleware ScanIP,1
-Z88,1
-Iso2mesh,1
-GNU Octave,1
-Onshape,1
-Keras,1
-TensorFlow,1
-Open3D,1
-Brainlab CMF,1
-Trimesh,1
-FreeCAD,1
-ANSYS Mechanical,1
-ANSYS DesignModeler,1
-hyperCAD-S,1
-TRI/3D-BON,1
-Brainlab Mixed Reality Viewer,1
+Marc,1

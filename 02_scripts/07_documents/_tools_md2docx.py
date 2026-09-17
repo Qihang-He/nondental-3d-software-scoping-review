@@ -189,6 +189,34 @@ def md_to_docx(md_path, docx_path):
             i += 1
             continue
 
+        # 参考文献行：[1] ... 自成一段
+        if re.match(r'^\[\d+\]', stripped):
+            flush()
+            p = doc.add_paragraph()
+            add_runs(p, stripped)
+            fmt(p)
+            i += 1
+            continue
+
+        # 短标签行（如 Funding: / Authors' contributions: / Data availability:）自成一段
+        if re.match(r'^[A-Z][A-Za-z\'\-\. \(\)]{0,95}:$', stripped):
+            flush()
+            p = doc.add_paragraph()
+            add_runs(p, stripped)
+            fmt(p)
+            i += 1
+            continue
+
+        # 带内容的短标签项（如 Qihang He: Conceptualization, ...）自成一段
+        m3 = re.match(r'^([A-Z][A-Za-z\'\-\. ]{0,24}):\s+\S', stripped)
+        if m3 and len(m3.group(1).split()) <= 3:
+            flush()
+            p = doc.add_paragraph()
+            add_runs(p, stripped)
+            fmt(p)
+            i += 1
+            continue
+
         buf.append(stripped)
         i += 1
 

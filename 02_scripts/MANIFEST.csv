@@ -37,27 +37,27 @@
 04_charting,_tools_recode.py,Re-code charted multi-label fields,02_scripts/04_charting/_tools_recode.py,100,97f53494822f1cb3,rewritten
 04_charting,_tools_pdf_verify.py,Verify annotated software names against the archived full texts,02_scripts/04_charting/_tools_pdf_verify.py,129,29d053fe118c1a30,rewritten
 04_charting,_tools_pdf_risk_geomagic.py,Detect systematic mislabelling within the Geomagic product family,02_scripts/04_charting/_tools_pdf_risk_geomagic.py,109,0ee4e94aea148b68,rewritten
-05_analysis,_tools_stats_core.py,SINGLE SOURCE OF TRUTH: every headline statistic -> 统计核心.json,02_scripts/05_analysis/_tools_stats_core.py,183,6b8ad8a89b5ae544,rewritten
-05_analysis,_tools_extra_stats.py,"Trend regression, discipline x software-family contingency, software co-occurrence",02_scripts/05_analysis/_tools_extra_stats.py,149,067be47b3fb86dc5,rewritten
+05_analysis,_tools_stats_core.py,SINGLE SOURCE OF TRUTH: every headline statistic -> 统计核心.json,02_scripts/05_analysis/_tools_stats_core.py,183,516ad3484fa58242,rewritten
+05_analysis,_tools_extra_stats.py,"Trend regression, discipline x software-family contingency, software co-occurrence",02_scripts/05_analysis/_tools_extra_stats.py,149,9f60bd46e2a80bda,rewritten
 05_analysis,_tools_archetype.py,"Data-driven workflow archetypes (Jaccard distance, average linkage, silhouette)",02_scripts/05_analysis/_tools_archetype.py,151,cd80c6e8e70c1eac,rewritten
 05_analysis,_tools_extra_evidence.py,Assemble supplementary evidence tables for the manuscript,02_scripts/05_analysis/_tools_extra_evidence.py,48,96a1ba25b8950e30,rewritten
 05_analysis,_tools_rq3_extract.py,"RQ3 coding pass: reported advantages, challenges and gaps",02_scripts/05_analysis/_tools_rq3_extract.py,187,3150946e63249e8d,rewritten
 05_analysis,_tools_rq3_extend.py,Extend the RQ3 coding to newly eligible records with the identical codebook,02_scripts/05_analysis/_tools_rq3_extend.py,74,f9e3dd2b9d6072fe,rewritten
 05_analysis,_tools_rq3_fill3.py,Fill residual gaps in the RQ3 coding,02_scripts/05_analysis/_tools_rq3_fill3.py,62,6bfda7387d31d27a,rewritten
-05_analysis,_rq3_summarize.py,Summarise RQ3 frequencies over the final included set,02_scripts/05_analysis/_rq3_summarize.py,64,6f0feb292bfe5520,rewritten
+05_analysis,_rq3_summarize.py,Summarise RQ3 frequencies over the final included set,02_scripts/05_analysis/_rq3_summarize.py,64,e36a760ad5fa6266,rewritten
 05_analysis,_verify_stats.py,Cross-check every reported statistic against the locked dataset,02_scripts/05_analysis/_verify_stats.py,45,86a0052152488927,verbatim
-06_figures,make_figures.py,"Figures 1-5 (PRISMA, landscape, software, archetypes, contingency)",02_scripts/06_figures/make_figures.py,673,8affe07fdb0ac3a2,rewritten
+06_figures,make_figures.py,"Figures 1-5 (PRISMA, landscape, software, archetypes, contingency)",02_scripts/06_figures/make_figures.py,673,90105d9cb2ee0b98,rewritten
 06_figures,_run_figs.py,Driver that renders the figure set,02_scripts/06_figures/_run_figs.py,16,e8473355dbcc0136,verbatim
-06_figures,make_supp_fig.py,Supplementary Figure S1: journal and proceedings distribution,02_scripts/06_figures/make_supp_fig.py,69,ba369284d2c22503,rewritten
-07_documents,_tools_supp2.py,"Supplementary File 2: screening logs, exclusion reasons, outcome coding, codebook, model metadata",02_scripts/07_documents/_tools_supp2.py,216,54c91b6ea64e863b,rewritten
-07_documents,_tools_supp3.py,"Supplementary File 3: included studies, software glossary, eligibility audit, definitions",02_scripts/07_documents/_tools_supp3.py,207,52b7759efb113438,rewritten
-07_documents,_tools_provenance.py,Dataset provenance table: which dataset version generated which output,02_scripts/07_documents/_tools_provenance.py,84,bf871f45c6c27039,rewritten
-07_documents,_tools_md2docx.py,Convert the Markdown manuscript files to Word,02_scripts/07_documents/_tools_md2docx.py,202,646df07f618789b9,verbatim
+06_figures,make_supp_fig.py,Supplementary Figure S1: journal and proceedings distribution,02_scripts/06_figures/make_supp_fig.py,69,e54d0f8fb6b25e93,rewritten
+07_documents,_tools_supp2.py,"Supplementary File 2: screening logs, exclusion reasons, outcome coding, codebook, model metadata",02_scripts/07_documents/_tools_supp2.py,226,8ed0a0ca11dbc1e2,rewritten
+07_documents,_tools_supp3.py,"Supplementary File 3: included studies, software glossary, eligibility audit, definitions",02_scripts/07_documents/_tools_supp3.py,207,f0da4140566ac9a3,rewritten
+07_documents,_tools_provenance.py,Dataset provenance table: which dataset version generated which output,02_scripts/07_documents/_tools_provenance.py,84,d9c7a7ab1713e52c,rewritten
+07_documents,_tools_md2docx.py,Convert the Markdown manuscript files to Word,02_scripts/07_documents/_tools_md2docx.py,230,4bafe188942708cc,verbatim
 07_documents,_tools_check_ms.py,Check the manuscript for recurrent formatting faults,02_scripts/07_documents/_tools_check_ms.py,48,4bdaa99813b6283e,rewritten
 07_documents,_tools_renumber_refs.py,Renumber in-text citations after reference-list edits,02_scripts/07_documents/_tools_renumber_refs.py,72,0f056c793d355dd1,rewritten
 07_documents,_check_abstract.py,Verify the abstract word limit and the internal consistency of headline numbers,02_scripts/07_documents/_check_abstract.py,38,b89471ce4a711725,rewritten
 07_documents,_tools_final_audit.py,Final numerical audit of the submission package,02_scripts/07_documents/_tools_final_audit.py,85,0d9760a545864f7d,rewritten
-07_documents,_tools_build_repo.py,This script: assemble the public repository,02_scripts/07_documents/_tools_build_repo.py,905,7f51f4284f50ed5a,rewritten
+07_documents,_tools_build_repo.py,This script: assemble the public repository,02_scripts/07_documents/_tools_build_repo.py,912,6280e0f33f51e594,rewritten
 08_verification,_tools_verify_evidence.py,Build the evidence pack for the 300 sampled records,02_scripts/08_verification/_tools_verify_evidence.py,198,e44f8826f748883f,rewritten
 08_verification,_tools_verify_fill.py,"Record the per-record verdict, evidence level and reason",02_scripts/08_verification/_tools_verify_fill.py,220,620c4cdca450c583,rewritten
 08_verification,_fill_verification.py,Assemble the verification workbook from the sampled records,02_scripts/08_verification/_fill_verification.py,159,9bfa8ca9cf5d9e58,rewritten

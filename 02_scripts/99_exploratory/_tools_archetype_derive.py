@@ -2,7 +2,7 @@
 """
 _tools_archetype_derive_v5.py —— 从锁定 v5 数据集现有 Archetype 列派生工作流分型文件。
 
-不重跑聚类（重跑会改变标签）；Archetype 列以锁定数据集 分析数据集_final_v5.csv 为准。
+不重跑聚类（重跑会改变标签）；Archetype 列以锁定数据集 分析数据集_final_v6.csv 为准。
 输出：
   03_数据/08_分析用/工作流分型_描述.csv
   03_数据/08_分析用/工作流分型_逐篇标签.csv
@@ -28,7 +28,7 @@ FAM_DESC = {'MIP': 'Medical image processing', 'RE': 'Reverse engineering / 3D r
             'CAD': 'Computer-aided design', 'AM': 'Additive manufacturing',
             'SCI': 'Scientific computing / visualisation'}
 
-d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
 sw = pd.read_csv(os.path.join(ROOT, '03_数据', '09_软件表', '软件类别与来源表.csv'))
 name2cat = dict(zip(sw['规范名称'], sw['类别']))
 

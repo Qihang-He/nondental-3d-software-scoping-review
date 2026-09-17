@@ -1,5 +1,5 @@
 ﻿archetype,n,pct,scenario_1,scenario_1_pct,scenario_2,scenario_2_pct,software_family_1,software_family_2,study_types
-1,331,38.4,Segmentation/Reconstruction,56,Morphology/Phenotype,32,Medical image processing,General-purpose 3D modelling,"computational(143), clinical(111)"
-2,245,28.5,Analysis/Accuracy,100,Design/Manufacturing,9,Reverse engineering / 3D reconstruction,General-purpose 3D modelling,"in_vitro(141), clinical(60)"
-3,178,20.7,Biomechanics,98,Design/Manufacturing,11,Engineering simulation,Computer-aided design,"computational(165), in_vitro(11)"
-4,107,12.4,Design/Manufacturing,98,Segmentation/Reconstruction,9,General-purpose 3D modelling,Reverse engineering / 3D reconstruction,"in_vitro(51), technical_note(20)"
+1,325,38.1,Segmentation/Reconstruction,56,Morphology/Phenotype,31,Medical image processing,General-purpose 3D modelling,"computational(138), clinical(110)"
+2,243,28.5,Analysis/Accuracy,100,Design/Manufacturing,9,Reverse engineering / 3D reconstruction,General-purpose 3D modelling,"in_vitro(140), clinical(60)"
+3,178,20.9,Biomechanics,98,Design/Manufacturing,11,Engineering simulation,Computer-aided design,"computational(165), in_vitro(11)"
+4,107,12.5,Design/Manufacturing,98,Segmentation/Reconstruction,9,General-purpose 3D modelling,Reverse engineering / 3D reconstruction,"in_vitro(51), technical_note(20)"

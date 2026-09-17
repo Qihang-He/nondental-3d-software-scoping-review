@@ -162,16 +162,22 @@ SCRIPT_RENAME = {
     '_tools_build_repo_v4.py': '_tools_build_repo_previous.py',
     '_tools_summarize_author_reviews_v2.py': '_tools_summarize_author_reviews.py',
     'make_figures_v2.py': 'make_figures_legacy.py',
+    '_tools_scope_revision_v6.py': '_tools_scope_revision.py',
+    '_tools_prisma_scope_v6.py': '_tools_prisma_scope.py',
+    '_apply_v6_manuscript.py': '_apply_scope_numbers_manuscript.py',
+    '_apply_v6_docs.py': '_apply_scope_numbers_documents.py',
+    '_migrate_v6.py': '_migrate_artifacts.py',
+    '_run_pipeline_v6.py': '_run_core_pipeline.py',
 }
 
 # 05_results 结果文件：中文名 + 版本号 -> 英文名
 RESULTS_RENAME = {
-    '统计核心_v5.json': 'statistics_core.json',
+    '统计核心_v6.json': 'statistics_core.json',
     'PRISMA_链路_v2.json': 'prisma_flow.json',
-    '补充统计_v3.json': 'supplementary_statistics.json',
+    '补充统计_v4.json': 'supplementary_statistics.json',
     'RQ3_频次汇总.json': 'rq3_frequencies.json',
-    'RQ3_编码明细_v5.csv': 'rq3_coding.csv',
-    '软件规范名清单_v5.csv': 'software_names.csv',
+    'RQ3_编码明细_v6.csv': 'rq3_coding.csv',
+    '软件规范名清单_v6.csv': 'software_names.csv',
     '工作流分型_描述.csv': 'workflow_archetypes.csv',
     '工作流分型_逐篇标签.csv': 'workflow_archetypes_labels.csv',
     '工作流分型_方法参数.json': 'workflow_archetypes_methods.json',
@@ -187,6 +193,7 @@ RESULTS_RENAME = {
     '新增纳入_逐条溯源.csv': 'newly_included_traceability.csv',
     '最终新增纳入.csv': 'newly_included_records.csv',
     '漏排候选_E1.csv': 'missed_inclusion_candidates.csv',
+    '软件口径复核_修订记录.csv': 'software_scope_revision.csv',
 }
 
 # 06_data 锁定数据集列名：中文列名 -> 英文列名
@@ -256,7 +263,7 @@ SUPP_RENAME = {
 }
 
 # figshare 存档 DOI（写入 README 与 CITATION.cff）
-FIGSHARE_DOI = '10.6084/m9.figshare.33886810'
+FIGSHARE_DOI = '10.6084/m9.figshare.33891811'
 
 ROOT_NEW = ("_ROOTP")
 HEADER = (
@@ -482,7 +489,7 @@ def build():
     # 锁定数据集：列名英文化，去掉版本号
     import pandas as _pd
     os.makedirs(os.path.join(REPO, '06_data'), exist_ok=True)
-    _df = _pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+    _df = _pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
     _df = _df.rename(columns=DATASET_COLUMN_RENAME)
     _df.to_csv(os.path.join(REPO, '06_data', 'locked_analysis_dataset.csv'),
                index=False, encoding='utf-8-sig')
@@ -731,7 +738,7 @@ absolute paths.
 
 
 def write_readme():
-    S = json.load(open(os.path.join(ANA, '统计核心_v5.json'), encoding='utf-8'))
+    S = json.load(open(os.path.join(ANA, '统计核心_v6.json'), encoding='utf-8'))
     P = json.load(open(os.path.join(ANA, 'PRISMA_链路_v2.json'), encoding='utf-8'))
     N = S['N']
     readme = f'''# Application of Nondental 3D Software in Dentistry: A Scoping Review
@@ -870,7 +877,7 @@ authors:
 identifiers:
   - type: doi
     value: {FIGSHARE_DOI}
-    description: figshare archive (locked dataset, n = 861)
+    description: figshare archive (locked dataset, n = 853)
 repository-code: "https://github.com/Qihang-He/nondental-3d-software-scoping-review"
 license: MIT
 '''

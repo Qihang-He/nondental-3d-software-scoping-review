@@ -1,117 +1,105 @@
 ﻿original_name,canonical_name,category,development_domain,developer,source_url,url_status,n_studies
-Mimics,Mimics,MIP,Medical image processing,Materialise,https://www.materialise.com/en/medical/mimics-innovation-suite/mimics,200,156
-3D Slicer,3D Slicer,MIP,Medical image processing / academic,Slicer Community (BWH/Harvard),https://www.slicer.org,200,141
-Slicer,3D Slicer,MIP,Medical image processing / academic,Slicer Community (BWH/Harvard),https://www.slicer.org,200,141
-Meshmixer,Meshmixer,GEN3D,General-purpose 3D modeling,Autodesk,https://meshmixer.com,200,88
-Geomagic Control X,Geomagic Control X,RE,Reverse engineering & metrology,3D Systems,https://www.3dsystems.com/software/geomagic-control-x,403,87
-Geomagic Control,Geomagic Control X,RE,Reverse engineering & metrology,3D Systems,https://www.3dsystems.com/software/geomagic-control-x,403,87
-ANSYS,ANSYS,SIM,Engineering simulation (FEA/CFD),"ANSYS, Inc.",https://www.ansys.com,200,77
-Blender,Blender,GEN3D,General-purpose 3D modeling / animation,Blender Foundation,https://www.blender.org,200,56
-SolidWorks,SolidWorks,CAD,Engineering CAD,Dassault Systemes,https://www.solidworks.com,ERR:HTTPSConnectionPool(host='www.,56
-3-Matic,3-Matic,MIP,Medical image processing / design (Materialise),Materialise,https://www.materialise.com/en/medical/software/3-matic,200,55
-GOM Inspect,GOM Inspect,RE,Industrial metrology / 3D inspection,GOM GmbH (Zeiss),https://www.gom.com,200,53
-Rhinoceros,Rhinoceros,GEN3D,General-purpose 3D NURBS modeling,Robert McNeel & Associates,https://www.rhino3d.com,ERR:HTTPSConnectionPool(host='www.,38
-ITK-SNAP,ITK-SNAP,MIP,Medical image processing / academic,ITK-SNAP (Univ. of Pennsylvania),https://www.itksnap.org,ERR:HTTPSConnectionPool(host='www.,36
-Geomagic Wrap,Geomagic Wrap,RE,Reverse engineering & metrology,3D Systems,https://www.3dsystems.com/software/geomagic-wrap,403,34
-Geomagic Studio,Geomagic Studio,RE,Reverse engineering & metrology (legacy),3D Systems,https://www.3dsystems.com/software,200,35
-MeshLab,MeshLab,GEN3D,Mesh processing (open source),ISTI-CNR,https://www.meshlab.net,200,33
-ABAQUS,ABAQUS,SIM,Engineering simulation (FEA),Dassault Systemes (SIMULIA),https://www.3ds.com/products/simulia/abaqus,200,29
-Geomagic Design X,Geomagic Design X,RE,Reverse engineering,3D Systems,https://www.3dsystems.com/software/geomagic-design-x,403,22
-CloudCompare,CloudCompare,RE,Point-cloud / 3D processing (open source),CloudCompare / EDF R&D,https://www.cloudcompare.org,403,23
-HyperMesh,HyperMesh,SIM,Engineering simulation pre-/post-processing,Altair,https://altair.com/hypermesh,200,22
 Magics,Magics,AM,Additive manufacturing data preparation,Materialise,https://www.materialise.com/en/industrial/software/magics,404,20
-Geomagic (unspecified),Geomagic (unspecified),RE,Geomagic product family (specific module not specified in full text),3D Systems,https://www.3dsystems.com/software,200,18
-InVesalius,InVesalius,MIP,Medical image processing (open source),Renato Archer CTI,https://invesalius.github.io,200,15
+Cura,Cura,AM,3D printing slicer (open source),Ultimaker,https://ultimaker.com/software/ultimaker-cura/,403,3
+Netfabb,Netfabb,AM,Additive manufacturing preparation,Autodesk,https://www.autodesk.com/products/netfabb,403,2
+Simplify3D,Simplify3D,AM,3D printing slicer,Simplify3D,https://www.simplify3d.com,200,1
+CreatWare,CreatWare,AM,3D printing print-preparation (slicer),"CreatBot (Zhengzhou, China)",https://doi.org/10.3390/ma15196890,OK (verified in citing full text),1
+PrusaSlicer,PrusaSlicer,AM,3D printing slicer (open source),Prusa Research,https://www.prusa3d.com/prusaslicer/,200,1
+SolidWorks,SolidWorks,CAD,Engineering CAD,Dassault Systemes,https://www.solidworks.com,ERR:HTTPSConnectionPool(host='www.,56
 SpaceClaim,SpaceClaim,CAD,Engineering direct modeling CAD,ANSYS,https://www.ansys.com/products/3d-design/ansys-spaceclaim,200,14
-MATLAB,MATLAB,SCI,Scientific computing and visualisation,MathWorks,https://www.mathworks.com/products/matlab.html,200,13
-ANSYS Workbench,ANSYS Workbench,SIM,Engineering simulation (FEA/CFD),"ANSYS, Inc.",https://www.ansys.com/products/ansys-workbench,200,14
 Fusion 360,Fusion 360,CAD,Engineering CAD/CAM,Autodesk,https://www.autodesk.com/products/fusion-360,403,10
 CATIA,CATIA,CAD,Engineering CAD,Dassault Systemes,https://www.3ds.com/products/catia,200,10
-ImageJ,ImageJ,SCI,Scientific image analysis (with 3D plugins),NIH / open source,https://imagej.net/ij/,200,9
-Avizo,Avizo,SCI,Scientific 3D imaging & analysis,Thermo Fisher Scientific,https://www.thermofisher.com/amira-avizo,403,9
 Inventor,Inventor,CAD,Engineering CAD,Autodesk,https://www.autodesk.com/products/inventor,403,9
-VRMesh,VRMesh,RE,Reverse engineering / mesh processing,VirtualGrid,https://www.vrmesh.com,200,10
 ug,Siemens NX (UG),CAD,Engineering CAD/CAM,Siemens Digital Industries,https://plm.sw.siemens.com/en-US/nx/,200,8
 AutoCAD,AutoCAD,CAD,Engineering CAD,Autodesk,https://www.autodesk.com/products/autocad,403,8
-3D-DOCTOR,3D-DOCTOR,MIP,Medical image processing,Able Software Corp.,http://www.3d-doctor.com,ERR:HTTPConnectionPool(host='www.3,8
-Geomagic Freeform,Geomagic Freeform,RE,Haptic 3D design / reverse engineering,3D Systems,https://www.3dsystems.com/software/geomagic-freeform,403,7
-ALGOR,ALGOR,SIM,Engineering simulation (FEA),Autodesk (formerly ALGOR),https://www.autodesk.com,403,8
-ZBrush,ZBrush,GEN3D,Digital sculpting,Maxon (Pixologic),https://www.maxon.net/en/zbrush,200,7
-Brainlab,Brainlab,MIP,Medical navigation / planning,Brainlab AG,https://www.brainlab.com,200,7
-Amira,Amira,SCI,Scientific/medical 3D visualization,Thermo Fisher Scientific,https://www.thermofisher.com/amira-avizo,403,6
 Solid Edge,Solid Edge,CAD,Engineering CAD,Siemens Digital Industries,https://solidedge.siemens.com,ERR:HTTPSConnectionPool(host='soli,5
-VGStudio MAX,VGStudio MAX,RE,Industrial CT analysis & metrology,Volume Graphics,https://www.volumegraphics.com,200,5
 SOLID EDGE,Solid Edge,CAD,Engineering CAD,Siemens Digital Industries,https://solidedge.siemens.com,ERR:HTTPSConnectionPool(host='soli,5
-Unity,Unity,RT,Real-time engine / XR,Unity Technologies,https://unity.com,200,5
-COMSOL Multiphysics,COMSOL Multiphysics,SIM,Multiphysics simulation,"COMSOL, Inc.",https://www.comsol.com,200,5
-Geomagic Qualify,Geomagic Qualify,RE,Industrial 3D inspection / metrology (legacy),3D Systems,https://www.3dsystems.com/software,200,4
-MeViSLab,MeViSLab,MIP,Medical image processing (open source),MeVis Medical Solutions / Fraunhofer MEVIS,https://www.mevislab.de,200,4
-Simpleware,Simpleware,MIP,Medical image processing & FEA meshing,Synopsys,https://www.synopsys.com/simpleware.html,200,4
 Creo,Creo,CAD,Engineering CAD,PTC,https://www.ptc.com/en/products/creo,403,4
-Brainlab iPlan,Brainlab iPlan,MIP,Surgical planning software,Brainlab AG,https://www.brainlab.com/,200,3
-Cura,Cura,AM,3D printing slicer (open source),Ultimaker,https://ultimaker.com/software/ultimaker-cura/,403,3
+PowerShape,PowerShape,CAD,CAM/CAD for toolmaking,Autodesk,https://www.autodesk.com/products/powershape,403,2
+nTop,nTop,CAD,Implicit modeling / engineering design,nTopology,https://www.ntop.com,200,2
+ANSYS DesignModeler,ANSYS DesignModeler,CAD,Engineering CAD / geometry modelling,"ANSYS, Inc.",https://www.ansys.com/products/ansys-workbench,200,1
+Cam HyperMill,Cam HyperMill,CAD,CAM / NC machining,OPEN MIND Technologies,https://www.openmind-tech.com,200,1
+Onshape,Onshape,CAD,Cloud-based computer-aided design,PTC,https://www.onshape.com/,200,1
+FreeCAD,FreeCAD,CAD,Open-source parametric 3D CAD,FreeCAD community,https://www.freecad.org/,200,1
+hyperCAD-S,hyperCAD-S,CAD,CAD for CAM (Open Mind),OPEN MIND Technologies,https://www.openmind-tech.com/,200,1
+Midas FX+,Midas FX+,CAD,Engineering CAD/CAE (2D/3D design and analysis),"Brunleys (Milton Keynes, UK)",https://doi.org/10.3390/jpm11090932,OK (verified in citing full text),1
 RadiAnt DICOM Viewer,RadiAnt DICOM Viewer,DICOM,DICOM viewer,Medixant,https://www.radiantviewer.com,200,3
 Radiant,RadiAnt DICOM Viewer,DICOM,DICOM viewer,Medixant,https://www.radiantviewer.com,200,3
 OsiriX,OsiriX,DICOM,DICOM viewer / medical imaging,Pixmeo SARL,https://www.osirix-viewer.com,200,3
-Brainlab Elements,Brainlab Elements,MIP,Medical image segmentation / planning,Brainlab AG,https://www.brainlab.com/,200,3
-LS-DYNA,LS-DYNA,SIM,Explicit finite element simulation,Ansys (LSTC),https://www.ansys.com/products/structures/ansys-ls-dyna,200,3
-ALTAIR OptiStruct,ALTAIR OptiStruct,SIM,Structural optimisation and FEA,Altair Engineering,https://altair.com/optistruct,200,3
-PolyWorks,PolyWorks,RE,Industrial metrology,InnovMetric,https://www.innovmetric.com,451,3
-PowerShape,PowerShape,CAD,CAM/CAD for toolmaking,Autodesk,https://www.autodesk.com/products/powershape,403,2
-MITK,MITK,MIP,Medical image processing (open source),German Cancer Research Center (DKFZ),https://www.mitk.org,200,2
-Netfabb,Netfabb,AM,Additive manufacturing preparation,Autodesk,https://www.autodesk.com/products/netfabb,403,2
-Final Surface,Final Surface,RE,Mesh processing / reverse engineering,Final Surface,https://www.final-surface.com,ERR:HTTPSConnectionPool(host='www.,2
-Python,Python,SCI,General-purpose programming language,Python Software Foundation,https://www.python.org/,200,2
-Geomagic Verify,Geomagic Verify,RE,Metrology / inspection,3D Systems,https://www.3dsystems.com/,200,2
-nTop,nTop,CAD,Implicit modeling / engineering design,nTopology,https://www.ntop.com,200,2
-Dragonfly,Dragonfly,SCI,CT/imaging analysis,Object Research Systems (ORS),https://www.theobjects.com/dragonfly,200,2
-RapidForm,RapidForm,RE,Reverse engineering / metrology (now Geomagic Design X),3D Systems,https://www.3dsystems.com/,200,2
 Horos,Horos,DICOM,DICOM viewer (open source),Horos Project,https://horosproject.org,500,2
-TRI/3D-BON,TRI/3D-BON,MIP,3D morphometric analysis,Ratoc System Engineering,https://www.ratoc.co.jp/,200,1
-Reality Composer,Reality Composer,RT,Augmented reality authoring,Apple Inc.,https://developer.apple.com/augmented-reality/,200,1
+Meshmixer,Meshmixer,GEN3D,General-purpose 3D modeling,Autodesk,https://meshmixer.com,200,88
+Blender,Blender,GEN3D,General-purpose 3D modeling / animation,Blender Foundation,https://www.blender.org,200,56
+Rhinoceros,Rhinoceros,GEN3D,General-purpose 3D NURBS modeling,Robert McNeel & Associates,https://www.rhino3d.com,ERR:HTTPSConnectionPool(host='www.,38
+MeshLab,MeshLab,GEN3D,Mesh processing (open source),ISTI-CNR,https://www.meshlab.net,200,33
+ZBrush,ZBrush,GEN3D,Digital sculpting,Maxon (Pixologic),https://www.maxon.net/en/zbrush,200,7
 Vectary,Vectary,GEN3D,Web-based 3D modeling,Vectary,https://www.vectary.com,200,1
-R2 Gate,R2 Gate,???,TO VERIFY (suspected dental-specific implant guide software),MegaGen,https://www.megagen.co.kr,ERR:HTTPSConnectionPool(host='www.,1
-Polycam,Polycam,PHOTO,Photogrammetry app,Polycam,https://poly.cam,200,1
-Calypso,Calypso,RE,Coordinate metrology,ZEISS,https://www.zeiss.com/metrology,200,1
 SculptGL,SculptGL,GEN3D,Web-based digital sculpting (open source),Stephane Ginier,https://stephaneginier.com/sculptgl/,200,1
-ImFusion,ImFusion,MIP,Medical imaging software,ImFusion GmbH,https://www.imfusion.com,200,1
-KIRI Engine,KIRI Engine,PHOTO,Photogrammetry app,KIRI Innovation,https://www.kiriengine.app,200,1
-ANSYS DesignModeler,ANSYS DesignModeler,CAD,Engineering CAD / geometry modelling,"ANSYS, Inc.",https://www.ansys.com/products/ansys-workbench,200,1
-Scaniverse,Scaniverse,PHOTO,3D scanning app,Niantic,https://scaniverse.com,403,1
-Scalismo Lab,Scalismo Lab,SCI,Statistical shape modeling (open source),University of Basel,https://scalismo.org,200,1
-Artisynth,Artisynth,SIM,Biomechanical simulation (open source),University of British Columbia,https://www.artisynth.org,200,1
-Simplify3D,Simplify3D,AM,3D printing slicer,Simplify3D,https://www.simplify3d.com,200,1
-CreatWare,CreatWare,???,TO VERIFY,,,,1
 MOI,MOI,GEN3D,NURBS modeling (MoI 3D),Triple Squid Software Design,https://moi3d.com,200,1
-Digimizer,Digimizer,SCI,Image measurement & analysis,MedCalc Software,https://www.digimizer.com,200,1
-Geomagic,Geomagic (suite),RE,Reverse engineering & metrology (product family),3D Systems,https://www.3dsystems.com/software,200,0
 Tinkercad,Tinkercad,GEN3D,Web-based 3D modeling,Autodesk,https://www.tinkercad.com,200,1
-ANSYS Mechanical,ANSYS Mechanical,SIM,Engineering simulation (FEA),"ANSYS, Inc.",https://www.ansys.com/products/structures/ansys-mechanical,200,1
-Cliniface,Cliniface,SCI,3D facial image analysis (open source),Cliniface (Curtin University),https://cliniface.org,401,1
-GNU Octave,GNU Octave,SCI,Scientific computing,GNU Project,https://octave.org/,200,1
-Unreal Engine,Unreal Engine,RT,Real-time engine / XR,Epic Games,https://www.unrealengine.com,403,1
-PATRAN,PATRAN,SIM,FEA pre-/post-processing,MSC Software (Hexagon),https://www.mscsoftware.com/product/patran,403,1
-ANSYS Polyflow,ANSYS Polyflow,SIM,CFD simulation,"ANSYS, Inc.",https://www.ansys.com/products/fluids/ansys-polyflow,200,1
-Cam HyperMill,Cam HyperMill,CAD,CAM / NC machining,OPEN MIND Technologies,https://www.openmind-tech.com,200,1
-PrusaSlicer,PrusaSlicer,AM,3D printing slicer (open source),Prusa Research,https://www.prusa3d.com/prusaslicer/,200,1
-TensorFlow,TensorFlow,SCI,Deep-learning framework,Google,https://www.tensorflow.org/,200,1
-Hyperworks,HyperWorks,SIM,Engineering simulation suite,Altair,https://altair.com,200,1
+Mimics,Mimics,MIP,Medical image processing,Materialise,https://www.materialise.com/en/medical/mimics-innovation-suite/mimics,200,156
+3D Slicer,3D Slicer,MIP,Medical image processing / academic,Slicer Community (BWH/Harvard),https://www.slicer.org,200,141
+Slicer,3D Slicer,MIP,Medical image processing / academic,Slicer Community (BWH/Harvard),https://www.slicer.org,200,141
+3-Matic,3-Matic,MIP,Medical image processing / design (Materialise),Materialise,https://www.materialise.com/en/medical/software/3-matic,200,55
+ITK-SNAP,ITK-SNAP,MIP,Medical image processing / academic,ITK-SNAP (Univ. of Pennsylvania),https://www.itksnap.org,ERR:HTTPSConnectionPool(host='www.,36
+InVesalius,InVesalius,MIP,Medical image processing (open source),Renato Archer CTI,https://invesalius.github.io,200,15
+3D-DOCTOR,3D-DOCTOR,MIP,Medical image processing,Able Software Corp.,http://www.3d-doctor.com,ERR:HTTPConnectionPool(host='www.3,8
+Brainlab,Brainlab,MIP,Medical navigation / planning,Brainlab AG,https://www.brainlab.com,200,7
+MeViSLab,MeViSLab,MIP,Medical image processing (open source),MeVis Medical Solutions / Fraunhofer MEVIS,https://www.mevislab.de,200,4
+Simpleware,Simpleware,MIP,Medical image processing & FEA meshing,Synopsys,https://www.synopsys.com/simpleware.html,200,4
+Brainlab iPlan,Brainlab iPlan,MIP,Surgical planning software,Brainlab AG,https://www.brainlab.com/,200,3
+Brainlab Elements,Brainlab Elements,MIP,Medical image segmentation / planning,Brainlab AG,https://www.brainlab.com/,200,3
+MITK,MITK,MIP,Medical image processing (open source),German Cancer Research Center (DKFZ),https://www.mitk.org,200,2
+TRI/3D-BON,TRI/3D-BON,MIP,3D morphometric analysis,Ratoc System Engineering,https://www.ratoc.co.jp/,200,1
+ImFusion,ImFusion,MIP,Medical imaging software,ImFusion GmbH,https://www.imfusion.com,200,1
+Simpleware ScanIP,Simpleware ScanIP,MIP,Medical image processing (Simpleware platform),Synopsys,https://www.synopsys.com/simpleware.html,200,1
+Brainlab CMF,Brainlab CMF,MIP,Craniomaxillofacial planning,Brainlab AG,https://www.brainlab.com/,200,1
+Analyze,Analyze,MIP,Biomedical image visualisation and analysis,Mayo Clinic,https://analyzedirect.com/,200,1
+Polycam,Polycam,PHOTO,Photogrammetry app,Polycam,https://poly.cam,200,1
+KIRI Engine,KIRI Engine,PHOTO,Photogrammetry app,KIRI Innovation,https://www.kiriengine.app,200,1
+Scaniverse,Scaniverse,PHOTO,3D scanning app,Niantic,https://scaniverse.com,403,1
 Meshroom,Meshroom,PHOTO,Photogrammetry (open source),AliceVision,https://alicevision.org/#meshroom,200,1
 Artec Studio,Artec Studio,PHOTO,Structured-light scanning and mesh processing,Artec 3D,https://www.artec3d.com/3d-software/artec-studio,200,1
-Z88,Z88,SIM,Finite element analysis (open source),University of Bayreuth,https://en.z88.de/,200,1
-Iso2mesh,Iso2mesh,SCI,Mesh generation for finite element analysis,Open source,https://iso2mesh.sourceforge.net/,200,1
-Onshape,Onshape,CAD,Cloud-based computer-aided design,PTC,https://www.onshape.com/,200,1
-Keras,Keras,SCI,Deep-learning framework,Keras team,https://keras.io/,200,1
-Trimesh,Trimesh,SCI,Mesh processing library (Python),Open source,https://trimesh.org/,200,1
-Open3D,Open3D,SCI,3D data processing library,Intel / open source,https://www.open3d.org/,200,1
-Marc,Marc,SIM,Nonlinear FEA simulation,MSC Software (Hexagon),https://www.mscsoftware.com/product/marc,403,1
-FreeCAD,FreeCAD,CAD,Open-source parametric 3D CAD,FreeCAD community,https://www.freecad.org/,200,1
-hyperCAD-S,hyperCAD-S,CAD,CAD for CAM (Open Mind),OPEN MIND Technologies,https://www.openmind-tech.com/,200,1
+Geomagic Control X,Geomagic Control X,RE,Reverse engineering & metrology,3D Systems,https://www.3dsystems.com/software/geomagic-control-x,403,87
+Geomagic Control,Geomagic Control X,RE,Reverse engineering & metrology,3D Systems,https://www.3dsystems.com/software/geomagic-control-x,403,87
+GOM Inspect,GOM Inspect,RE,Industrial metrology / 3D inspection,GOM GmbH (Zeiss),https://www.gom.com,200,53
+Geomagic Studio,Geomagic Studio,RE,Reverse engineering & metrology (legacy),3D Systems,https://www.3dsystems.com/software,200,35
+Geomagic Wrap,Geomagic Wrap,RE,Reverse engineering & metrology,3D Systems,https://www.3dsystems.com/software/geomagic-wrap,403,34
+CloudCompare,CloudCompare,RE,Point-cloud / 3D processing (open source),CloudCompare / EDF R&D,https://www.cloudcompare.org,403,23
+Geomagic Design X,Geomagic Design X,RE,Reverse engineering,3D Systems,https://www.3dsystems.com/software/geomagic-design-x,403,22
+Geomagic (unspecified),Geomagic (unspecified),RE,Geomagic product family (specific module not specified in full text),3D Systems,https://www.3dsystems.com/software,200,18
+VRMesh,VRMesh,RE,Reverse engineering / mesh processing,VirtualGrid,https://www.vrmesh.com,200,10
+Geomagic Freeform,Geomagic Freeform,RE,Haptic 3D design / reverse engineering,3D Systems,https://www.3dsystems.com/software/geomagic-freeform,403,7
+VGStudio MAX,VGStudio MAX,RE,Industrial CT analysis & metrology,Volume Graphics,https://www.volumegraphics.com,200,5
+Geomagic Qualify,Geomagic Qualify,RE,Industrial 3D inspection / metrology (legacy),3D Systems,https://www.3dsystems.com/software,200,4
+PolyWorks,PolyWorks,RE,Industrial metrology,InnovMetric,https://www.innovmetric.com,451,3
+Final Surface,Final Surface,RE,Mesh processing / reverse engineering,Final Surface,https://www.final-surface.com,ERR:HTTPSConnectionPool(host='www.,2
+Geomagic Verify,Geomagic Verify,RE,Metrology / inspection,3D Systems,https://www.3dsystems.com/,200,2
+RapidForm,RapidForm,RE,Reverse engineering / metrology (now Geomagic Design X),3D Systems,https://www.3dsystems.com/,200,2
+Calypso,Calypso,RE,Coordinate metrology,ZEISS,https://www.zeiss.com/metrology,200,1
 GOM ATOS Professional,GOM ATOS Professional,RE,Optical metrology / inspection software,Carl Zeiss GOM,https://www.gom.com/,200,1
-Simpleware ScanIP,Simpleware ScanIP,MIP,Medical image processing (Simpleware platform),Synopsys,https://www.synopsys.com/simpleware.html,200,1
-Viewbox,Viewbox,SCI,Cephalometric analysis software,dHAL Software,https://www.dhal.com/,200,1
-Brainlab CMF,Brainlab CMF,MIP,Craniomaxillofacial planning,Brainlab AG,https://www.brainlab.com/,200,1
+Unity,Unity,RT,Real-time engine / XR,Unity Technologies,https://unity.com,200,5
+Reality Composer,Reality Composer,RT,Augmented reality authoring,Apple Inc.,https://developer.apple.com/augmented-reality/,200,1
+Unreal Engine,Unreal Engine,RT,Real-time engine / XR,Epic Games,https://www.unrealengine.com,403,1
 Brainlab Mixed Reality Viewer,Brainlab Mixed Reality Viewer,RT,Mixed-reality visualisation,Brainlab AG,https://www.brainlab.com/,200,1
-Midas,Midas,???,TO VERIFY (Midas NFX FEA or other),,,,1
-Analyze,Analyze,MIP,Biomedical image visualisation and analysis,Mayo Clinic,https://analyzedirect.com/,200,1
-PreForm,PreForm,AM,Stereolithography print preparation,Formlabs,https://formlabs.com/software/,200,0
+ImageJ,ImageJ,SCI,Scientific image analysis (with 3D plugins),NIH / open source,https://imagej.net/ij/,200,9
+Avizo,Avizo,SCI,Scientific 3D imaging & analysis,Thermo Fisher Scientific,https://www.thermofisher.com/amira-avizo,403,9
+Amira,Amira,SCI,Scientific/medical 3D visualization,Thermo Fisher Scientific,https://www.thermofisher.com/amira-avizo,403,6
+Dragonfly,Dragonfly,SCI,CT/imaging analysis,Object Research Systems (ORS),https://www.theobjects.com/dragonfly,200,2
+Scalismo Lab,Scalismo Lab,SCI,Statistical shape modeling (open source),University of Basel,https://scalismo.org,200,1
+Digimizer,Digimizer,SCI,Image measurement & analysis,MedCalc Software,https://www.digimizer.com,200,1
+Cliniface,Cliniface,SCI,3D facial image analysis (open source),Cliniface (Curtin University),https://cliniface.org,401,1
+ANSYS,ANSYS,SIM,Engineering simulation (FEA/CFD),"ANSYS, Inc.",https://www.ansys.com,200,77
+ABAQUS,ABAQUS,SIM,Engineering simulation (FEA),Dassault Systemes (SIMULIA),https://www.3ds.com/products/simulia/abaqus,200,29
+HyperMesh,HyperMesh,SIM,Engineering simulation pre-/post-processing,Altair,https://altair.com/hypermesh,200,22
+ANSYS Workbench,ANSYS Workbench,SIM,Engineering simulation (FEA/CFD),"ANSYS, Inc.",https://www.ansys.com/products/ansys-workbench,200,14
+ALGOR,ALGOR,SIM,Engineering simulation (FEA),Autodesk (formerly ALGOR),https://www.autodesk.com,403,8
+COMSOL Multiphysics,COMSOL Multiphysics,SIM,Multiphysics simulation,"COMSOL, Inc.",https://www.comsol.com,200,5
+LS-DYNA,LS-DYNA,SIM,Explicit finite element simulation,Ansys (LSTC),https://www.ansys.com/products/structures/ansys-ls-dyna,200,3
+ALTAIR OptiStruct,ALTAIR OptiStruct,SIM,Structural optimisation and FEA,Altair Engineering,https://altair.com/optistruct,200,3
+Artisynth,Artisynth,SIM,Biomechanical simulation (open source),University of British Columbia,https://www.artisynth.org,200,1
+ANSYS Mechanical,ANSYS Mechanical,SIM,Engineering simulation (FEA),"ANSYS, Inc.",https://www.ansys.com/products/structures/ansys-mechanical,200,1
+PATRAN,PATRAN,SIM,FEA pre-/post-processing,MSC Software (Hexagon),https://www.mscsoftware.com/product/patran,403,1
+ANSYS Polyflow,ANSYS Polyflow,SIM,CFD simulation,"ANSYS, Inc.",https://www.ansys.com/products/fluids/ansys-polyflow,200,1
+Hyperworks,HyperWorks,SIM,Engineering simulation suite,Altair,https://altair.com,200,1
+Z88,Z88,SIM,Finite element analysis (open source),University of Bayreuth,https://en.z88.de/,200,1
+Marc,Marc,SIM,Nonlinear FEA simulation,MSC Software (Hexagon),https://www.mscsoftware.com/product/marc,403,1

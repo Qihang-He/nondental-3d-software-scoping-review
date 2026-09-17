@@ -31,7 +31,7 @@ SWT = os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '09_软件表', '�
 OUTD = os.path.join(ROOT, _os.path.join(_ROOTP, '02_图表附件'), 'R2_补充材料')
 os.makedirs(OUTD, exist_ok=True)
 
-S = json.load(open(os.path.join(ANA, '统计核心_v5.json'), encoding='utf-8'))
+S = json.load(open(os.path.join(ANA, '统计核心_v6.json'), encoding='utf-8'))
 N = S['N']
 
 
@@ -49,7 +49,7 @@ def pl(x):
         return []
 
 
-d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
 old = pd.read_excel(FINAL)
 old['_n'] = old['Title'].map(nrm)
 ref = dict(zip(old['_n'], old['Refrence']))

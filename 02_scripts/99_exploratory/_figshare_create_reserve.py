@@ -18,7 +18,7 @@ OUT = os.path.join(ROOT, '02_图表附件', 'figshare_v2.0', 'pending_article.js
 TITLE = ('Application of Nondental 3D Software in Dentistry: A Scoping Review '
          '- reproducibility materials')
 
-DESCRIPTION = """Complete reproducibility materials for a scoping review of nondental three-dimensional (3D) software use across dental disciplines, comprising 861 included studies.
+DESCRIPTION = """Complete reproducibility materials for a scoping review of nondental three-dimensional (3D) software use across dental disciplines, comprising 853 included studies.
 
 CONTENTS
 - Complete search strategies for PubMed, Web of Science and IEEE Xplore
@@ -26,14 +26,17 @@ CONTENTS
 - All analysis scripts, organised by stage: screening, full-text re-assessment, selection, charting, statistics, figures, documents, verification
 - Raw model responses of all three screening runs and the run-to-run agreement analysis
 - The two-stage full-text re-assessment pass covering every excluded record with a retrievable full text, together with its reconciliation and adjudication steps
-- The locked analysis dataset (n = 861)
+- The locked analysis dataset (n = 853)
 - Every derived statistic: the PRISMA chain, the discipline-by-software-family contingency analysis, the data-driven workflow archetypes, and the reported advantages, challenges and gaps
 - Supplementary Files 2, 3 and 4, and the dataset provenance table
 - The author verification workbook with its sampling design
 - PIPELINE.md (execution order), 02_scripts/MANIFEST.csv (script index with checksums) and run_pipeline.py (executable pipeline driver)
 
 METHODOLOGICAL NOTE
-The review applies its decisive eligibility criterion - the explicit use of a named third-party nondental 3D software package - in full text rather than at abstract level, because the software is normally named only in the methods section of a paper. Re-assessing every excluded record with a retrievable full text added 304 studies to the review. A reverse check removed four studies whose full text names no such package, and three further records were removed because their publication date fell outside the prespecified window. The included set therefore comprises 861 studies. Two additional records were removed during the current audit: one narrative/technical review and one record whose recorded software was not supported by the full text.
+The review applies its decisive eligibility criterion - the explicit use of a named third-party nondental 3D software package - in full text rather than at abstract level, because the software is normally named only in the methods section of a paper. Re-assessing every excluded record with a retrievable full text added 304 studies to the review. A reverse check removed four studies whose full text names no such package, and three further records were removed because their publication date fell outside the prespecified window. Two additional records were removed during the current audit: one narrative/technical review and one record whose recorded software was not supported by the full text.
+
+SOFTWARE-SCOPE AUDIT
+Every package recorded in the review was finally re-verified against the review's definition of nondental 3D software. Ten entries were removed: MATLAB, Python, GNU Octave, TensorFlow and Keras, which are general-purpose programming, numerical-computing or machine-learning platforms rather than 3D software packages; Open3D, Trimesh and Iso2mesh, which are programming libraries rather than software packages; and R2 Gate and Viewbox, which were developed specifically for dentistry and therefore fail the origin criterion. CreatWare, Midas FX+ and Scalismo Lab were provisionally flagged but retained, because their full texts confirmed a nondental origin. Eight included studies named no other eligible package and were removed, so the included set comprises 853 studies and the software list comprises 100 packages. The per-record revision log is deposited as 05_results/software_scope_revision.csv.
 
 No API key is included in this deposit. The analysis steps run without one, because the model logs are already included; only re-running the model-assisted steps requires a key."""
 

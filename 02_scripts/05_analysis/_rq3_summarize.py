@@ -16,7 +16,7 @@ import pandas as pd
 ROOT = _ROOTP
 ANA = os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '08_分析用')
 
-d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
 keys = set(d['Key'].astype(str))
 N = len(d)
 
@@ -69,4 +69,4 @@ for k in ('advantages', 'challenges', 'gaps'):
     print('\n==', k)
     for e in res[k]:
         print('   %-4s %-52s %4d  %5.1f%%' % (e['code'], e['label'][:52], e['n'], e['pct']))
-rq.to_csv(os.path.join(ANA, 'RQ3_编码明细_v5.csv'), index=False, encoding='utf-8-sig')
+rq.to_csv(os.path.join(ANA, 'RQ3_编码明细_v6.csv'), index=False, encoding='utf-8-sig')

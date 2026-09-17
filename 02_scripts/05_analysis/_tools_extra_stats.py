@@ -13,7 +13,7 @@ _tools_extra_stats_v3.py —— N=566 的补充统计
   · 软件共现对（Top 30）
   · 专科 × 软件族 列联分析（精确 χ²、Cramér's V、标准化残差、期望频数<5 比例）
   · 专科规模归一后的软件族占比（回应"未按专科规模归一"的质疑）
-输出：03_数据/08_分析用/补充统计_v3.json
+输出：03_数据/08_分析用/补充统计_v4.json
 """
 import os
 import ast
@@ -26,8 +26,8 @@ from scipy.stats import chi2_contingency, linregress, chi2 as chi2dist
 
 ROOT = _ROOTP
 ANA = os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '08_分析用')
-S = json.load(open(os.path.join(ANA, '统计核心_v5.json'), encoding='utf-8'))
-d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+S = json.load(open(os.path.join(ANA, '统计核心_v6.json'), encoding='utf-8'))
+d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
 SW = pd.read_csv(os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '09_软件表', '软件类别与来源表.csv'))
 name2cat = dict(zip(SW['规范名称'], SW['类别']))
 N = len(d)
@@ -143,7 +143,7 @@ for i, sp in enumerate(spec_main):
                  **{FAMS[j]: round(float(row[j] / tot * 100), 1) for j in range(len(FAMS))}})
 R['software_family_share_by_speciality'] = norm
 
-json.dump(R, open(os.path.join(ANA, '补充统计_v3.json'), 'w', encoding='utf-8'),
+json.dump(R, open(os.path.join(ANA, '补充统计_v4.json'), 'w', encoding='utf-8'),
           ensure_ascii=False, indent=2)
 
 print('趋势斜率（全部期）= %.2f / 半年' % R['trend_all']['slope'])
@@ -154,4 +154,4 @@ print('合并小专科后：chi2=%.1f df=%d V=%.3f' % (chi2b, dofb, Vb))
 print('\nTop 共现对：')
 for it in R['software_pairs_top'][:12]:
     print('   %-24s + %-24s %d' % (it['a'], it['b'], it['n']))
-print('\n[saved] 补充统计_v3.json')
+print('\n[saved] 补充统计_v4.json')

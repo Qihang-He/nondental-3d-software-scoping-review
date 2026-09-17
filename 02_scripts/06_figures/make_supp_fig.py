@@ -24,8 +24,8 @@ import matplotlib.pyplot as plt
 ROOT = _ROOTP
 ANA = os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '08_分析用')
 OUT = os.path.join(ROOT, _os.path.join(_ROOTP, '05_图表'))
-S = json.load(open(os.path.join(ANA, '统计核心_v5.json'), encoding='utf-8'))
-d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+S = json.load(open(os.path.join(ANA, '统计核心_v6.json'), encoding='utf-8'))
+d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
 N = len(d)
 
 C = {'blue': '#2E6DA4', 'amber': '#D98C2B', 'grey': '#7E8B99', 'ink': '#26313C'}

@@ -1,44 +1,44 @@
 {
-  "N_analysed": 861,
-  "N_included": 861,
-  "n_studies": 861,
-  "n_included_total": 861,
+  "N_analysed": 853,
+  "N_included": 853,
+  "n_studies": 853,
+  "n_included_total": 853,
   "advantages": [
     {
       "code": "A6",
       "label": "Improved accuracy or measurement precision",
-      "n": 409,
-      "pct": 47.5
+      "n": 404,
+      "pct": 47.4
     },
     {
       "code": "A9",
       "label": "No advantage explicitly reported",
-      "n": 347,
-      "pct": 40.3
+      "n": 345,
+      "pct": 40.4
     },
     {
       "code": "A5",
       "label": "Automation and time efficiency",
-      "n": 298,
-      "pct": 34.6
+      "n": 294,
+      "pct": 34.5
     },
     {
       "code": "A3",
       "label": "Cost savings / free or open-source access",
       "n": 113,
-      "pct": 13.1
+      "pct": 13.2
     },
     {
       "code": "A1",
       "label": "Greater geometric freedom / customisation",
       "n": 107,
-      "pct": 12.4
+      "pct": 12.5
     },
     {
       "code": "A2",
       "label": "Analysis functions unavailable in dental platforms",
-      "n": 87,
-      "pct": 10.1
+      "n": 84,
+      "pct": 9.8
     },
     {
       "code": "A4",
@@ -51,14 +51,14 @@
     {
       "code": "C9",
       "label": "No challenge explicitly reported",
-      "n": 566,
-      "pct": 65.7
+      "n": 561,
+      "pct": 65.8
     },
     {
       "code": "C4",
       "label": "Limited validation evidence",
-      "n": 272,
-      "pct": 31.6
+      "n": 269,
+      "pct": 31.5
     },
     {
       "code": "C5",
@@ -70,7 +70,7 @@
       "code": "C1",
       "label": "Steep learning curve / training requirement",
       "n": 15,
-      "pct": 1.7
+      "pct": 1.8
     },
     {
       "code": "C8",
@@ -94,7 +94,7 @@
       "code": "C2",
       "label": "File-format or interoperability problems",
       "n": 3,
-      "pct": 0.3
+      "pct": 0.4
     },
     {
       "code": "C3",
@@ -107,26 +107,26 @@
     {
       "code": "G1",
       "label": "Need for clinical validation",
-      "n": 556,
-      "pct": 64.6
+      "n": 550,
+      "pct": 64.5
     },
     {
       "code": "G4",
       "label": "Need for larger or multi-centre samples",
-      "n": 307,
-      "pct": 35.7
+      "n": 301,
+      "pct": 35.3
     },
     {
       "code": "G9",
       "label": "No gap explicitly reported",
-      "n": 260,
-      "pct": 30.2
+      "n": 259,
+      "pct": 30.4
     },
     {
       "code": "G3",
       "label": "Need for standardisation and reporting guidance",
       "n": 27,
-      "pct": 3.1
+      "pct": 3.2
     },
     {
       "code": "G2",

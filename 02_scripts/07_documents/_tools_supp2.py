@@ -61,7 +61,7 @@ GAP = {'G1': 'Need for clinical validation',
 # ---------- 1 排除原因 ----------
 rz = pd.read_csv(os.path.join(ANA, 'prisma_pass', 'reason_parsed.csv'), low_memory=False)
 rz = rz.drop_duplicates('_nt')
-FIN = pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+FIN = pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
 inc_keys = set(FIN['Key'].astype(str))
 added = set()
 for _cand in ('最终新增纳入.csv', '新增纳入_逐条溯源.csv', '最终新增纳入_863.csv'):
@@ -81,12 +81,22 @@ _wf = os.path.join(ANA, '时间窗外补充剔除_v4.csv')
 if os.path.exists(_wf):
     winset = set(pd.read_csv(_wf)['Title'].astype(str))
 
+# records dropped by the software-scope audit (v5 -> v6)
+scope_removed = set()
+_sr = os.path.join(ANA, '软件口径复核_修订记录.csv')
+if os.path.exists(_sr):
+    _t = pd.read_csv(_sr, low_memory=False)
+    scope_removed = set(_t.loc[_t['action'] == 'RECORD REMOVED', 'record_key'].astype(str))
+
 
 def _status(r):
     if not r['_reassessed']:
         return 'Excluded at title/abstract screening'
     if str(r['Key']) in inc_keys:
         return 'Included in the review after full-text re-assessment'
+    if str(r['Key']) in scope_removed:
+        return ('Excluded after full-text re-assessment '
+                '(no named nondental 3D software package)')
     return 'Excluded after full-text re-assessment (outside the date window)'
 
 
@@ -111,7 +121,7 @@ s2 = pd.DataFrame({'Record (title)': lc['Title'], 'Run 1': lc['run1'], 'Run 2': 
 
 # ---------- 3 结局编码 ----------
 rq = pd.read_csv(os.path.join(ANA, 'rq3_pass', 'rq3_parsed.csv'), low_memory=False)
-v3 = pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+v3 = pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
 rq['Key'] = rq['Key'].astype(str)
 v3['Key'] = v3['Key'].astype(str)
 rq = rq[rq['Key'].isin(set(v3['Key']))].drop_duplicates('Key')
@@ -165,7 +175,7 @@ s4 = pd.DataFrame(rows)
 # ---------- 5 模型与运行元数据 ----------
 prompt_fp = os.path.join(ROOT, _os.path.join(_ROOTP, '07_AI重跑原始记录'), 'system_prompt.txt')
 ph = hashlib.sha256(open(prompt_fp, 'rb').read()).hexdigest()[:16]
-S = json.load(open(os.path.join(ANA, '统计核心_v5.json'), encoding='utf-8'))
+S = json.load(open(os.path.join(ANA, '统计核心_v6.json'), encoding='utf-8'))
 s5 = pd.DataFrame({
     'Item': ['API endpoint', 'Requested model identifier', 'Model returned by the API',
              'Temperature', 'max_tokens', 'Streaming', 'Prompt SHA-256 (first 16 hex)',

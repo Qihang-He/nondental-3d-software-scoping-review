@@ -9,8 +9,8 @@ _ROOTP = (_os.environ.get('SCOPING_ROOT')
 # -------------------------------------------------------------------------
 """
 _tools_stats_core.py  —— 全项目唯一数字来源（single source of truth）
-输入：03_数据/08_分析用/分析数据集_final_v5.csv （锁定集，含 Archetype）
-输出：03_数据/08_分析用/统计核心_v5.json
+输入：03_数据/08_分析用/分析数据集_final_v6.csv （锁定集，含 Archetype）
+输出：03_数据/08_分析用/统计核心_v6.json
     08_留痕文档/12_最终统计汇总_v5.md
 所有图表、正文、回复信、补充材料均只引用此文件的数字。
 """
@@ -22,7 +22,7 @@ import pandas as pd
 
 ROOT = _ROOTP
 ANA = os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '08_分析用')
-d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
 
 HALF_ORDER = ['2020-H2', '2021-H1', '2021-H2', '2022-H1', '2022-H2', '2023-H1',
               '2023-H2', '2024-H1', '2024-H2', '2025-H1', '2025-H2', '2026-H1']
@@ -118,7 +118,7 @@ if os.path.exists(cp):
 # ---------- 时间窗 ----------
 S['window'] = {'start': '2020-07-01', 'end': '2026-06-30'}
 
-with open(os.path.join(ANA, '统计核心_v5.json'), 'w', encoding='utf-8') as f:
+with open(os.path.join(ANA, '统计核心_v6.json'), 'w', encoding='utf-8') as f:
     json.dump(S, f, ensure_ascii=False, indent=2)
 
 # ---------- Markdown 汇总 ----------
@@ -188,4 +188,4 @@ print('专科赋值 %d；场景赋值 %d' % (S['speciality_assignments'], S['sce
 print('趋势基数 %d；仅年份 %d' % (S['trend_denominator'], S['n_year_only']))
 print('研究设计:', S['study_type'])
 print('原型:', S.get('archetype_n'))
-print('[saved] 统计核心_v5.json / 12_最终统计汇总_v5.md')
+print('[saved] 统计核心_v6.json / 12_最终统计汇总_v5.md')

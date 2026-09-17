@@ -10,7 +10,7 @@ _ROOTP = (_os.environ.get('SCOPING_ROOT')
 """
 make_figures_v3.py  —— R2 定稿图（v5；N = 861）
 设计原则：简洁、直观、全图统一配色与字号；去图表垃圾；直接标注数值。
-唯一数字来源：03_数据/08_分析用/统计核心_v5.json + 分析数据集_final_v5.csv
+唯一数字来源：03_数据/08_分析用/统计核心_v6.json + 分析数据集_final_v6.csv
 输出：05_图表/Figure1_PRISMA ~ Figure5_contingency (.png 600dpi + .pdf)
 """
 import os
@@ -30,8 +30,8 @@ ANA = os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '08_分析用')
 OUT = os.path.join(ROOT, _os.path.join(_ROOTP, '05_图表'))
 os.makedirs(OUT, exist_ok=True)
 
-S = json.load(open(os.path.join(ANA, '统计核心_v5.json'), encoding='utf-8'))
-d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v5.csv'), low_memory=False)
+S = json.load(open(os.path.join(ANA, '统计核心_v6.json'), encoding='utf-8'))
+d = pd.read_csv(os.path.join(ANA, '分析数据集_final_v6.csv'), low_memory=False)
 SW = pd.read_csv(os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '09_软件表', '软件类别与来源表.csv'))
 N = len(d)
 

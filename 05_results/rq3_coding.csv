@@ -1823,9 +1823,6 @@
 610,RC9HDKWL,"Individual, High-Precision 3D Mandibular Model for Finite Element Analysis of Three-Unit Bridges: A Biomechanical Pilot Study.","A1,A5,A6",C4,"G1,G4","【优势】: A1, A5, A6
 【挑战】: C4
 【缺口】: G1, G4"
-613,QJG6B55I,"Semi-automated three-dimensional analysis of maxillary anomalies in patients with Muenke syndrome, Saethre-Chotzen syndrome or TCF12-related craniosynostosis: A  retrospective study.","A5,A6",C9,G4,"【优势】: A5, A6
-【挑战】: C9
-【缺口】: G4"
 616,BRDTGEI3,Dimensional measurement accuracy of 3-dimensional models from cone beam computed tomography using different voxel sizes,A9,C9,G9,"【优势】: A9
 【挑战】: C9
 【缺口】: G9"
@@ -1943,9 +1940,6 @@
 654,YYJF9M92,Effects of incremental mandibular advancement on upper airways morphology and anatomical structures: a preliminary CT scan study on body donors.,A9,C4,"G1,G4","【优势】: A9
 【挑战】: C4
 【缺口】: G1, G4"
-652,JVRN27GF,Three-dimensional virtual planning in mandibular advancement surgery: Soft tissue prediction based on deep learning,A6,C9,G1,"【优势】: A6
-【挑战】: C9
-【缺口】: G1"
 657,C4T4CYED,Accuracy and surface roughness of Co-Cr partial denture frameworks with different fabrication methods,A6,C9,G9,"【优势】: A6
 【挑战】: C9
 【缺口】: G9"
@@ -2027,9 +2021,6 @@
 680,N6CQF3L9,Combining Coaxial Electrospinning and 3D Printing: Design of Biodegradable Bilayered Membranes with Dual Drug Delivery Capability for Periodontitis  Treatment.,"A1,A2,A5",C9,"G1,G4","【优势】: A1, A2, A5
 【挑战】: C9
 【缺口】: G1, G4"
-681,7ECMK5KU,Performance of Rigid and Soft Transfer Templates Using Viscous and Fluid Resin-Based Composites in the Attachment Bonding Process of Clear Aligners.,A9,C9,G9,"【优势】: A9
-【挑战】: C9
-【缺口】: G9"
 684,6LPJ3GYL,Reduced graphene oxide loaded with tetrahedral framework nucleic acids for combating orthodontically induced root resorption,A9,C9,G1,"【优势】: A9
 【挑战】: C9
 【缺口】: G1"
@@ -2225,9 +2216,6 @@
 745,FFCB7QN3,In-vivo evaluation of Artificial Intelligence Driven Remote Monitoring technology for tracking tooth movement and reconstruction of 3-dimensional digital models during orthodontic treatment,A6,C9,G9,"【优势】: A6
 【挑战】: C9
 【缺口】: G9"
-749,5EV82UG8,Tomographic similarity scan with a computed modified absolute mandibular midsagittal plane for precise and objective localization of mandibular asymmetry,"A2,A6",C9,"G1,G4","【优势】: A2, A6
-【挑战】: C9
-【缺口】: G1, G4"
 750,37R7W5UU,Comparison of the accuracy of removable partial denture frameworks fabricated using conventional and digital impressions: a clinical study,"A5,A6",C9,G4,"【优势】: A5, A6
 【挑战】: C9
 【缺口】: G4"
@@ -2318,9 +2306,6 @@
 784,JYJSMM4M,Dynamic navigation for prosthetically driven zygomatic implant placement in extensive maxillary defects: Results of a prospective case series,A6,C6,G4,"【优势】: A6
 【挑战】: C6
 【缺口】: G4"
-780,7M8ERVJ3,Development of an Automatic Computer Program to Determine the Optimal Dental Implant Size and Position for Fibula Free Flap Surgery.,"A2,A5,A6",C4,"G1,G4","【优势】: A2, A5, A6
-【挑战】: C4
-【缺口】: G1, G4"
 781,ZPHWMMKX,Influence of different education approaches on the implantation performance of dental practitioners in aesthetic zone.,"A5,A6",C9,G9,"【优势】: A5, A6
 【挑战】: C9
 【缺口】: G9"
@@ -2510,9 +2495,6 @@
 846,29Y6WKV5,Three-dimensional evaluation of the effects of Bionator and Forsus appliances on oropharyngeal airway volume in patients with mandibular retrognathia,A9,C9,G9,"【优势】: A9
 【挑战】: C9
 【缺口】: G9"
-850,X4EJBTIQ,Three-Dimensional Quantitative Analysis of Maxillary Arch Morphology Across Sagittal and Vertical Skeletal Patterns,A9,C9,"G1,G4","【优势】: A9
-【挑战】: C9
-【缺口】: G1, G4"
 848,EXVEHKU3,Advances in the Resection and Reconstruction of Midfacial Tumors Through Computer Assisted Surgery,"A6,A5",C9,G9,"【优势】: A6, A5
 【挑战】: C9
 【缺口】: G9"
@@ -2531,15 +2513,9 @@
 857,TLW8WS3P,Morphology and Function Dual-Adjustable Biomimetic 4D-Printed Scaffold for the Regenerative Restoration of Complex Bone Defects,"A1,A2,A5,A6",C4,"G1,G4","【优势】: A1, A2, A5, A6
 【挑战】: C4
 【缺口】: G1, G4"
-859,K24ZBIB8,Enhancing panoramic dental imaging with AI-driven arch surface fitting: achieving improved clarity and accuracy through an optimal reconstruction zone,"A5,A6",C4,"G1,G4","【优势】: A5, A6
-【挑战】: C4
-【缺口】: G1, G4"
 853,A88G5IRI,Novel standardized method for inducing medication-related osteonecrosis of the jaw in rats and precise quantitative assessment of pathological outcomes,A9,C4,"G1,G3","【优势】: A9
 【挑战】: C4
 【缺口】: G1, G3"
-854,LZEYGM5C,Automatic landmark identification for surgical 3d-navigation - A proposed method for marker-free dental surgical navigation systems,"A2,A5",C4,"G1,G4","【优势】: A2, A5
-【挑战】: C4
-【缺口】: G1, G4"
 858,K8X9AYTL,Refined Surgical Protocol for the Insertion of Bioactive-coated Titanium Microscrews in the Rat Tibia,A9,C9,G9,"【优势】: A9
 【挑战】: C9
 【缺口】: G9"
