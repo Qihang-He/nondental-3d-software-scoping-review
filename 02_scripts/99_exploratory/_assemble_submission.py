@@ -7,6 +7,7 @@ _assemble_submission.py —— 组装最终英文投稿包（R2_Submission）。
 """
 import os
 import shutil
+import time
 
 ROOT = os.environ.get('SCOPING_ROOT') or r'd:\Desktop\v8 for JD'
 SRC_DOC = os.path.join(ROOT, '01_投稿文件', 'R2_草稿')
@@ -70,7 +71,7 @@ for old, new in SUP_MAP.items():
 # 清单
 with open(os.path.join(OUT, 'MANIFEST.txt'), 'w', encoding='utf-8') as f:
     f.write('R2 final submission package (English filenames)\n')
-    f.write('Generated 2026-09-17\n\n')
+    f.write('Generated %s\n\n' % time.strftime('%Y-%m-%d'))
     f.write('Manuscript and supporting documents:\n')
     for m in manifest:
         f.write('  - %s\n' % m)
