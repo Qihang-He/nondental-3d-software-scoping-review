@@ -1,0 +1,23 @@
+{
+  "k": 4,
+  "silhouette": 0.3486002229243115,
+  "bootstrap_ARI_mean": 0.712447461478544,
+  "bootstrap_ARI_sd": 0.1213845192786914,
+  "n_bootstrap": 100,
+  "features": [
+    "Segmentation/Reconstruction",
+    "Analysis/Accuracy",
+    "Biomechanics",
+    "Design/Manufacturing",
+    "Surgical planning",
+    "Morphology/Phenotype",
+    "Medical image processing",
+    "Reverse engineering / 3D reconstruction",
+    "Engineering simulation",
+    "General-purpose 3D modelling",
+    "Computer-aided design",
+    "Additive manufacturing",
+    "Scientific computing / visualisation"
+  ],
+  "method": "multi-hot (6 scenarios + 7 software families) -> Jaccard distance -> average-linkage hierarchical clustering"
+}

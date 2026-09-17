@@ -1,0 +1,23 @@
+# Credentials - never commit
+config.local.json
+*.local.json
+.env
+*.key
+*.pem
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Large binary intermediates not required for reproduction
+*.pkl
+*.h5
+*.pt

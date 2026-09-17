@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these reproducibility materials, please cite both the published article and this repository."
+title: "Application of Nondental 3D Software in Dentistry: A Scoping Review - reproducibility materials"
+authors:
+  - family-names: He
+    given-names: Qihang
+  - family-names: Liu
+    given-names: Yuchen
+  - family-names: Zhao
+    given-names: Ruifeng
+  - family-names: Li
+    given-names: Zhiwen
+  - family-names: Liu
+    given-names: Miao
+  - family-names: Song
+    given-names: Shiwei
+  - family-names: Liu
+    given-names: Chen
+  - family-names: Bai
+    given-names: Shizhu
+identifiers:
+  - type: doi
+    value: 10.6084/m9.figshare.33886810
+    description: figshare archive (locked dataset, n = 861)
+repository-code: "https://github.com/Qihang-He/nondental-3d-software-scoping-review"
+license: MIT

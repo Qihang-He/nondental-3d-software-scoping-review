@@ -1,0 +1,68 @@
+﻿stage,script,purpose,path,lines,sha256,root_rewrite
+00_lib,_tools_parallel_pass.py,"Shared DeepSeek API client, screening/coding prompts and response parsers",02_scripts/00_lib/_tools_parallel_pass.py,303,6605f0040ec45f57,rewritten
+01_screening,_tools_prisma_corpus.py,Define the locked screening corpus (unique records after de-duplication),02_scripts/01_screening/_tools_prisma_corpus.py,59,1cd1053cd778a6ce,rewritten
+01_screening,_tools_prisma_reason_pass.py,Assign a single primary exclusion reason to every record excluded at title/abstract level,02_scripts/01_screening/_tools_prisma_reason_pass.py,99,a69624f1a352ca01,rewritten
+01_screening,_tools_consistency.py,Run-to-run agreement of the three screening passes (Fleiss kappa),02_scripts/01_screening/_tools_consistency.py,97,825ed5c47cffbb42,rewritten
+01_screening,_check_search_counts.py,Recount records identified per database from the deposited exports,02_scripts/01_screening/_check_search_counts.py,42,0209381996be63e5,rewritten
+01_screening,_check_search_unique.py,Verify the number of unique records after de-duplication,02_scripts/01_screening/_check_search_unique.py,58,a5719658d1bc3e25,rewritten
+02_fulltext_reassessment,_excluded_fulltext_screen.py,Extract keyword windows around software terms from the full texts of excluded records,02_scripts/02_fulltext_reassessment/_excluded_fulltext_screen.py,111,5fa1c0d4cd428693,rewritten
+02_fulltext_reassessment,_rescreen_fulltext.py,Pass A: match excluded records against tabulated full-text software names,02_scripts/02_fulltext_reassessment/_rescreen_fulltext.py,160,636ff3f56c10dc20,rewritten
+02_fulltext_reassessment,_rescreen_all_pdf.py,Same re-assessment applied in reverse to the previously included set,02_scripts/02_fulltext_reassessment/_rescreen_all_pdf.py,251,34b2b5a8a54bbedd,rewritten
+02_fulltext_reassessment,_expand_candidates.py,Expand the candidate set to all excluded records with a high-quality excerpt,02_scripts/02_fulltext_reassessment/_expand_candidates.py,105,a5318f0fd3d750eb,rewritten
+02_fulltext_reassessment,_reconcile_passes.py,Reconcile the two re-assessment routes and list disagreements,02_scripts/02_fulltext_reassessment/_reconcile_passes.py,122,f41ed23d425e8a2a,rewritten
+02_fulltext_reassessment,_final_adjudicate.py,Model-assisted adjudication of records on which the two routes disagreed,02_scripts/02_fulltext_reassessment/_final_adjudicate.py,146,81c1ca01c11ca49a,rewritten
+02_fulltext_reassessment,_final_adjudicate2.py,Second adjudication round with software-name-priority excerpt extraction,02_scripts/02_fulltext_reassessment/_final_adjudicate2.py,75,b36f4c101ce28cd9,rewritten
+02_fulltext_reassessment,_newly_eligible_triage.py,Triage of newly identified eligible records,02_scripts/02_fulltext_reassessment/_newly_eligible_triage.py,212,6920712521a607e2,rewritten
+02_fulltext_reassessment,_check_135_by_fulltext.py,Deterministic full-PDF check of records flagged as naming no software,02_scripts/02_fulltext_reassessment/_check_135_by_fulltext.py,97,f3b349772f16fbc0,rewritten
+02_fulltext_reassessment,_check_7_normalized.py,Normalised (space/hyphen/case-insensitive) matching of residual software names,02_scripts/02_fulltext_reassessment/_check_7_normalized.py,65,9691b60b27d7cb42,rewritten
+02_fulltext_reassessment,_validate_E1.py,Validation of the E1 set of candidate missed inclusions,02_scripts/02_fulltext_reassessment/_validate_E1.py,34,fa20880c0684de03,rewritten
+03_selection,_tools_build_dataset.py,Build the locked v4 analysis dataset (N = 863),02_scripts/03_selection/_tools_build_dataset.py,96,09d334fbc99f0790,rewritten
+03_selection,_build_dataset.py,"Assemble v4: merge retained records with newly eligible records, resolve countries",02_scripts/03_selection/_build_dataset.py,248,99407c248b70fdd6,rewritten
+03_selection,_tools_finalize_set.py,Finalise the included set after reconciliation,02_scripts/03_selection/_tools_finalize_set.py,49,b2811bd5dbf4f663,rewritten
+03_selection,_tools_cutlist47.py,Build the 47-record eligibility audit cut list,02_scripts/03_selection/_tools_cutlist47.py,32,976499f901fe5a4d,rewritten
+03_selection,_fix_window.py,Remove records published outside the prespecified date window,02_scripts/03_selection/_fix_window.py,27,16bd2b0c7f52dd04,rewritten
+03_selection,_tools_prisma.py,Generate the two-stage PRISMA chain,02_scripts/03_selection/_tools_prisma.py,73,82435b42c02f8a32,rewritten
+03_selection,_update_prisma.py,Synchronise the PRISMA chain to the final included count,02_scripts/03_selection/_update_prisma.py,56,5d33602779080dfa,rewritten
+03_selection,_rebuild_dataset.py,Orchestrator: run the whole v4 rebuild in order,02_scripts/03_selection/_rebuild_dataset.py,42,d40acfbee22e4caf,rewritten
+04_charting,_tools_canon_software.py,Canonicalise software names (stage 1: versions and vendor prefixes),02_scripts/04_charting/_tools_canon_software.py,195,bfbe74c6435d2a8f,rewritten
+04_charting,_tools_canon_software2.py,Canonicalise software names (stage 2: containment matching),02_scripts/04_charting/_tools_canon_software2.py,119,28befaf14df98d3a,rewritten
+04_charting,_tools_canon_software3.py,Canonicalise software names (stage 3: explicit alias map),02_scripts/04_charting/_tools_canon_software3.py,135,a8d30c2d75bc14b3,rewritten
+04_charting,_tools_software_table.py,Build the software glossary with category and development-domain provenance,02_scripts/04_charting/_tools_software_table.py,143,a3f86ffd13eb060f,rewritten
+04_charting,_tools_sw_unknown.py,Resolve residual unmapped software names,02_scripts/04_charting/_tools_sw_unknown.py,29,ce75f42e8f3f835c,rewritten
+04_charting,_tools_fix_dates_journals.py,Parse publication dates into half-year periods and normalise journal names,02_scripts/04_charting/_tools_fix_dates_journals.py,133,7dfa04f6480808bc,rewritten
+04_charting,_tools_fix_journal_and_window.py,Earlier journal/window correction pass,02_scripts/04_charting/_tools_fix_journal_and_window.py,201,82b6df0b8cbbe2d3,rewritten
+04_charting,_tools_fill_doi.py,Complete missing DOIs from CrossRef,02_scripts/04_charting/_tools_fill_doi.py,61,b578582339285ebc,rewritten
+04_charting,_resolve_country.py,"Resolve country of the corresponding author (CrossRef, full-text affiliation, model)",02_scripts/04_charting/_resolve_country.py,141,38408ca40ee34a1b,rewritten
+04_charting,_tools_study_type.py,Code study design against the six prespecified definitions,02_scripts/04_charting/_tools_study_type.py,111,855d4b1f4bdd771f,rewritten
+04_charting,_tools_recode.py,Re-code charted multi-label fields,02_scripts/04_charting/_tools_recode.py,100,97f53494822f1cb3,rewritten
+04_charting,_tools_pdf_verify.py,Verify annotated software names against the archived full texts,02_scripts/04_charting/_tools_pdf_verify.py,129,29d053fe118c1a30,rewritten
+04_charting,_tools_pdf_risk_geomagic.py,Detect systematic mislabelling within the Geomagic product family,02_scripts/04_charting/_tools_pdf_risk_geomagic.py,109,0ee4e94aea148b68,rewritten
+05_analysis,_tools_stats_core.py,SINGLE SOURCE OF TRUTH: every headline statistic -> 统计核心.json,02_scripts/05_analysis/_tools_stats_core.py,183,6b8ad8a89b5ae544,rewritten
+05_analysis,_tools_extra_stats.py,"Trend regression, discipline x software-family contingency, software co-occurrence",02_scripts/05_analysis/_tools_extra_stats.py,149,067be47b3fb86dc5,rewritten
+05_analysis,_tools_archetype.py,"Data-driven workflow archetypes (Jaccard distance, average linkage, silhouette)",02_scripts/05_analysis/_tools_archetype.py,151,cd80c6e8e70c1eac,rewritten
+05_analysis,_tools_extra_evidence.py,Assemble supplementary evidence tables for the manuscript,02_scripts/05_analysis/_tools_extra_evidence.py,48,96a1ba25b8950e30,rewritten
+05_analysis,_tools_rq3_extract.py,"RQ3 coding pass: reported advantages, challenges and gaps",02_scripts/05_analysis/_tools_rq3_extract.py,187,3150946e63249e8d,rewritten
+05_analysis,_tools_rq3_extend.py,Extend the RQ3 coding to newly eligible records with the identical codebook,02_scripts/05_analysis/_tools_rq3_extend.py,74,f9e3dd2b9d6072fe,rewritten
+05_analysis,_tools_rq3_fill3.py,Fill residual gaps in the RQ3 coding,02_scripts/05_analysis/_tools_rq3_fill3.py,62,6bfda7387d31d27a,rewritten
+05_analysis,_rq3_summarize.py,Summarise RQ3 frequencies over the final included set,02_scripts/05_analysis/_rq3_summarize.py,64,6f0feb292bfe5520,rewritten
+05_analysis,_verify_stats.py,Cross-check every reported statistic against the locked dataset,02_scripts/05_analysis/_verify_stats.py,45,86a0052152488927,verbatim
+06_figures,make_figures.py,"Figures 1-5 (PRISMA, landscape, software, archetypes, contingency)",02_scripts/06_figures/make_figures.py,673,8affe07fdb0ac3a2,rewritten
+06_figures,_run_figs.py,Driver that renders the figure set,02_scripts/06_figures/_run_figs.py,16,e8473355dbcc0136,verbatim
+06_figures,make_supp_fig.py,Supplementary Figure S1: journal and proceedings distribution,02_scripts/06_figures/make_supp_fig.py,69,ba369284d2c22503,rewritten
+07_documents,_tools_supp2.py,"Supplementary File 2: screening logs, exclusion reasons, outcome coding, codebook, model metadata",02_scripts/07_documents/_tools_supp2.py,216,54c91b6ea64e863b,rewritten
+07_documents,_tools_supp3.py,"Supplementary File 3: included studies, software glossary, eligibility audit, definitions",02_scripts/07_documents/_tools_supp3.py,207,52b7759efb113438,rewritten
+07_documents,_tools_provenance.py,Dataset provenance table: which dataset version generated which output,02_scripts/07_documents/_tools_provenance.py,84,bf871f45c6c27039,rewritten
+07_documents,_tools_md2docx.py,Convert the Markdown manuscript files to Word,02_scripts/07_documents/_tools_md2docx.py,202,646df07f618789b9,verbatim
+07_documents,_tools_check_ms.py,Check the manuscript for recurrent formatting faults,02_scripts/07_documents/_tools_check_ms.py,48,4bdaa99813b6283e,rewritten
+07_documents,_tools_renumber_refs.py,Renumber in-text citations after reference-list edits,02_scripts/07_documents/_tools_renumber_refs.py,72,0f056c793d355dd1,rewritten
+07_documents,_check_abstract.py,Verify the abstract word limit and the internal consistency of headline numbers,02_scripts/07_documents/_check_abstract.py,38,b89471ce4a711725,rewritten
+07_documents,_tools_final_audit.py,Final numerical audit of the submission package,02_scripts/07_documents/_tools_final_audit.py,85,0d9760a545864f7d,rewritten
+07_documents,_tools_build_repo.py,This script: assemble the public repository,02_scripts/07_documents/_tools_build_repo.py,905,7f51f4284f50ed5a,rewritten
+08_verification,_tools_verify_evidence.py,Build the evidence pack for the 300 sampled records,02_scripts/08_verification/_tools_verify_evidence.py,198,e44f8826f748883f,rewritten
+08_verification,_tools_verify_fill.py,"Record the per-record verdict, evidence level and reason",02_scripts/08_verification/_tools_verify_fill.py,220,620c4cdca450c583,rewritten
+08_verification,_fill_verification.py,Assemble the verification workbook from the sampled records,02_scripts/08_verification/_fill_verification.py,159,9bfa8ca9cf5d9e58,rewritten
+08_verification,_verify_A_deep.py,Deep check of the flagged records in sample A,02_scripts/08_verification/_verify_A_deep.py,89,868a61db0f21b85b,rewritten
+08_verification,_verify_A_pdf_sw.py,Objective full-text software check for sample A,02_scripts/08_verification/_verify_A_pdf_sw.py,39,de00904f956b6b7d,rewritten
+08_verification,_verify_A_review.py,Review pass for sample A,02_scripts/08_verification/_verify_A_review.py,63,7d14e2c9b73710fa,rewritten
+08_verification,_tools_verify_workbook.py,Build the A/B verification workbook,02_scripts/08_verification/_tools_verify_workbook.py,200,aaf874352a42f075,rewritten
+08_verification,_check_included_review.py,Review of records already included at the time of sampling,02_scripts/08_verification/_check_included_review.py,22,c1426f68ac4843ba,rewritten

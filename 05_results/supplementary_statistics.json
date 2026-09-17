@@ -1,0 +1,437 @@
+{
+  "trend_all": {
+    "slope": 6.0174825174825175,
+    "intercept": 34.98717948717948,
+    "r": 0.9089832825899113,
+    "p": 4.2151289964976275e-05,
+    "stderr": 0.8726108082292096
+  },
+  "trend_excl_2026H1": {
+    "slope": 4.990909090909091,
+    "intercept": 38.40909090909091,
+    "r": 0.9075682009374636,
+    "p": 0.00011353238243984785,
+    "stderr": 0.7697148649792749
+  },
+  "trend_complete_periods_only": {
+    "slope": 4.990909090909091,
+    "intercept": 38.40909090909091,
+    "r": 0.9075682009374636,
+    "p": 0.00011353238243984785,
+    "stderr": 0.7697148649792749
+  },
+  "trend_counts": {
+    "2020-H2": 28,
+    "2021-H1": 43,
+    "2021-H2": 65,
+    "2022-H1": 55,
+    "2022-H2": 61,
+    "2023-H1": 61,
+    "2023-H2": 64,
+    "2024-H1": 69,
+    "2024-H2": 77,
+    "2025-H1": 76,
+    "2025-H2": 98,
+    "2026-H1": 120
+  },
+  "software_pairs_top": [
+    {
+      "a": "3-Matic",
+      "b": "Mimics",
+      "n": 36
+    },
+    {
+      "a": "ANSYS",
+      "b": "SolidWorks",
+      "n": 27
+    },
+    {
+      "a": "ANSYS",
+      "b": "Mimics",
+      "n": 24
+    },
+    {
+      "a": "Mimics",
+      "b": "SolidWorks",
+      "n": 20
+    },
+    {
+      "a": "3D Slicer",
+      "b": "Blender",
+      "n": 15
+    },
+    {
+      "a": "Geomagic Wrap",
+      "b": "Mimics",
+      "n": 14
+    },
+    {
+      "a": "3D Slicer",
+      "b": "ITK-SNAP",
+      "n": 14
+    },
+    {
+      "a": "ANSYS",
+      "b": "Rhinoceros",
+      "n": 13
+    },
+    {
+      "a": "Geomagic Studio",
+      "b": "Mimics",
+      "n": 12
+    },
+    {
+      "a": "Rhinoceros",
+      "b": "VRMesh",
+      "n": 10
+    },
+    {
+      "a": "3D Slicer",
+      "b": "Meshmixer",
+      "n": 10
+    },
+    {
+      "a": "ABAQUS",
+      "b": "SolidWorks",
+      "n": 9
+    },
+    {
+      "a": "ALGOR",
+      "b": "Rhinoceros",
+      "n": 8
+    },
+    {
+      "a": "ABAQUS",
+      "b": "Mimics",
+      "n": 8
+    },
+    {
+      "a": "Geomagic Studio",
+      "b": "SolidWorks",
+      "n": 8
+    },
+    {
+      "a": "ANSYS",
+      "b": "Geomagic Studio",
+      "n": 8
+    },
+    {
+      "a": "3D Slicer",
+      "b": "SpaceClaim",
+      "n": 8
+    },
+    {
+      "a": "Geomagic Control X",
+      "b": "Meshmixer",
+      "n": 7
+    },
+    {
+      "a": "3D Slicer",
+      "b": "HyperMesh",
+      "n": 7
+    },
+    {
+      "a": "Blender",
+      "b": "Meshmixer",
+      "n": 7
+    },
+    {
+      "a": "ANSYS",
+      "b": "CATIA",
+      "n": 7
+    },
+    {
+      "a": "GOM Inspect",
+      "b": "Meshmixer",
+      "n": 7
+    },
+    {
+      "a": "ALGOR",
+      "b": "VRMesh",
+      "n": 6
+    },
+    {
+      "a": "ANSYS",
+      "b": "SpaceClaim",
+      "n": 6
+    },
+    {
+      "a": "3D-DOCTOR",
+      "b": "Rhinoceros",
+      "n": 6
+    },
+    {
+      "a": "HyperMesh",
+      "b": "Mimics",
+      "n": 6
+    },
+    {
+      "a": "3D Slicer",
+      "b": "Mimics",
+      "n": 6
+    },
+    {
+      "a": "3D Slicer",
+      "b": "CloudCompare",
+      "n": 6
+    },
+    {
+      "a": "Blender",
+      "b": "MeshLab",
+      "n": 5
+    },
+    {
+      "a": "3-Matic",
+      "b": "ANSYS",
+      "n": 5
+    }
+  ],
+  "contingency_full": {
+    "config": "top 8 specialities x 5 software families (same as Figure 5)",
+    "chi2": 297.29828776016063,
+    "dof": 28,
+    "p": 8.428913255597669e-47,
+    "cramers_v": 0.22926697645376024,
+    "n_specialities": 8,
+    "n_families": 5,
+    "pct_expected_below_5": 17.5,
+    "min_expected": 1.9115983026874115,
+    "spec": [
+      "Prosthodontics",
+      "Oral and Maxillofacial Surgery",
+      "Oral Implantology",
+      "Orthodontics",
+      "Oral and Maxillofacial Radiology",
+      "Endodontics",
+      "Periodontics",
+      "Forensic Odontology"
+    ],
+    "families": [
+      "MIP",
+      "RE",
+      "SIM",
+      "GEN3D",
+      "CAD"
+    ],
+    "counts": [
+      [
+        76,
+        157,
+        77,
+        105,
+        63
+      ],
+      [
+        175,
+        47,
+        26,
+        52,
+        28
+      ],
+      [
+        62,
+        53,
+        58,
+        37,
+        51
+      ],
+      [
+        72,
+        57,
+        12,
+        24,
+        11
+      ],
+      [
+        66,
+        8,
+        2,
+        5,
+        1
+      ],
+      [
+        27,
+        7,
+        3,
+        10,
+        3
+      ],
+      [
+        10,
+        6,
+        3,
+        1,
+        2
+      ],
+      [
+        4,
+        5,
+        0,
+        8,
+        0
+      ]
+    ],
+    "residuals": [
+      [
+        -10.66,
+        5.53,
+        2.66,
+        3.46,
+        1.65
+      ],
+      [
+        8.05,
+        -4.7,
+        -3.01,
+        -0.69,
+        -1.77
+      ],
+      [
+        -4.15,
+        -1.57,
+        5.05,
+        -1.4,
+        4.7
+      ],
+      [
+        1.82,
+        2.77,
+        -2.54,
+        -1.31,
+        -2.24
+      ],
+      [
+        8.95,
+        -3.12,
+        -2.89,
+        -2.73,
+        -2.96
+      ],
+      [
+        2.9,
+        -1.69,
+        -1.47,
+        0.55,
+        -1.2
+      ],
+      [
+        1.06,
+        0.36,
+        0.12,
+        -1.58,
+        -0.32
+      ],
+      [
+        -0.98,
+        0.52,
+        -1.59,
+        3.3,
+        -1.48
+      ]
+    ]
+  },
+  "contingency_merged_small_specialities": {
+    "config": "top 8 specialities + Other (remaining 4) x 5 software families",
+    "chi2": 300.8477165254436,
+    "dof": 32,
+    "p": 1.8208400909407703e-45,
+    "cramers_v": 0.22696920485604852,
+    "pct_expected_below_5": 15.6,
+    "merged_specialities": [
+      "Oral Biology",
+      "Dental Education",
+      "Temporomandibular Joint Disorders",
+      "Dental Sleep Medicine"
+    ]
+  },
+  "contingency_all12": {
+    "config": "all 12 specialities x 5 software families",
+    "chi2": 321.3922425011462,
+    "dof": 44,
+    "p": 7.739129078793287e-44,
+    "cramers_v": 0.23459095940913333,
+    "pct_expected_below_5": 41.7
+  },
+  "software_family_share_by_speciality": [
+    {
+      "speciality": "Prosthodontics",
+      "studies": 324,
+      "assignments": 478,
+      "MIP": 15.9,
+      "RE": 32.8,
+      "SIM": 16.1,
+      "GEN3D": 22.0,
+      "CAD": 13.2
+    },
+    {
+      "speciality": "Oral and Maxillofacial Surgery",
+      "studies": 257,
+      "assignments": 328,
+      "MIP": 53.4,
+      "RE": 14.3,
+      "SIM": 7.9,
+      "GEN3D": 15.9,
+      "CAD": 8.5
+    },
+    {
+      "speciality": "Oral Implantology",
+      "studies": 164,
+      "assignments": 261,
+      "MIP": 23.8,
+      "RE": 20.3,
+      "SIM": 22.2,
+      "GEN3D": 14.2,
+      "CAD": 19.5
+    },
+    {
+      "speciality": "Orthodontics",
+      "studies": 147,
+      "assignments": 176,
+      "MIP": 40.9,
+      "RE": 32.4,
+      "SIM": 6.8,
+      "GEN3D": 13.6,
+      "CAD": 6.2
+    },
+    {
+      "speciality": "Oral and Maxillofacial Radiology",
+      "studies": 82,
+      "assignments": 82,
+      "MIP": 80.5,
+      "RE": 9.8,
+      "SIM": 2.4,
+      "GEN3D": 6.1,
+      "CAD": 1.2
+    },
+    {
+      "speciality": "Endodontics",
+      "studies": 40,
+      "assignments": 50,
+      "MIP": 54.0,
+      "RE": 14.0,
+      "SIM": 6.0,
+      "GEN3D": 20.0,
+      "CAD": 6.0
+    },
+    {
+      "speciality": "Periodontics",
+      "studies": 16,
+      "assignments": 22,
+      "MIP": 45.5,
+      "RE": 27.3,
+      "SIM": 13.6,
+      "GEN3D": 4.5,
+      "CAD": 9.1
+    },
+    {
+      "speciality": "Forensic Odontology",
+      "studies": 15,
+      "assignments": 17,
+      "MIP": 23.5,
+      "RE": 29.4,
+      "SIM": 0.0,
+      "GEN3D": 47.1,
+      "CAD": 0.0
+    }
+  ]
+}

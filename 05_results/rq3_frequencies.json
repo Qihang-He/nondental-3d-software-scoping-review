@@ -1,0 +1,138 @@
+{
+  "N_analysed": 861,
+  "N_included": 861,
+  "n_studies": 861,
+  "n_included_total": 861,
+  "advantages": [
+    {
+      "code": "A6",
+      "label": "Improved accuracy or measurement precision",
+      "n": 409,
+      "pct": 47.5
+    },
+    {
+      "code": "A9",
+      "label": "No advantage explicitly reported",
+      "n": 347,
+      "pct": 40.3
+    },
+    {
+      "code": "A5",
+      "label": "Automation and time efficiency",
+      "n": 298,
+      "pct": 34.6
+    },
+    {
+      "code": "A3",
+      "label": "Cost savings / free or open-source access",
+      "n": 113,
+      "pct": 13.1
+    },
+    {
+      "code": "A1",
+      "label": "Greater geometric freedom / customisation",
+      "n": 107,
+      "pct": 12.4
+    },
+    {
+      "code": "A2",
+      "label": "Analysis functions unavailable in dental platforms",
+      "n": 87,
+      "pct": 10.1
+    },
+    {
+      "code": "A4",
+      "label": "Improved interoperability or data exchange",
+      "n": 6,
+      "pct": 0.7
+    }
+  ],
+  "challenges": [
+    {
+      "code": "C9",
+      "label": "No challenge explicitly reported",
+      "n": 566,
+      "pct": 65.7
+    },
+    {
+      "code": "C4",
+      "label": "Limited validation evidence",
+      "n": 272,
+      "pct": 31.6
+    },
+    {
+      "code": "C5",
+      "label": "Time-consuming workflow",
+      "n": 26,
+      "pct": 3.0
+    },
+    {
+      "code": "C1",
+      "label": "Steep learning curve / training requirement",
+      "n": 15,
+      "pct": 1.7
+    },
+    {
+      "code": "C8",
+      "label": "Regulatory, approval or medico-legal uncertainty",
+      "n": 5,
+      "pct": 0.6
+    },
+    {
+      "code": "C7",
+      "label": "High hardware or computational demand",
+      "n": 5,
+      "pct": 0.6
+    },
+    {
+      "code": "C6",
+      "label": "Software instability, bugs or errors",
+      "n": 4,
+      "pct": 0.5
+    },
+    {
+      "code": "C2",
+      "label": "File-format or interoperability problems",
+      "n": 3,
+      "pct": 0.3
+    },
+    {
+      "code": "C3",
+      "label": "Licence cost or access restrictions",
+      "n": 1,
+      "pct": 0.1
+    }
+  ],
+  "gaps": [
+    {
+      "code": "G1",
+      "label": "Need for clinical validation",
+      "n": 556,
+      "pct": 64.6
+    },
+    {
+      "code": "G4",
+      "label": "Need for larger or multi-centre samples",
+      "n": 307,
+      "pct": 35.7
+    },
+    {
+      "code": "G9",
+      "label": "No gap explicitly reported",
+      "n": 260,
+      "pct": 30.2
+    },
+    {
+      "code": "G3",
+      "label": "Need for standardisation and reporting guidance",
+      "n": 27,
+      "pct": 3.1
+    },
+    {
+      "code": "G2",
+      "label": "Need for automation or AI integration",
+      "n": 20,
+      "pct": 2.3
+    }
+  ]
+}

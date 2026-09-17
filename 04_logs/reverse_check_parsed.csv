@@ -1,0 +1,1555 @@
+﻿_nt,Title,期刊,Item Type,原流程原因,判定,判定理由,专科,应用场景,软件,研究设计,原始返回
+a comparative study on the effectiveness of augmented reality on denture tooth selection,A Comparative study on the Effectiveness of Augmented Reality on Denture Tooth Selection.,The European journal of prosthodontics and restorative dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明研究团队使用 MeshLab 软件对全口义齿前牙进行3D扫描处理以创建虚拟牙齿库。,Prosthodontics,Digital design and manufacturing,MeshLab,clinical,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明研究团队使用 MeshLab 软件对全口义齿前牙进行3D扫描处理以创建虚拟牙齿库。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: MeshLab
+【研究设计】: clinical"
+an open source three dimensional growth model of the mandible,"An open-source, three-dimensional growth model of the mandible.",Computers in biology and medicine,journalArticle,No non-dental 3D software identified,INCLUDE,该研究方法中明确使用 Meshmixer 手动去除牙区以处理3D模型，且使用 Brainlab Elements 进行半自动分割。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Meshmixer; Brainlab Elements,computational,"【判定】: INCLUDE
+【判定理由】: 该研究方法中明确使用 Meshmixer 手动去除牙区以处理3D模型，且使用 Brainlab Elements 进行半自动分割。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Meshmixer; Brainlab Elements
+【研究设计】: computational"
+mechanotherapeutic modulation of the nasal microenvironment rampa induced maxillofacial remodeling and its pathophysiological impact on mucus rheology and chronic inflammation,Mechanotherapeutic Modulation of the Nasal Microenvironment: RAMPA-Induced Maxillofacial Remodeling and Its Pathophysiological Impact on Mucus Rheology and  Chronic Inflammation.,"Bioengineering (Basel, Switzerland)",journalArticle,Outside the scope of dentistry,INCLUDE,该研究方法中明确使用 ANSYS Workbench 17.2 进行有限元分析，并使用 Mimics Innovation Suite 进行CBCT图像分割与体积定量。,Orthodontics,Biomechanical analysis and simulation,ANSYS; Mimics,computational,"【判定】: INCLUDE
+【判定理由】: 该研究方法中明确使用 ANSYS Workbench 17.2 进行有限元分析，并使用 Mimics Innovation Suite 进行CBCT图像分割与体积定量。
+【专科】: Orthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ANSYS; Mimics
+【研究设计】: computational"
+redefining mri based skull segmentation through ai driven multimodal integration,Redefining MRI-Based Skull Segmentation Through AI-Driven Multimodal Integration.,Journal of imaging,journalArticle,Outside the scope of dentistry,INCLUDE,全文明确说明作者将CT图像导入 Mimics Innovation Suite (Version 25.0) 进行半自动颅骨分割与CT-MRI配准，属研究自身方法使用非牙科3D软件。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Mimics,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明作者将CT图像导入 Mimics Innovation Suite (Version 25.0) 进行半自动颅骨分割与CT-MRI配准，属研究自身方法使用非牙科3D软件。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: computational"
+digital duplication of maxillary complete denture a dental technique,Digital duplication of maxillary complete denture: A dental technique.,Journal of esthetic and restorative dentistry : official publication of the American Academy of Esthetic Dentistry ... [et al.],journalArticle,No non-dental 3D software identified,INCLUDE,该技术说明明确描述自身方法中将CBCT的DICOM文件导入3D Slicer 4.10.2进行分割并转为STL，属研究自己使用非牙科专用3D软件。,Prosthodontics,Image segmentation and 3D reconstruction,3D Slicer,technical_note,"【判定】: INCLUDE
+【判定理由】: 该技术说明明确描述自身方法中将CBCT的DICOM文件导入3D Slicer 4.10.2进行分割并转为STL，属研究自己使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: technical_note"
+biomechanical evaluation of framework materials in all on four versus all on six prostheses a finite element study,Biomechanical Evaluation of Framework Materials in All-on-Four Versus All-on-Six Prostheses: A Finite Element Study.,Clinical and experimental dental research,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用MIMICS进行解剖分割、Geomagic Design X进行表面优化、SolidWorks进行虚拟种植规划。,Prosthodontics,Biomechanical analysis and simulation,MIMICS; Geomagic Design X; SolidWorks,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用MIMICS进行解剖分割、Geomagic Design X进行表面优化、SolidWorks进行虚拟种植规划。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: MIMICS; Geomagic Design X; SolidWorks
+【研究设计】: computational"
+evaluation of an ai based segmentation model for mandibular fracture segmentation on cbct using volumetric and 2d slice based validation approaches,Evaluation of an AI-based segmentation model for mandibular fracture segmentation on CBCT using volumetric and 2D slice-based validation approaches.,BMC oral health,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明研究者自己使用 3D Slicer (Slicer 5.8.0) 对 CBCT 图像进行逐层手动分割以建立 ground truth 标注。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明研究者自己使用 3D Slicer (Slicer 5.8.0) 对 CBCT 图像进行逐层手动分割以建立 ground truth 标注。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: computational"
+accuracy of static computer assisted implant placement in posterior edentulous areas with different levels of tooth support by novice clinicians,Accuracy of Static Computer- Assisted Implant Placement in Posterior Edentulous Areas with Different Levels of Tooth- Support by Novice Clinicians.,The European journal of prosthodontics and restorative dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自身使用三维渲染软件 Geomagic Control X 进行模型叠加与植入物偏差测量。,Implantology,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自身使用三维渲染软件 Geomagic Control X 进行模型叠加与植入物偏差测量。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+stress distribution in titanium and zirconia implants with full arch prostheses a finite element analysis,Stress distribution in titanium and zirconia implants with full-arch prostheses: a finite element analysis.,BMC oral health,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明该研究自己使用 3DSlicer 处理 CT 数据、Blender 进行逆向工程建模、ALTAIR Hypermesh 划分网格。,Implantology,Biomechanical analysis and simulation,3D Slicer; Blender; HyperMesh,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明该研究自己使用 3DSlicer 处理 CT 数据、Blender 进行逆向工程建模、ALTAIR Hypermesh 划分网格。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; Blender; HyperMesh
+【研究设计】: computational"
+development of micro ct based anatomically accurate tooth model for finite element analysis of composite restorations,Development of Micro-CT-Based Anatomically Accurate Tooth Model for Finite Element Analysis of Composite Restorations.,Dentistry journal,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明该研究自己使用 3D Slicer 进行 micro-CT 图像分割、Solid Edge 进行网格修复、Blender 进行表面修正。,Restorative Dentistry,Biomechanical analysis and simulation,3D Slicer; Solid Edge; Blender,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明该研究自己使用 3D Slicer 进行 micro-CT 图像分割、Solid Edge 进行网格修复、Blender 进行表面修正。
+【专科】: Restorative Dentistry
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; Solid Edge; Blender
+【研究设计】: computational"
+effect of framework material and gyroid lattice design on the biomechanics of all on four full arch prostheses,Effect of framework material and gyroid lattice design on the biomechanics of all-on-four full-arch prostheses.,BMC oral health,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明作者将CT数据导入 3D Slicer 进行分割、用 Blender 进行逆向工程与几何精修、并用 Altair HyperMesh 进行网格划分，属研究自身使用非牙科3D软件。,Prosthodontics,Biomechanical analysis and simulation,3D Slicer; Blender; Altair HyperMesh,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明作者将CT数据导入 3D Slicer 进行分割、用 Blender 进行逆向工程与几何精修、并用 Altair HyperMesh 进行网格划分，属研究自身使用非牙科3D软件。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; Blender; Altair HyperMesh
+【研究设计】: computational"
+multi architecture deep learning for cbct segmentation of dental hard tissues and pulp in mixed dentition,Multi-Architecture deep learning for CBCT segmentation of dental hard tissues and pulp in mixed dentition.,Journal of dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明将DICOM文件导入ITK-SNAP进行半自动分割，属于研究自身方法中使用非牙科专用3D软件。,Pediatric Dentistry,Image segmentation and 3D reconstruction,ITK-SNAP,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明将DICOM文件导入ITK-SNAP进行半自动分割，属于研究自身方法中使用非牙科专用3D软件。
+【专科】: Pediatric Dentistry
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP
+【研究设计】: computational"
+the geometric relationship between root length and root surface area determined from digital tooth models,The geometric relationship between root length and root surface area determined from digital tooth models.,Computers in biology and medicine,journalArticle,No non-dental 3D software identified,INCLUDE,"方法部分明确说明使用 Meshmixer Version 3.3 将牙根从牙冠分离（""Utilising Meshmixer Version 3.3... the roots of each three-dimensional tooth model were separated from the crowns""）。",Endodontics,Image segmentation and 3D reconstruction,Meshmixer,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 Meshmixer Version 3.3 将牙根从牙冠分离（""Utilising Meshmixer Version 3.3... the roots of each three-dimensional tooth model were separated from the crowns""）。
+【专科】: Endodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Meshmixer
+【研究设计】: computational"
+tcfnet bidirectional face bone transformation via a transformer based coarse to fine point movement network,TCFNet: Bidirectional face-bone transformation via a Transformer-based coarse-to-fine point movement network.,Medical image analysis,journalArticle,Outside the scope of dentistry,INCLUDE,"全文明确说明""All post-processing operations were performed in MeshLab""且""Our preprocessing and postprocessing methods relied on Open3D 0.18.0 and MeshLab""，表明该研究自身在方法中使用了非牙科专用3D软件MeshLab。",Orthodontics and Orthognathic Surgery,Image segmentation and 3D reconstruction,MeshLab; Open3D,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明""All post-processing operations were performed in MeshLab""且""Our preprocessing and postprocessing methods relied on Open3D 0.18.0 and MeshLab""，表明该研究自身在方法中使用了非牙科专用3D软件MeshLab。
+【专科】: Orthodontics and Orthognathic Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: MeshLab; Open3D
+【研究设计】: computational"
+the effect of different tooth preparation finishing procedures and immediate dentin sealing on the scanning accuracy of different intraoral scanners,The effect of different tooth preparation finishing procedures and immediate dentin sealing on the scanning accuracy of different intraoral scanners.,Journal of dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明将对照文件和实验扫描数据导入逆向工程软件（Geomagic Control X; 3D Systems）进行最佳拟合对齐和RMS误差计算，属该研究自身方法中使用非牙科专用3D软件。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将对照文件和实验扫描数据导入逆向工程软件（Geomagic Control X; 3D Systems）进行最佳拟合对齐和RMS误差计算，属该研究自身方法中使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+automated micro ct quantification of clear aligner fit a pilot comparison of manufacturing processes,Automated micro-CT quantification of clear aligner fit: a pilot comparison of manufacturing processes.,BMC oral health,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Mimics 21.0 进行手动分割以验证自动化算法，属自身方法使用非牙科专用3D软件。,Orthodontics,Image segmentation and 3D reconstruction,Mimics,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Mimics 21.0 进行手动分割以验证自动化算法，属自身方法使用非牙科专用3D软件。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: in_vitro"
+application of temporary patient specific plate in head and neck osteocutaneous free flap reconstruction a prospective pilot study,Application of temporary patient-specific plate in head and neck osteocutaneous free flap reconstruction: a prospective pilot study.,Frontiers in oral health,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用非牙科专用3D软件 3-matic 13.0 进行手术导板/TPSP设计及术后模型配准与偏差分析。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,3-matic,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用非牙科专用3D软件 3-matic 13.0 进行手术导板/TPSP设计及术后模型配准与偏差分析。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: 3-matic
+【研究设计】: clinical"
+individual high precision 3d mandibular model for finite element analysis of three unit bridges a biomechanical pilot study,"Individual, High-Precision 3D Mandibular Model for Finite Element Analysis of Three-Unit Bridges: A Biomechanical Pilot Study.",Journal of functional biomaterials,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 3D Slicer 进行分割重建，并使用 SIMULIA Abaqus 进行有限元分析。,Prosthodontics,Biomechanical analysis and simulation,3D Slicer; ABAQUS,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 3D Slicer 进行分割重建，并使用 SIMULIA Abaqus 进行有限元分析。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; ABAQUS
+【研究设计】: computational"
+a step by step guide for implementation of virtual surgical applications and patient data centralization practical experience and lessons learned,A step-by-step guide for implementation of virtual surgical applications and patient data centralization: practical experience and lessons learned.,3D printing in medicine,journalArticle,Not an original research report,INCLUDE,全文明确说明该研究自身在虚拟服务器上运行并使用 Mimics Innovation Suite v26.0 进行 VSP（如腭部腺样囊性癌切除的虚拟手术规划）。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Mimics Innovation Suite,technical_note,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自身在虚拟服务器上运行并使用 Mimics Innovation Suite v26.0 进行 VSP（如腭部腺样囊性癌切除的虚拟手术规划）。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Mimics Innovation Suite
+【研究设计】: technical_note"
+a finite element analysis of a dental implant with a conformal lattice structure a parametric exploration under occlusal loading,A finite element analysis of a dental implant with a conformal lattice structure: a parametric exploration under occlusal loading.,Biomedical physics & engineering express,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明三维模型在CAD 2014中构建后导入ANSYS Workbench 2023 R1进行有限元前处理与分析，属研究自身方法使用非牙科专用3D软件。,Implantology,Biomechanical analysis and simulation,ANSYS Workbench,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明三维模型在CAD 2014中构建后导入ANSYS Workbench 2023 R1进行有限元前处理与分析，属研究自身方法使用非牙科专用3D软件。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ANSYS Workbench
+【研究设计】: computational"
+comparison of biomechanical performance of custom implants with different designs under functional load a finite element analysis,Comparison of biomechanical performance of custom implants with different designs under functional load: a finite element analysis.,BMC oral health,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 3DSlicer 从断层数据生成骨与牙模型、用 Blender 进行逆向工程与三维CAD建模、用 ALTAIR HyperMesh 划分网格，均为研究自身使用非牙科专用3D软件。,Prosthodontics,Biomechanical analysis and simulation,3D Slicer; Blender; HyperMesh,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 3DSlicer 从断层数据生成骨与牙模型、用 Blender 进行逆向工程与三维CAD建模、用 ALTAIR HyperMesh 划分网格，均为研究自身使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; Blender; HyperMesh
+【研究设计】: computational"
+electromagnetic navigation in mandibular reconstruction using autologous grafts a color coded assistance for precise positioning of bone segments,Electromagnetic Navigation in Mandibular Reconstruction Using Autologous Grafts: A Color-Coded Assistance for Precise Positioning of Bone Segments.,Computational and structural biotechnology journal,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确说明""Bone surfaces are segmented using Mimics (Materialise NV, Leuven, Belgium)""，即该研究自身在方法中使用非牙科专用3D软件Mimics进行骨表面分割。",Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Mimics,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明""Bone surfaces are segmented using Mimics (Materialise NV, Leuven, Belgium)""，即该研究自身在方法中使用非牙科专用3D软件Mimics进行骨表面分割。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Mimics
+【研究设计】: clinical"
+accuracy and generalizability of an open source deep learning model for facial bone segmentation on ct and cbct scans an ex vivo study,Accuracy and generalizability of an open-source deep learning model for facial bone segmentation on CT and CBCT scans: An ex vivo study.,Journal of dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 ITK-SNAP 软件（v. 4.0.1）将 DICOM 数据集转换为 NIfTI 格式，属研究自身方法中使用非牙科专用3D软件。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,ITK-SNAP,in_vitro,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 ITK-SNAP 软件（v. 4.0.1）将 DICOM 数据集转换为 NIfTI 格式，属研究自身方法中使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP
+【研究设计】: in_vitro"
+comparison of low dose standard dose and high definition cbct protocols for stl reconstruction accuracy in digital bone scaffold workflows,"Comparison of Low-Dose, Standard-Dose, and High-Definition CBCT Protocols for STL Reconstruction Accuracy in Digital Bone Scaffold Workflows.",International journal of dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己将DICOM数据导入3D Slicer进行分割，并使用CloudCompare进行网格配准与偏差分析。,Oral and Maxillofacial Radiology,3D data analysis and accuracy assessment,3D Slicer; CloudCompare,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己将DICOM数据导入3D Slicer进行分割，并使用CloudCompare进行网格配准与偏差分析。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: 3D Slicer; CloudCompare
+【研究设计】: in_vitro"
+influence of transmucosal contour on peri implant soft tissue dimensions a cross sectional study in posterior single tooth implants,Influence of Transmucosal Contour on Peri-Implant Soft Tissue Dimensions: A Cross-Sectional Study in Posterior Single-Tooth Implants.,Journal of esthetic and restorative dentistry : official publication of the American Academy of Esthetic Dentistry ... [et al.],journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明使用 Geomagic Control X 进行三维测量分析，并使用 AutoCAD 2025 测量冠面积与软组织面积，属于研究自身方法中使用的非牙科专用3D软件。,Implantology,3D data analysis and accuracy assessment,Geomagic Control X; AutoCAD,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用 Geomagic Control X 进行三维测量分析，并使用 AutoCAD 2025 测量冠面积与软组织面积，属于研究自身方法中使用的非牙科专用3D软件。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X; AutoCAD
+【研究设计】: clinical"
+evaluation of the effects of diameter length splinted or nonsplinted form and crown to implant ratio on the stress distribution around extra short implants in the posterior mandible finite element analysis,"Evaluation of the Effects of Diameter, Length, Splinted or Nonsplinted Form, and Crown-to-Implant Ratio on the Stress Distribution Around Extra-Short Implants in  the Posterior Mandible: Finite Element Analysis.",The International journal of oral & maxillofacial implants,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明将CBCT数据导入Mimics和3-matic进行分割并生成3D下颌模型，属于研究自身使用非牙科专用3D软件。,Implantology,Biomechanical analysis and simulation,Mimics; 3-matic,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明将CBCT数据导入Mimics和3-matic进行分割并生成3D下颌模型，属于研究自身使用非牙科专用3D软件。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; 3-matic
+【研究设计】: computational"
+posterior implant angulation without cantilever reduction in mandibular all on 4 a controlled finite element analysis of stress transfer and implant macrodesign effects,Posterior implant angulation without cantilever reduction in mandibular All-on-4: a controlled finite element analysis of stress transfer and implant macrodesign  effects.,BMC oral health,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 Rhinoceros 4.0 进行种植体/修复体几何装配，并用 3D-Doctor 提取 CBCT 轮廓、ALGOR FEMPRO 进行有限元求解。,Implantology,Biomechanical analysis and simulation,Rhinoceros; 3D-Doctor; ALGOR FEMPRO,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 Rhinoceros 4.0 进行种植体/修复体几何装配，并用 3D-Doctor 提取 CBCT 轮廓、ALGOR FEMPRO 进行有限元求解。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Rhinoceros; 3D-Doctor; ALGOR FEMPRO
+【研究设计】: computational"
+effect of simulated bur radius compensation on full contour cad crown morphology and trueness across tooth types an in silico study,Effect of simulated bur radius compensation on full-contour CAD crown morphology and trueness across tooth types. An in- silico study.,The Saudi dental journal,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 CloudCompare 软件进行 ICP 对齐和点-面距离计算以验证其自定义 Python 算法的几何精度。,Prosthodontics,3D data analysis and accuracy assessment,CloudCompare,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 CloudCompare 软件进行 ICP 对齐和点-面距离计算以验证其自定义 Python 算法的几何精度。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: CloudCompare
+【研究设计】: computational"
+development of an automatic computer program to determine the optimal dental implant size and position for fibula free flap surgery,Development of an Automatic Computer Program to Determine the Optimal Dental Implant Size and Position for Fibula Free Flap Surgery.,Craniomaxillofacial trauma & reconstruction,journalArticle,No non-dental 3D software identified,INCLUDE,摘要明确说明该研究自己使用 MATLAB 开发了自动计算机程序用于腓骨瓣种植体最优定位。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,MATLAB,computational,"【判定】: INCLUDE
+【判定理由】: 摘要明确说明该研究自己使用 MATLAB 开发了自动计算机程序用于腓骨瓣种植体最优定位。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: MATLAB
+【研究设计】: computational"
+three dimensional finite element analysis of temporomandibular joint stresses following botulinum toxin injection and occlusal splint therapy in bruxism,Three-dimensional finite element analysis of temporomandibular joint stresses following botulinum toxin injection and occlusal splint therapy in bruxism.,BMC oral health,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明该研究自身使用 3D Slicer 进行分割、ANSYS SpaceClaim/Workbench 进行逆向工程与网格划分、LS-DYNA 求解有限元仿真。,Temporomandibular Disorders,Biomechanical analysis and simulation,3D Slicer; ANSYS SpaceClaim; ANSYS Workbench; LS-DYNA,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明该研究自身使用 3D Slicer 进行分割、ANSYS SpaceClaim/Workbench 进行逆向工程与网格划分、LS-DYNA 求解有限元仿真。
+【专科】: Temporomandibular Disorders
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; ANSYS SpaceClaim; ANSYS Workbench; LS-DYNA
+【研究设计】: computational"
+a novel guided zygomatic and pterygoid implant surgery system a human cadaver study on accuracy,A Novel Guided Zygomatic and Pterygoid Implant Surgery System: A Human Cadaver Study on Accuracy.,International journal of environmental research and public health,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明术后CT的DICOM图像被上传至Mimics Medical 19.0进行基于组织密度的分割，并用3-matic Medical 11.0配准种植体空间坐标以计算偏差。,Oral and Maxillofacial Surgery,3D data analysis and accuracy assessment,Mimics; 3-matic,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明术后CT的DICOM图像被上传至Mimics Medical 19.0进行基于组织密度的分割，并用3-matic Medical 11.0配准种植体空间坐标以计算偏差。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Mimics; 3-matic
+【研究设计】: clinical"
+concurrent computed tomography based evaluation of nasal morphology airway volume and skeletal changes following craniofacial distraction osteogenesis a pilot retrospective case series,"Concurrent computed tomography-based evaluation of nasal morphology, airway volume, and skeletal changes following craniofacial distraction osteogenesis: A  pilot retrospective case series.","Journal of stomatology, oral and maxillofacial surgery",journalArticle,Outside the scope of dentistry,INCLUDE,全文方法部分明确说明使用 Mimics 三维分析软件进行鼻软组织指数测量和髁突体积计算。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Mimics,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Mimics 三维分析软件进行鼻软组织指数测量和髁突体积计算。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: clinical"
+a reproducible optical microscopic framework for evaluating electronic apex locator performance in different irrigants using 3d printed transparent resin teeth,A reproducible optical-microscopic framework for evaluating electronic apex locator performance in different irrigants using 3D-printed transparent resin  teeth.,Frontiers in dental medicine,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确描述该研究自己使用 3D Slicer 进行牙体分割、并使用 Meshmixer 进行数字化开髓预备。,Endodontics,Image segmentation and 3D reconstruction,3D Slicer; Meshmixer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确描述该研究自己使用 3D Slicer 进行牙体分割、并使用 Meshmixer 进行数字化开髓预备。
+【专科】: Endodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer; Meshmixer
+【研究设计】: in_vitro"
+biomechanical comparison of titanium and y tzp subperiosteal implants in atrophic maxilla a finite element study,Biomechanical comparison of titanium and Y-TZP subperiosteal implants in atrophic maxilla: a finite element study.,BMC oral health,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 3D Slicer 对颌骨CT进行分割重建，并使用 Blender 进行几何精修与网格准备。,Implantology,Biomechanical analysis and simulation,3D Slicer; Blender,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 3D Slicer 对颌骨CT进行分割重建，并使用 Blender 进行几何精修与网格准备。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; Blender
+【研究设计】: computational"
+ai assisted identification of the medial lingual foramen on cbct a deep learning approach for preoperative implant assessment,AI-Assisted Identification of the Medial Lingual Foramen on CBCT: A Deep Learning Approach for Preoperative Implant Assessment.,"Medicina (Kaunas, Lithuania)",journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明 ""Manual annotations were performed in 3D Slicer (v4.13.0) on sagittal slices""，即该研究自己在方法中使用非牙科专用3D软件 3D Slicer 进行图像标注/分割。",Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明 ""Manual annotations were performed in 3D Slicer (v4.13.0) on sagittal slices""，即该研究自己在方法中使用非牙科专用3D软件 3D Slicer 进行图像标注/分割。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: computational"
+predicting site specific alveolar bone remodeling in class iii decompensation a preliminary study based on a data driven rbf framework,Predicting site-specific alveolar bone remodeling in class III decompensation: a preliminary study based on a data-driven RBF framework.,BMC oral health,journalArticle,Other / not classifiable,INCLUDE,全文明确说明使用 Mimics software (version 21.0) 对 DICOM 数据进行三维重建和图像分割，属研究自身方法中使用非牙科专用3D软件。,Orthodontics,Image segmentation and 3D reconstruction,Mimics,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用 Mimics software (version 21.0) 对 DICOM 数据进行三维重建和图像分割，属研究自身方法中使用非牙科专用3D软件。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: clinical"
+development of an experimental model for assessment of palatal tissue decomposition by intraoral scanner,Development of an experimental model for assessment of palatal tissue decomposition by intraoral scanner.,Forensic science international,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明在 GOM Inspect 软件中裁剪腭部扫描区域并选取、描记腭皱襞进行数字分析。,Forensic Odontology,Morphological and phenotypic analysis,GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明在 GOM Inspect 软件中裁剪腭部扫描区域并选取、描记腭皱襞进行数字分析。
+【专科】: Forensic Odontology
+【应用场景】: Morphological and phenotypic analysis
+【软件】: GOM Inspect
+【研究设计】: in_vitro"
+detecting mandible fractures in cbct scans using a 3 stage neural network,Detecting Mandible Fractures in CBCT Scans Using a 3-Stage Neural Network.,Journal of dental research,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明研究者使用 ITK-SNAP (version 3.6.0) 对下颌骨及骨折进行逐层分割标注，属该研究自身方法中使用非牙科专用3D软件。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,ITK-SNAP,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明研究者使用 ITK-SNAP (version 3.6.0) 对下颌骨及骨折进行逐层分割标注，属该研究自身方法中使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP
+【研究设计】: computational"
+accuracy of intraoral optical scan versus stereophotogrammetry for complete arch digital implant impression an in vitro study,Accuracy of intraoral optical scan versus stereophotogrammetry for complete-arch digital implant impression: An in vitro study.,Journal of prosthodontic research,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 Geomagic Studio 12 对60个测试STL文件进行对齐和精度评估，属研究自身使用非牙科3D软件。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Studio,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Geomagic Studio 12 对60个测试STL文件进行对齐和精度评估，属研究自身使用非牙科3D软件。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Studio
+【研究设计】: in_vitro"
+fit and retention of complete denture bases part ii conventional impressions versus digital scans a clinical controlled crossover study,Fit and retention of complete denture bases: Part II - conventional impressions versus digital scans: A clinical controlled crossover study.,The Journal of prosthetic dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明将扫描数据导入 Geomagic Control X 2020 进行修剪、最佳拟合对齐及配准比较，属该研究自身使用非牙科3D软件处理3D数据。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明将扫描数据导入 Geomagic Control X 2020 进行修剪、最佳拟合对齐及配准比较，属该研究自身使用非牙科3D软件处理3D数据。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: clinical"
+experimental study on dimensional variations of 3d printed dental models based on printing orientation,Experimental study on dimensional variations of 3D printed dental models based on printing orientation.,Clinical case reports,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Geomagic Control X 软件对3D扫描数据进行配准和偏差分析以评估打印精度。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Geomagic Control X 软件对3D扫描数据进行配准和偏差分析以评估打印精度。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+accuracy of the implant replica positions on the complete edentulous additive manufactured cast,Accuracy of the Implant Replica Positions on the Complete Edentulous Additive Manufactured Cast.,Journal of prosthodontics : official journal of the American College of Prosthodontists,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 CAD 软件 Geomagic（3D Systems）进行最佳拟合与三维偏差计算。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 CAD 软件 Geomagic（3D Systems）进行最佳拟合与三维偏差计算。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic
+【研究设计】: in_vitro"
+does the fixture thread depth affect the accuracy of implant placement during fully guided immediate implant placement a human cadaver study,Does the fixture thread depth affect the accuracy of implant placement during fully guided immediate implant placement?: A human cadaver study.,Clinical oral implants research,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用非牙科3D检测软件 Geomagic Verify 进行光学印模的检查与叠加分析。,Implantology,3D data analysis and accuracy assessment,Geomagic Verify,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用非牙科3D检测软件 Geomagic Verify 进行光学印模的检查与叠加分析。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Verify
+【研究设计】: clinical"
+comparison of the reproducibility of maxillary position transfer with a mechanical facebow and those with facial scanning and cone beam computed tomography based on a method of model orientation using anatomical landmarks,"Comparison of the reproducibility of maxillary position transfer with a mechanical facebow and those with facial scanning and cone beam computed  tomography, based on a method of model orientation using anatomical landmarks.",Journal of prosthodontics : official journal of the American College of Prosthodontists,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 Geomagic Wrap 修改扫描数据、Geomagic Control X 进行坐标系重建与模型定向、Mimics Research 将 CBCT DICOM 转为 STL。,Prosthodontics,Surgical planning and precise implementation,Geomagic Wrap; Geomagic Control X; Mimics Research,clinical,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 Geomagic Wrap 修改扫描数据、Geomagic Control X 进行坐标系重建与模型定向、Mimics Research 将 CBCT DICOM 转为 STL。
+【专科】: Prosthodontics
+【应用场景】: Surgical planning and precise implementation
+【软件】: Geomagic Wrap; Geomagic Control X; Mimics Research
+【研究设计】: clinical"
+rehabilitation of the severely atrophic maxilla with subperiosteal implants a biomechanical and decision analysis of material and configuration choices,Rehabilitation of the Severely Atrophic Maxilla with Subperiosteal Implants: A Biomechanical and Decision Analysis of Material and Configuration Choices.,"Biomimetics (Basel, Switzerland)",journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 SolidWorks 设计固定螺钉、使用 ABAQUS 进行有限元分析，均为非牙科专用3D软件。,Prosthodontics,Biomechanical analysis and simulation,SolidWorks; ABAQUS,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 SolidWorks 设计固定螺钉、使用 ABAQUS 进行有限元分析，均为非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: SolidWorks; ABAQUS
+【研究设计】: computational"
+novel design of additive manufactured hollow porous implants,Novel design of additive manufactured hollow porous implants.,Dental materials : official publication of the Academy of Dental Materials,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明该研究自己使用有限元软件 ANSYS 构建三维有限元模型并进行力学计算（""The three-dimensional finite element model was built by finite element software ANSYS""）。",Implantology,Biomechanical analysis and simulation,ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用有限元软件 ANSYS 构建三维有限元模型并进行力学计算（""The three-dimensional finite element model was built by finite element software ANSYS""）。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ANSYS
+【研究设计】: computational"
+lateral stress distribution analysis on hafnium metal bar for implant superstructure a finite element analysis,Lateral stress distribution analysis on hafnium metal bar for implant superstructure- A finite element analysis.,Journal of oral biology and craniofacial research,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自身使用 SolidWorks 2021 进行CAD建模、HyperMesh 14 进行网格划分、Abaqus 6.14 进行应力仿真分析。,Implantology,Biomechanical analysis and simulation,SolidWorks; HyperMesh; ABAQUS,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自身使用 SolidWorks 2021 进行CAD建模、HyperMesh 14 进行网格划分、Abaqus 6.14 进行应力仿真分析。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: SolidWorks; HyperMesh; ABAQUS
+【研究设计】: computational"
+evaluation of the accuracy trueness precision and processing time of different 3 dimensional cad software programs and algorithms for virtual cast alignment,"Evaluation of the accuracy (trueness, precision) and processing time of different 3-dimensional CAD software programs and algorithms for virtual cast alignment.",Journal of dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 Meshmixer（及 Blender for Dental）等非牙科专用3D软件进行虚拟模型对齐分析。,Prosthodontics,3D data analysis and accuracy assessment,Meshmixer; Blender,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 Meshmixer（及 Blender for Dental）等非牙科专用3D软件进行虚拟模型对齐分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Meshmixer; Blender
+【研究设计】: in_vitro"
+impact of the superimposition reference area on intraoral scanning accuracy in a partially dentate maxilla,Impact of the superimposition reference area on intraoral scanning accuracy in a partially dentate maxilla.,The Journal of prosthetic dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用非牙科专用3D分析软件 Geomagic Control X 进行扫描配准、偏差计算和精度评估。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用非牙科专用3D分析软件 Geomagic Control X 进行扫描配准、偏差计算和精度评估。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+comparison of stereolithography stl and polygon file format ply for intraoral scans from chairside to archive,Comparison of stereolithography (STL) and polygon file format (PLY) for intraoral scans: From chairside to archive.,Journal of dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,该研究方法中明确使用 Blender 3.6、Blender 4.4、PyMeshLab、Trimesh 等非牙科3D软件进行 STL-PLY-STL 转换与几何保真度分析。,Prosthodontics,3D data analysis and accuracy assessment,Blender; PyMeshLab; Trimesh,computational,"【判定】: INCLUDE
+【判定理由】: 该研究方法中明确使用 Blender 3.6、Blender 4.4、PyMeshLab、Trimesh 等非牙科3D软件进行 STL-PLY-STL 转换与几何保真度分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Blender; PyMeshLab; Trimesh
+【研究设计】: computational"
+digitally driven optimization of intraoral water jet parameters for plaque removal a personalized 3d guided orthogonal study,Digitally-driven optimization of intraoral water jet parameters for plaque removal: a personalized 3D-guided orthogonal study.,BMC oral health,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Rhinoceros 7.0 进行个性化导板建模，并使用 Geomagic Wrap 2021 进行3D菌斑定量分析。,Preventive Dentistry,Digital design and manufacturing,Rhinoceros; Geomagic Wrap,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Rhinoceros 7.0 进行个性化导板建模，并使用 Geomagic Wrap 2021 进行3D菌斑定量分析。
+【专科】: Preventive Dentistry
+【应用场景】: Digital design and manufacturing
+【软件】: Rhinoceros; Geomagic Wrap
+【研究设计】: clinical"
+effect of printing technology layer height and orientation on assessment of 3d printed models,"Effect of printing technology, layer height, and orientation on assessment of 3D-printed models.",Journal of the World federation of orthodontists,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 Geomagic Control 软件对打印模型 STL 文件进行叠加和偏差分析。,Orthodontics,3D data analysis and accuracy assessment,Geomagic Control,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Geomagic Control 软件对打印模型 STL 文件进行叠加和偏差分析。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control
+【研究设计】: in_vitro"
+the accuracy of a novel image guided hybrid robotic system for dental implant placement an in vitro study,The accuracy of a novel image-guided hybrid robotic system for dental implant placement: An in vitro study.,The international journal of medical robotics + computer assisted surgery : MRCAS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明作者将CBCT数据导入Geomagic Studio进行模型处理，并使用Brainlab CMF软件进行图像融合与精度评估，属于研究自身方法中使用非牙科专用3D软件。,Implantology,3D data analysis and accuracy assessment,Geomagic Studio; Brainlab CMF,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明作者将CBCT数据导入Geomagic Studio进行模型处理，并使用Brainlab CMF软件进行图像融合与精度评估，属于研究自身方法中使用非牙科专用3D软件。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Studio; Brainlab CMF
+【研究设计】: in_vitro"
+a novel approach for determining instantaneous centers of rotation of the mandible with an intraoral scanner a preliminary study,A novel approach for determining instantaneous centers of rotation of the mandible with an intraoral scanner: A preliminary study.,PloS one,journalArticle,No non-dental 3D software identified,INCLUDE,"该研究在方法中明确使用 Blender 2.79.2 进行网格对齐与变换处理（""we used an alignment process... carried out in Blender 2.79.2""）。",Prosthodontics,3D data analysis and accuracy assessment,Blender,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Blender 2.79.2 进行网格对齐与变换处理（""we used an alignment process... carried out in Blender 2.79.2""）。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Blender
+【研究设计】: computational"
+influence of intraoral scanners operators and data processing on dimensional accuracy of dental casts for unsupervised clinical machine learning an in vitro comparative study,"Influence of Intraoral Scanners, Operators, and Data Processing on Dimensional Accuracy of Dental Casts for Unsupervised Clinical Machine Learning: An In Vitro  Comparative Study.",International journal of dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明作者自己在方法中使用 Meshmixer 对扫描文件进行分割和挤出以生成增强数据集（""extruding the native scan files... in CAD (Meshmixer; Autodesk Inc.)""）。",Prosthodontics,Digital design and manufacturing,Meshmixer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明作者自己在方法中使用 Meshmixer 对扫描文件进行分割和挤出以生成增强数据集（""extruding the native scan files... in CAD (Meshmixer; Autodesk Inc.)""）。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Meshmixer
+【研究设计】: in_vitro"
+ct based three dimensional morphometric analysis of the bony palate and hard palatal mucosa in female orthognathic surgery candidates,CT-based three-dimensional morphometric analysis of the bony palate and hard palatal mucosa in female orthognathic surgery candidates.,Frontiers in oral health,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 Mimics 27.0 进行线性距离和面积的测量及三维形态分析。,Orthodontics,Morphological and phenotypic analysis,Mimics,clinical,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 Mimics 27.0 进行线性距离和面积的测量及三维形态分析。
+【专科】: Orthodontics
+【应用场景】: Morphological and phenotypic analysis
+【软件】: Mimics
+【研究设计】: clinical"
+in vitro comparison of five desktop scanners and an industrial scanner in the evaluation of an intraoral scanner accuracy,In vitro comparison of five desktop scanners and an industrial scanner in the evaluation of an intraoral scanner accuracy.,Journal of dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确说明使用 GOM Inspect 软件进行扫描数据的分割、对齐和偏差计算（""The STL files were imported to a comprehensive metrology program (GOM Inspect...)""）。",Prosthodontics,3D data analysis and accuracy assessment,GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 GOM Inspect 软件进行扫描数据的分割、对齐和偏差计算（""The STL files were imported to a comprehensive metrology program (GOM Inspect...)""）。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: in_vitro"
+automated artificial intelligence driven 3 dimensional craniofacial superimposition for clinically useful treatment outcomes in growing patients a multicenter study,Automated artificial intelligence-driven 3-dimensional craniofacial superimposition for clinically useful treatment outcomes in growing patients: A  multicenter study.,"American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent  societies, and the American Board of Orthodontics",journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明 approach 1 使用 ITK-SNAP (version 4.0.1) 进行分割，并通过 3D Slicer (version 5.2.2) 的 SlicerCMF 工具进行体素配准。,Orthodontics,Image segmentation and 3D reconstruction,ITK-SNAP; 3D Slicer,clinical,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明 approach 1 使用 ITK-SNAP (version 4.0.1) 进行分割，并通过 3D Slicer (version 5.2.2) 的 SlicerCMF 工具进行体素配准。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP; 3D Slicer
+【研究设计】: clinical"
+clinical implementation of an eu mdr compliant point of care manufacturing framework for patient specific 3d printed peek implants in craniomaxillofacial reconstruction,Clinical implementation of an EU MDR-compliant point-of-care manufacturing framework for patient-specific 3D-printed PEEK implants in craniomaxillofacial  reconstruction.,3D printing in medicine,journalArticle,Not an original research report,INCLUDE,全文方法部分明确说明该研究自己使用 MIMICS Innovation Suite 进行 DICOM 数据处理与半自动分割，并使用 Geomagic Freeform Plus 进行 CAD 设计。,Oral and Maxillofacial Surgery,Digital design and manufacturing,Mimics; Geomagic Freeform Plus,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明该研究自己使用 MIMICS Innovation Suite 进行 DICOM 数据处理与半自动分割，并使用 Geomagic Freeform Plus 进行 CAD 设计。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Digital design and manufacturing
+【软件】: Mimics; Geomagic Freeform Plus
+【研究设计】: clinical"
+pressure based finite element analysis of setup distance in clear aligner canine retraction comparing bodily and tipping movements,Pressure-based finite element analysis of setup distance in clear aligner canine retraction comparing bodily and tipping movements.,Scientific reports,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 ANSYS Mechanical 2024R 进行三维有限元分析以模拟上颌尖牙内收。,Orthodontics,Biomechanical analysis and simulation,ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 ANSYS Mechanical 2024R 进行三维有限元分析以模拟上颌尖牙内收。
+【专科】: Orthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ANSYS
+【研究设计】: computational"
+influence of different education approaches on the implantation performance of dental practitioners in aesthetic zone,Influence of different education approaches on the implantation performance of dental practitioners in aesthetic zone.,Journal of dental education,journalArticle,Not an original research report,INCLUDE,全文方法部分明确说明使用非牙科专用3D软件 Geomagic Studio 进行虚拟模型叠加与植入位置比较分析。,Implantology,3D data analysis and accuracy assessment,Geomagic Studio,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用非牙科专用3D软件 Geomagic Studio 进行虚拟模型叠加与植入位置比较分析。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Studio
+【研究设计】: clinical"
+monitoring the calibration of in office 3d printers,Monitoring the Calibration of In-Office 3D Printers.,Dentistry journal,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明校准试件的设计（刻字）使用了 Meshmixer 软件（Autodesk），属于研究自身方法中使用的非牙科专用3D软件。,Prosthodontics,Digital design and manufacturing,Meshmixer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明校准试件的设计（刻字）使用了 Meshmixer 软件（Autodesk），属于研究自身方法中使用的非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Meshmixer
+【研究设计】: in_vitro"
+intaglio surface adaptation of removable partial denture framework fabricated by various data acquisition techniques and fabrication approaches,Intaglio Surface Adaptation of Removable Partial Denture Framework Fabricated by Various Data Acquisition Techniques and Fabrication Approaches.,European journal of dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明使用非牙科专用计量软件 Geomagic Control X 2020 对框架 STL 与参考模型进行叠加和偏差分析。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用非牙科专用计量软件 Geomagic Control X 2020 对框架 STL 与参考模型进行叠加和偏差分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+fractured full arch tooth supported zirconia bridge thin design surface damage and excessive cement layer thickness,"Fractured Full-Arch Tooth-Supported Zirconia Bridge: Thin Design, Surface Damage, and Excessive Cement Layer Thickness.",Reports (MDPI),journalArticle,Not an original research report,INCLUDE,该病例报告将桥体STL文件导入Rhinoceros CAD软件，用CutPlane命令创建截面以评估修复体厚度与设计。,Prosthodontics,3D data analysis and accuracy assessment,Rhinoceros,case_report,"【判定】: INCLUDE
+【判定理由】: 该病例报告将桥体STL文件导入Rhinoceros CAD软件，用CutPlane命令创建截面以评估修复体厚度与设计。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Rhinoceros
+【研究设计】: case_report"
+influence of splinting scan bodies or incorporating three dimensionally printed scan aids on the trueness of complete arch digital scans,Influence of splinting scan bodies or incorporating three-dimensionally printed scan aids on the trueness of complete arch digital scans.,The Journal of prosthetic dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 SolidWorks 虚拟设计定制扫描体与辅助装置，并用 Geomagic Control X 进行 3D 比对分析。,Prosthodontics,3D data analysis and accuracy assessment,SolidWorks; Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 SolidWorks 虚拟设计定制扫描体与辅助装置，并用 Geomagic Control X 进行 3D 比对分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: SolidWorks; Geomagic Control X
+【研究设计】: in_vitro"
+feasibility study and material selection for powder bed fusion process in printing of denture clasps,Feasibility study and material selection for powder-bed fusion process in printing of denture clasps.,Computers in biology and medicine,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用非牙科3D软件 Geomagic Studio 2014 进行逆向工程建模（雕刻基牙倒凹、添加圆柱杆）。,Prosthodontics,Digital design and manufacturing,Geomagic Studio,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用非牙科3D软件 Geomagic Studio 2014 进行逆向工程建模（雕刻基牙倒凹、添加圆柱杆）。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Geomagic Studio
+【研究设计】: in_vitro"
+age related changes in the parotid gland a computed tomography based radiomics study,Age-related changes in the parotid gland: a computed tomography-based radiomics study.,Quantitative imaging in medicine and surgery,journalArticle,Outside the scope of dentistry,INCLUDE,全文明确说明使用 3D Slicer（version 5.6.2）进行腮腺自动分割及手动复核，属该研究自身方法中使用的非牙科专用3D软件。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,3D Slicer,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用 3D Slicer（version 5.6.2）进行腮腺自动分割及手动复核，属该研究自身方法中使用的非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: clinical"
+quantitative and qualitative evaluation of precision in dental 3d facial scanning across handheld fixed multicamera and smartphone depth sensing systems,"Quantitative and qualitative evaluation of precision in dental 3D facial scanning across handheld, fixed multicamera, and smartphone depth-sensing systems.",The Journal of prosthetic dentistry,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用非牙科专用3D软件 Geomagic Control X 进行扫描数据叠加与偏差分析，并用 Meshmixer 设计模具。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X; Meshmixer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用非牙科专用3D软件 Geomagic Control X 进行扫描数据叠加与偏差分析，并用 Meshmixer 设计模具。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X; Meshmixer
+【研究设计】: in_vitro"
+three dimensional finite element analysis of stress distribution in a tooth restored with full coverage machined polymer crown,Three-Dimensional Finite Element Analysis of Stress Distribution in a Tooth Restored with Full Coverage Machined Polymer Crown,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 Mimics 13.1 从 micro-CT 图像重建 3D 模型，并用 Hypermesh 进行网格划分，随后进行三维有限元应力分析。,Prosthodontics,Biomechanical analysis and simulation,Mimics; HyperMesh,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 Mimics 13.1 从 micro-CT 图像重建 3D 模型，并用 Hypermesh 进行网格划分，随后进行三维有限元应力分析。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; HyperMesh
+【研究设计】: computational"
+effects of incremental mandibular advancement on upper airways morphology and anatomical structures a preliminary ct scan study on body donors,Effects of incremental mandibular advancement on upper airways morphology and anatomical structures: a preliminary CT scan study on body donors.,Scientific reports,journalArticle,No non-dental 3D software identified,INCLUDE,摘要及全文明示该研究自身使用 3D Slicer (version 5.8) 对CT数据进行上气道及软组织三维测量分析。,Orthodontics,Morphological and phenotypic analysis,3D Slicer,clinical,"【判定】: INCLUDE
+【判定理由】: 摘要及全文明示该研究自身使用 3D Slicer (version 5.8) 对CT数据进行上气道及软组织三维测量分析。
+【专科】: Orthodontics
+【应用场景】: Morphological and phenotypic analysis
+【软件】: 3D Slicer
+【研究设计】: clinical"
+three dimensional accuracy of in office aligner therapy a retrospective comparison between planned and achieved tooth positions,Three-dimensional accuracy of in-office aligner therapy: a retrospective comparison between planned and achieved tooth positions,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 3D Slicer（SlicerCMF 扩展，version 4.11）对 T1/T2 STL 模型进行三维叠加与线角度偏差量化分析。,Orthodontics,3D data analysis and accuracy assessment,3D Slicer,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 3D Slicer（SlicerCMF 扩展，version 4.11）对 T1/T2 STL 模型进行三维叠加与线角度偏差量化分析。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: 3D Slicer
+【研究设计】: clinical"
+diva a 3d virtual reality platform improves undergraduate craniofacial trauma education,"DIVA, a 3D virtual reality platform, improves undergraduate craniofacial trauma education",JOURNAL OF STOMATOLOGY ORAL AND MAXILLOFACIAL SURGERY,journalArticle,Outside the scope of dentistry,INCLUDE,全文明确说明该研究自身使用 Avizo 对 CT 扫描进行 3D 重建以放置解剖标志点，Avizo 属非牙科专用3D软件。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Avizo,educational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自身使用 Avizo 对 CT 扫描进行 3D 重建以放置解剖标志点，Avizo 属非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Avizo
+【研究设计】: educational"
+virtual reality and 3d printing in head and neck cancer an educational experience,Virtual reality and 3D printing in head and neck cancer: an educational experience,FRONTIERS IN ONCOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确写明""data were segmented with Mimics Innovation Suite (Materialise)""，表明该研究自身在方法中使用了非牙科专用3D软件Mimics进行分割。",Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Mimics,educational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确写明""data were segmented with Mimics Innovation Suite (Materialise)""，表明该研究自身在方法中使用了非牙科专用3D软件Mimics进行分割。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: educational"
+three dimensional facial volume analysis using algorithm based personalized aesthetic templates,Three-dimensional facial volume analysis using algorithm-based personalized aesthetic templates,INTERNATIONAL JOURNAL OF ORAL AND MAXILLOFACIAL SURGERY,journalArticle,Outside the scope of dentistry,INCLUDE,方法部分明确说明使用 Meshmixer 3D software 设计标准化美学模板，并使用 MATLAB v2017a 进行三维图像处理。,Oral and Maxillofacial Surgery,3D data analysis and accuracy assessment,Meshmixer; MATLAB,clinical,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 Meshmixer 3D software 设计标准化美学模板，并使用 MATLAB v2017a 进行三维图像处理。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Meshmixer; MATLAB
+【研究设计】: clinical"
+comparative analysis of five ai platforms for mandibular canal segmentation on cbct images,Comparative analysis of five AI platforms for mandibular canal segmentation on CBCT images,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 3D Slicer 作为五个自动化下颌管分割平台之一，对 120 例 CBCT 进行分割并评估其准确性。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 3D Slicer 作为五个自动化下颌管分割平台之一，对 120 例 CBCT 进行分割并评估其准确性。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: computational"
+early stage stability and degradation of patient specific biodegradable 3d printed implants for critical mandibular reconstruction,Early-stage stability and degradation of patient-specific biodegradable 3D-printed implants for critical mandibular reconstruction,DENTAL MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明将 RI-2/RI-3 实体模型导入 ANSYS Workbench v18.2 进行有限元仿真与网格收敛测试，属该研究自身方法中使用非牙科专用3D软件。,Oral and Maxillofacial Surgery,Biomechanical analysis and simulation,ANSYS Workbench,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将 RI-2/RI-3 实体模型导入 ANSYS Workbench v18.2 进行有限元仿真与网格收敛测试，属该研究自身方法中使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ANSYS Workbench
+【研究设计】: computational"
+an in vitro study of the reproducibility of the drilling access of digitalized surgical guides generated via three different implant planning software programs,An In Vitro Study of the Reproducibility of the Drilling Access of Digitalized Surgical Guides Generated via Three Different Implant Planning Software Programs,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明作者使用非牙科专用3D软件 Meshmixer 对 STL 模型进行分割与合并处理以制备研究模型。,Implantology,Digital design and manufacturing,Meshmixer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明作者使用非牙科专用3D软件 Meshmixer 对 STL 模型进行分割与合并处理以制备研究模型。
+【专科】: Implantology
+【应用场景】: Digital design and manufacturing
+【软件】: Meshmixer
+【研究设计】: in_vitro"
+effect of various printing parameters on the accuracy trueness and precision of 3d printed partial denture framework,Effect of various printing parameters on the accuracy (trueness and precision) of 3D-printed partial denture framework,JOURNAL OF THE MECHANICAL BEHAVIOR OF BIOMEDICAL MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Autodesk Meshmixer 清理扫描支撑，并使用 Geomagic Control X 和 MATLAB 2022b 进行对齐与偏差分析。,Prosthodontics,3D data analysis and accuracy assessment,Autodesk Meshmixer; Geomagic Control X; MATLAB,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Autodesk Meshmixer 清理扫描支撑，并使用 Geomagic Control X 和 MATLAB 2022b 进行对齐与偏差分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Autodesk Meshmixer; Geomagic Control X; MATLAB
+【研究设计】: in_vitro"
+suitability and trueness of the removable partial denture framework fabricating by polyether ether ketone with cad cam technology,Suitability and Trueness of the Removable Partial Denture Framework Fabricating by Polyether Ether Ketone with CAD-CAM Technology,POLYMERS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法部分明确使用 Geomagic Wrap 2017 对扫描数据进行配准、对齐和偏差分析，用于评估 PEEK RPD 支架的适合性和真实度。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Wrap,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法部分明确使用 Geomagic Wrap 2017 对扫描数据进行配准、对齐和偏差分析，用于评估 PEEK RPD 支架的适合性和真实度。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Wrap
+【研究设计】: in_vitro"
+development and validation of a robotic system for milling individualized jawbone cavities in oral and maxillofacial surgery,Development and validation of a robotic system for milling individualized jawbone cavities in oral and maxillofacial surgery,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 Mimics 进行上颌骨与埋伏牙分割、使用 Geomagic Wrap 构建实验模型并设计骨腔。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Mimics; Geomagic Wrap,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 Mimics 进行上颌骨与埋伏牙分割、使用 Geomagic Wrap 构建实验模型并设计骨腔。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics; Geomagic Wrap
+【研究设计】: in_vitro"
+three dimensional hemisided analysis of the pharyngeal airway a novel technical strategy to evaluate asymmetric remodeling after orthognathic surgery,Three-Dimensional Hemisided Analysis of the Pharyngeal Airway: A Novel Technical Strategy to Evaluate Asymmetric Remodeling After Orthognathic Surgery,JOURNAL OF CRANIOFACIAL SURGERY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明将气道STL模型导入 Meshmixer 软件进行半侧分割与体积/形态分析，属研究自身方法使用非牙科专用3D软件。,Orthodontics and Dentofacial Orthopedics,Image segmentation and 3D reconstruction,Meshmixer,technical_note,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将气道STL模型导入 Meshmixer 软件进行半侧分割与体积/形态分析，属研究自身方法使用非牙科专用3D软件。
+【专科】: Orthodontics and Dentofacial Orthopedics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Meshmixer
+【研究设计】: technical_note"
+sex and age biological variation of the mandible in a portuguese population a forensic and medico legal approaches with three dimensional analysis,Sex and age biological variation of the mandible in a Portuguese population- a forensic and medico-legal approaches with three-dimensional analysis,SCIENCE & JUSTICE,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明CBCT图像被导入Mimics Innovation Suite 17.0软件并重建生成3D颅面图像，属该研究自身方法中使用非牙科专用3D软件。,Forensic Dentistry,Image segmentation and 3D reconstruction,Mimics,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明CBCT图像被导入Mimics Innovation Suite 17.0软件并重建生成3D颅面图像，属该研究自身方法中使用非牙科专用3D软件。
+【专科】: Forensic Dentistry
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: clinical"
+subtractive versus additive indirect manufacturing techniques of digitally designed partial dentures,Subtractive versus additive indirect manufacturing techniques of digitally designed partial dentures,JOURNAL OF ADVANCED PROSTHODONTICS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Geomagic Control X 软件对扫描框架与初始设计 STL 进行表面匹配和 3D 偏差分析以评估精度。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Geomagic Control X 软件对扫描框架与初始设计 STL 进行表面匹配和 3D 偏差分析以评估精度。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+biomechanical effect of implant thickness and screw diameter on cfr peek subperiosteal implants a three dimensional finite element analysis,Biomechanical effect of implant thickness and screw diameter on CFR-PEEK subperiosteal implants: a three-dimensional finite element analysis,SCIENTIFIC REPORTS,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 3D Slicer 对上颌骨 CT 数据进行分割、并用 Blender 进行模型优化处理，属于研究自身方法中使用非牙科专用3D软件。,Prosthodontics,Biomechanical analysis and simulation,3D Slicer; Blender,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 3D Slicer 对上颌骨 CT 数据进行分割、并用 Blender 进行模型优化处理，属于研究自身方法中使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; Blender
+【研究设计】: computational"
+corticotomy depth as a modulator of orthodontic tooth movement and pdl stress a finite element study,Corticotomy Depth as a Modulator of Orthodontic Tooth Movement and PDL Stress-A Finite Element Study,MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 MIMICS 18.0 进行逐层轮廓分割重建，并使用 Hypermesh 2023 进行网格划分，均为研究自身使用。,Orthodontics,Biomechanical analysis and simulation,Mimics; HyperMesh,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 MIMICS 18.0 进行逐层轮廓分割重建，并使用 Hypermesh 2023 进行网格划分，均为研究自身使用。
+【专科】: Orthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; HyperMesh
+【研究设计】: computational"
+effect of palatal vault depth on the trueness of metal laser sintered and cast cobalt chromium removable partial denture frameworks,Effect of Palatal Vault Depth on the Trueness of Metal Laser-Sintered and Cast Cobalt-Chromium Removable Partial Denture Frameworks,JOURNAL OF PROSTHODONTICS-IMPLANT ESTHETIC AND RECONSTRUCTIVE DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用非牙科专用3D检测软件 GOM Inspect 进行STL叠加与偏差计算以评估框架真实度。,Prosthodontics,3D data analysis and accuracy assessment,GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用非牙科专用3D检测软件 GOM Inspect 进行STL叠加与偏差计算以评估框架真实度。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: in_vitro"
+does printing orientation matter in polyjet 3d printed teeth for endodontics a micro ct analysis,Does Printing Orientation Matter in PolyJet 3D Printed Teeth for Endodontics? A Micro-CT Analysis,JOURNAL OF FUNCTIONAL BIOMATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明将STL模型导入MeshLab软件（非牙科专用3D软件）进行根管形态定性分析，属研究自身方法使用。,Endodontics,Morphological and phenotypic analysis,MeshLab,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将STL模型导入MeshLab软件（非牙科专用3D软件）进行根管形态定性分析，属研究自身方法使用。
+【专科】: Endodontics
+【应用场景】: Morphological and phenotypic analysis
+【软件】: MeshLab
+【研究设计】: in_vitro"
+comparing the trueness of 3d printing and conventional casting for removable partial denture metal framework fabrication in different mandibular major connectors designs an in vitro study,Comparing the trueness of 3D printing and conventional casting for removable partial denture metal framework fabrication in different mandibular major connectors designs: An in vitro study,JOURNAL OF PROSTHETIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Geomagic Control X 软件将框架与石膏模型 STL 文件叠加并测量间隙偏差以评估真实度。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Geomagic Control X 软件将框架与石膏模型 STL 文件叠加并测量间隙偏差以评估真实度。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+usct uncertainty regularized symmetric consistency learning for semi supervised teeth segmentation in cbct,USCT: Uncertainty-regularized symmetric consistency learning for semi-supervised teeth segmentation in CBCT,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,journalArticle,No non-dental 3D software identified,INCLUDE,摘要及全文片段表明作者使用 ITK-SNAP 软件逐层手动勾画 ground truth，属于该研究自身方法中对3D数据的处理。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,ITK-SNAP,computational,"【判定】: INCLUDE
+【判定理由】: 摘要及全文片段表明作者使用 ITK-SNAP 软件逐层手动勾画 ground truth，属于该研究自身方法中对3D数据的处理。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP
+【研究设计】: computational"
+an in vitro evaluation of bond strength and failure behavior between 3d printed cobalt chromium alloy and different types of denture base resins,An in vitro evaluation of bond strength and failure behavior between 3D-printed cobalt-chromium alloy and different types of denture base resins,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 Autodesk Meshmixer version 3.5 设计圆盘状试样，属该研究自身方法中使用的非牙科专用3D软件。,Prosthodontics,Digital design and manufacturing,Autodesk Meshmixer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 Autodesk Meshmixer version 3.5 设计圆盘状试样，属该研究自身方法中使用的非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Autodesk Meshmixer
+【研究设计】: in_vitro"
+augmented reality assisted surgical exposure of an impacted tooth a pilot study,Augmented Reality-Assisted Surgical Exposure of an Impacted Tooth: A Pilot Study,APPLIED SCIENCES-BASEL,journalArticle,Not an original research report,INCLUDE,作者在方法中明确使用开源CAD软件 Meshmixer 编辑口扫模型，并使用开源医学软件 InVesalius 对CBCT进行分割并导出STL。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Meshmixer; InVesalius,clinical,"【判定】: INCLUDE
+【判定理由】: 作者在方法中明确使用开源CAD软件 Meshmixer 编辑口扫模型，并使用开源医学软件 InVesalius 对CBCT进行分割并导出STL。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Meshmixer; InVesalius
+【研究设计】: clinical"
+trueness and marginal fit of implant supported complete arch fixed prosthesis frameworks made of high performance polymers and titanium an explorative in vitro study,Trueness and marginal fit of implant-supported complete-arch fixed prosthesis frameworks made of high-performance polymers and titanium: An explorative in-vitro study,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用非牙科专用计量软件 GOM Inspect V8 SR1 进行 STL 文件叠加和偏差分析。,Prosthodontics,3D data analysis and accuracy assessment,GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用非牙科专用计量软件 GOM Inspect V8 SR1 进行 STL 文件叠加和偏差分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: in_vitro"
+automatic three dimensional facial symmetry reference plane construction based on facial planar reflective symmetry net,Automatic three-dimensional facial symmetry reference plane construction based on facial planar reflective symmetry net,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明临床医生使用 Geomagic Wrap 2021 软件手动调整三维面部数据并确定SRP，属于研究自身方法中使用非牙科专用3D软件。,Orthodontics,Morphological and phenotypic analysis,Geomagic Wrap,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明临床医生使用 Geomagic Wrap 2021 软件手动调整三维面部数据并确定SRP，属于研究自身方法中使用非牙科专用3D软件。
+【专科】: Orthodontics
+【应用场景】: Morphological and phenotypic analysis
+【软件】: Geomagic Wrap
+【研究设计】: computational"
+2d to 3d predicting three dimensional 3d cephalometric measurements from two conventional x ray images,2D-to-3D: Predicting three-dimensional (3D) cephalometric measurements from two conventional X-ray images,JOURNAL OF OROFACIAL ORTHOPEDICS-FORTSCHRITTE DER KIEFERORTHOPADIE,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 MATLAB 进行图像配准与3D标志点预测，并使用 3D Slicer 在CT图像上绘制3D头影测量标志点以验证准确性。,Orthodontics,Image segmentation and 3D reconstruction,MATLAB; 3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 MATLAB 进行图像配准与3D标志点预测，并使用 3D Slicer 在CT图像上绘制3D头影测量标志点以验证准确性。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: MATLAB; 3D Slicer
+【研究设计】: computational"
+a three year prospective study comparing stereolithography printed models to classical impression and plaster cast models in orthodontic therapy a 3d objectification approach,A Three-Year Prospective Study Comparing Stereolithography Printed Models to Classical Impression and Plaster Cast Models in Orthodontic Therapy: A 3D Objectification Approach,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自身使用 Autodesk Meshmixer 3.5 进行 best-fit 对齐、CloudCompare 2.13 进行 ICP 精细配准与点云-网格距离计算。,Orthodontics,3D data analysis and accuracy assessment,Autodesk Meshmixer; CloudCompare,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自身使用 Autodesk Meshmixer 3.5 进行 best-fit 对齐、CloudCompare 2.13 进行 ICP 精细配准与点云-网格距离计算。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Autodesk Meshmixer; CloudCompare
+【研究设计】: clinical"
+accuracy of face scan based virtual facebow records a comparison between two registration methods,Accuracy of face scan-based virtual facebow records: A comparison between two registration methods,JOURNAL OF PROSTHODONTICS-IMPLANT ESTHETIC AND RECONSTRUCTIVE DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,方法中明确将扫描数据导入开源3D软件 Blender（version 2.80）放置参考点，属研究自身使用非牙科专用3D软件处理3D数据。,Prosthodontics,3D data analysis and accuracy assessment,Blender,in_vitro,"【判定】: INCLUDE
+【判定理由】: 方法中明确将扫描数据导入开源3D软件 Blender（version 2.80）放置参考点，属研究自身使用非牙科专用3D软件处理3D数据。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Blender
+【研究设计】: in_vitro"
+modeling fracture in multilayered teeth using the finite volume based phase field method,Modeling fracture in multilayered teeth using the finite volume-based phase field method,JOURNAL OF THE MECHANICAL BEHAVIOR OF BIOMEDICAL MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 Mimics 进行CBCT分割重建、Geomagic Wrap 进行形态优化、SolidWorks 进行实体装配建模。,Endodontics,Biomechanical analysis and simulation,Mimics; Geomagic Wrap; SolidWorks,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 Mimics 进行CBCT分割重建、Geomagic Wrap 进行形态优化、SolidWorks 进行实体装配建模。
+【专科】: Endodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; Geomagic Wrap; SolidWorks
+【研究设计】: computational"
+custom design of a temporomandibular joint prosthesis a kinematic approach evaluated by finite element analysis,Custom design of a temporomandibular joint prosthesis: A kinematic approach evaluated by finite element analysis,JOURNAL OF PROSTHETIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确描述该研究自身使用 Mimics 进行解剖区域勾画、Rhinoceros 进行距离测量、ANSYS 2023 R2 进行有限元分析。,Oral and Maxillofacial Surgery,Biomechanical analysis and simulation,Mimics; Rhinoceros; ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确描述该研究自身使用 Mimics 进行解剖区域勾画、Rhinoceros 进行距离测量、ANSYS 2023 R2 进行有限元分析。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; Rhinoceros; ANSYS
+【研究设计】: computational"
+automatic multi class classification of 3d relationships between the mandibular third molar and canal on cone beam computed tomography using a geometry aware network,Automatic multi-class classification of 3D relationships between the mandibular third molar and canal on cone-beam computed tomography using a geometry-aware network,DENTOMAXILLOFACIAL RADIOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 3D Slicer (Version 4.10.2) 进行多平面可视化并测量 M3 与 MC 表面间 3D 距离。,Oral and Maxillofacial Radiology,3D data analysis and accuracy assessment,3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 3D Slicer (Version 4.10.2) 进行多平面可视化并测量 M3 与 MC 表面间 3D 距离。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: 3D Slicer
+【研究设计】: computational"
+ai driven automation of occlusal surface design in digital prosthodontics a clinically validated workflow,AI-driven automation of occlusal surface design in digital prosthodontics: a clinically validated workflow,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 3-matic 17.0 对口内扫描进行咬合面分割并用于3D偏差比较与区域误差分析。,Prosthodontics,Image segmentation and 3D reconstruction,3-Matic,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 3-matic 17.0 对口内扫描进行咬合面分割并用于3D偏差比较与区域误差分析。
+【专科】: Prosthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3-Matic
+【研究设计】: computational"
+a new method to evaluate trueness and precision of digital and conventional impression techniques for complete dental arch,A New Method to Evaluate Trueness and Precision of Digital and Conventional Impression Techniques for Complete Dental Arch,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Geomagic Control X 几何检测软件计算数字模型各圆柱体的质心坐标。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Geomagic Control X 几何检测软件计算数字模型各圆柱体的质心坐标。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+in vivo assessment of sed a novel biomechanical indicator for periodontal tissue remodeling in clear aligner therapy,In Vivo Assessment of SED: A Novel Biomechanical Indicator for Periodontal Tissue Remodeling in Clear Aligner Therapy,ANNALS OF BIOMEDICAL ENGINEERING,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确描述该研究自身将 micro-CT 数据导入 Mimics 20.0 进行分割与三维重建，并用 Geomagic Studio 2014 优化表面、在 ANSYS Workbench 2019 中建模分析。,Orthodontics,Biomechanical analysis and simulation,Mimics; Geomagic Studio; ANSYS Workbench,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确描述该研究自身将 micro-CT 数据导入 Mimics 20.0 进行分割与三维重建，并用 Geomagic Studio 2014 优化表面、在 ANSYS Workbench 2019 中建模分析。
+【专科】: Orthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; Geomagic Studio; ANSYS Workbench
+【研究设计】: computational"
+in vivo evaluation of artificial intelligence driven remote monitoring technology for tracking tooth movement and reconstruction of 3 dimensional digital models during orthodontic treatment,In-vivo evaluation of Artificial Intelligence Driven Remote Monitoring technology for tracking tooth movement and reconstruction of 3-dimensional digital models during orthodontic treatment,AMERICAN JOURNAL OF ORTHODONTICS AND DENTOFACIAL ORTHOPEDICS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Geomagic Control-X 2020 进行虚拟模型准备和基于3D叠加的偏差分析。,Orthodontics,3D data analysis and accuracy assessment,Geomagic Control-X 2020,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Geomagic Control-X 2020 进行虚拟模型准备和基于3D叠加的偏差分析。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control-X 2020
+【研究设计】: clinical"
+a micro ct integrated 3d simulation framework reveals fluid transport mechanisms and void dynamics in root canal biomaterials,A micro-CT-integrated 3D simulation framework reveals fluid transport mechanisms and void dynamics in root canal biomaterials,SCIENTIFIC REPORTS,journalArticle,No non-dental 3D software identified,INCLUDE,摘要及全文片段表明该研究自身将分割后的空隙几何转换为STL网格并在MeshLab中进行细化，用于其CFD模拟工作流。,Endodontics,Biomechanical analysis and simulation,MeshLab,computational,"【判定】: INCLUDE
+【判定理由】: 摘要及全文片段表明该研究自身将分割后的空隙几何转换为STL网格并在MeshLab中进行细化，用于其CFD模拟工作流。
+【专科】: Endodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: MeshLab
+【研究设计】: computational"
+a comparative study of bone remodeling around hydroxyapatite coated and novel radial functionally graded dental implants using finite element simulation,A comparative study of bone remodeling around hydroxyapatite-coated and novel radial functionally graded dental implants using finite element simulation,MEDICAL ENGINEERING & PHYSICS,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明""All the computer-aided design (CAD) models in this study were created by SolidWorks 2017. The assembled geometry was inserted into ANSYS version 17.2 for the FE analysis""，表明该研究自身在方法中使用了 SolidWorks 和 ANSYS 进行建模与有限元分析。",Implantology,Biomechanical analysis and simulation,SolidWorks; ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明""All the computer-aided design (CAD) models in this study were created by SolidWorks 2017. The assembled geometry was inserted into ANSYS version 17.2 for the FE analysis""，表明该研究自身在方法中使用了 SolidWorks 和 ANSYS 进行建模与有限元分析。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: SolidWorks; ANSYS
+【研究设计】: computational"
+accuracy and surface roughness of co cr partial denture frameworks with different fabrication methods,Accuracy and surface roughness of Co-Cr partial denture frameworks with different fabrication methods,JOURNAL OF PROSTHETIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Geomagic Control X 软件对扫描框架与设计STL进行叠加比对以测量精度。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Geomagic Control X 软件对扫描框架与设计STL进行叠加比对以测量精度。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+effect of industrial scanner and framework material interaction on the marginal gaps of cad cam complete arch implant frameworks,Effect of industrial scanner and framework material interaction on the marginal gaps of CAD-CAM complete arch implant frameworks,JOURNAL OF PROSTHETIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用非牙科专用3D软件 PolyWorks Modeler 和 GOM Inspect 进行扫描数据处理与边缘间隙测量。,Prosthodontics,3D data analysis and accuracy assessment,PolyWorks; GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用非牙科专用3D软件 PolyWorks Modeler 和 GOM Inspect 进行扫描数据处理与边缘间隙测量。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: PolyWorks; GOM Inspect
+【研究设计】: in_vitro"
+a digital workflow for pair matching of maxillary anterior teeth using a 3d segmentation technique for esthetic implant restorations,A digital workflow for pair matching of maxillary anterior teeth using a 3D segmentation technique for esthetic implant restorations,SCIENTIFIC REPORTS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究方法中明确使用 3D Slicer 进行 DICOM 图像分割，并使用 MeshLab 计算 Hausdorff 距离。,Implantology,Image segmentation and 3D reconstruction,3D Slicer; MeshLab,computational,"【判定】: INCLUDE
+【判定理由】: 该研究方法中明确使用 3D Slicer 进行 DICOM 图像分割，并使用 MeshLab 计算 Hausdorff 距离。
+【专科】: Implantology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer; MeshLab
+【研究设计】: computational"
+low profile electromagnetic field sensors in the measurement and modelling of three dimensional jaw kinematics and occlusal loading,Low-Profile Electromagnetic Field Sensors in the Measurement and Modelling of Three-Dimensional Jaw Kinematics and Occlusal Loading,ANNALS OF BIOMEDICAL ENGINEERING,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明使用 3-matic 13.0 重建牙颌几何并导入 Abaqus 2017 进行有限元建模与仿真，属研究自身方法使用非牙科专用3D软件。,Prosthodontics,Biomechanical analysis and simulation,3-Matic; ABAQUS,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用 3-matic 13.0 重建牙颌几何并导入 Abaqus 2017 进行有限元建模与仿真，属研究自身方法使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3-Matic; ABAQUS
+【研究设计】: computational"
+influence of framework material on stress fatigue and stability of all on four system components biomechanical evaluation with finite element analysis,"Influence of Framework Material on Stress, Fatigue, and Stability of “All-on-Four” System Components-Biomechanical Evaluation with Finite Element Analysis",JOURNAL OF FUNCTIONAL BIOMATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自身使用 Geomagic Design X 进行模型几何重建与逆向工程建模。,Prosthodontics,Biomechanical analysis and simulation,Geomagic Design X,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自身使用 Geomagic Design X 进行模型几何重建与逆向工程建模。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Geomagic Design X
+【研究设计】: computational"
+deep learning driven segmentation of maxillary impacted canine on cone beam computed tomography images,Deep learning driven segmentation of maxillary impacted canine on cone beam computed tomography images,SCIENTIFIC REPORTS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确将叠加的STL文件导入3-matic软件进行自动化部件比较分析以计算RMS差异。,Orthodontics,Image segmentation and 3D reconstruction,3-Matic,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确将叠加的STL文件导入3-matic软件进行自动化部件比较分析以计算RMS差异。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3-Matic
+【研究设计】: computational"
+study on fracture behavior of molars based on three dimensional high precision computerized tomography scanning and numerical simulation,Study on fracture behavior of molars based on three-dimensional high-precision computerized tomography scanning and numerical simulation,INTERNATIONAL JOURNAL FOR NUMERICAL METHODS IN BIOMEDICAL ENGINEERING,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明 ""The Avizo software was used to visualize the 3D reconstruction of tooth""，表明该研究自身在方法中使用了非牙科专用3D软件 Avizo 进行三维重建。",Endodontics,Image segmentation and 3D reconstruction,Avizo,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明 ""The Avizo software was used to visualize the 3D reconstruction of tooth""，表明该研究自身在方法中使用了非牙科专用3D软件 Avizo 进行三维重建。
+【专科】: Endodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Avizo
+【研究设计】: computational"
+computational evaluation of stress distribution in endocrown restored immature mandibular molars a finite element approach,Computational Evaluation of Stress Distribution in Endocrown-Restored Immature Mandibular Molars: A Finite Element Approach,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 ALTAIR Hypermesh v2024 进行网格划分，并转入 ALTAIR Optistruct v2024 求解，属研究自身方法中使用非牙科专用3D软件。,Endodontics,Biomechanical analysis and simulation,HyperMesh; OptiStruct,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 ALTAIR Hypermesh v2024 进行网格划分，并转入 ALTAIR Optistruct v2024 求解，属研究自身方法中使用非牙科专用3D软件。
+【专科】: Endodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: HyperMesh; OptiStruct
+【研究设计】: computational"
+biomimetic 3d printed gyroid scaffolds with versatile bioactive coatings for complex craniomaxillofacial bone regeneration,Biomimetic 3D-printed gyroid scaffolds with versatile bioactive coatings for complex craniomaxillofacial bone regeneration,BIOMEDICAL MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究方法中明确使用 Geomagic Freeform Plus 进行下颌缺损数字建模，并用 Materialise 3-matic 17.0 进行3D打印支架与CAD模型的偏差分析。,Oral and Maxillofacial Surgery,Digital design and manufacturing,Geomagic Freeform Plus; Materialise 3-matic,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究方法中明确使用 Geomagic Freeform Plus 进行下颌缺损数字建模，并用 Materialise 3-matic 17.0 进行3D打印支架与CAD模型的偏差分析。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Digital design and manufacturing
+【软件】: Geomagic Freeform Plus; Materialise 3-matic
+【研究设计】: in_vitro"
+clinical evaluation of a one piece polyetheretherketone removable partial denture fabricated using a novel digital workflow a self controlled clinical trial,Clinical evaluation of a one-piece polyetheretherketone removable partial denture fabricated using a novel digital workflow: A self-controlled clinical trial,JOURNAL OF PROSTHODONTICS-IMPLANT ESTHETIC AND RECONSTRUCTIVE DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用非牙科专用逆向工程软件 Geomagic Studio 2013 对 RPD 进行加厚设计处理。,Prosthodontics,Digital design and manufacturing,Geomagic Studio,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用非牙科专用逆向工程软件 Geomagic Studio 2013 对 RPD 进行加厚设计处理。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Geomagic Studio
+【研究设计】: clinical"
+spatiotemporal mechanical stimuli from dental crypt during tooth development an integrated experimental and computational study,Spatiotemporal mechanical stimuli from dental crypt during tooth development: An integrated experimental and computational study,EXTREME MECHANICS LETTERS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 Avizo 重建 micro-CT 图像、用 MATLAB 生成体素有限元网格、并用 Abaqus 进行有限元分析。,Orthodontics,Biomechanical analysis and simulation,Avizo; MATLAB; ABAQUS,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 Avizo 重建 micro-CT 图像、用 MATLAB 生成体素有限元网格、并用 Abaqus 进行有限元分析。
+【专科】: Orthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Avizo; MATLAB; ABAQUS
+【研究设计】: computational"
+three dimensional finite element analysis of zygomatic and pterygoid implants for the rehabilitation of severely atrophic maxilla,Three-dimensional finite element analysis of zygomatic and pterygoid implants for the rehabilitation of severely atrophic maxilla,JOURNAL OF CRANIO-MAXILLOFACIAL SURGERY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己将CBCT的DICOM数据导入Mimics Innovation Suite v24.0进行三维重建，并在Geomagic Design X v2022.0中进行表面精修处理。,Oral and Maxillofacial Surgery,Biomechanical analysis and simulation,Mimics; Geomagic Design X,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己将CBCT的DICOM数据导入Mimics Innovation Suite v24.0进行三维重建，并在Geomagic Design X v2022.0中进行表面精修处理。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; Geomagic Design X
+【研究设计】: computational"
+effect of platform design of dental implant abutment on loosening and fatigue performance,Effect of platform design of dental implant abutment on loosening and fatigue performance,ENGINEERING FAILURE ANALYSIS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 SolidWorks 建立3D模型并导入 Ansys Workbench 进行有限元分析。,Implantology,Biomechanical analysis and simulation,SolidWorks; ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 SolidWorks 建立3D模型并导入 Ansys Workbench 进行有限元分析。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: SolidWorks; ANSYS
+【研究设计】: computational"
+a three dimensional printed polycaprolactone biphasic calcium phosphate scaffold combined with adipose derived stem cells cultured in xenogeneic serum free media for the treatment of bone defects,A Three-Dimensional Printed Polycaprolactone-Biphasic-Calcium-Phosphate Scaffold Combined with Adipose-Derived Stem Cells Cultured in Xenogeneic Serum-Free Media for the Treatment of Bone Defects,JOURNAL OF FUNCTIONAL BIOMATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 3D Slicer Software (ideaMaker) 设计 PCL–BCP TDP 支架的网格结构。,Oral and Maxillofacial Surgery,Digital design and manufacturing,3D Slicer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 3D Slicer Software (ideaMaker) 设计 PCL–BCP TDP 支架的网格结构。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Digital design and manufacturing
+【软件】: 3D Slicer
+【研究设计】: in_vitro"
+tip torque rotations how accurately do digital superimposition software packages quantify tooth movement,"TIP, TORQUE & ROTATIONS: How accurately do digital superimposition software packages quantify tooth movement?",PROGRESS IN ORTHODONTICS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 Geomagic（非牙科专用3D软件）对 T1/T2 STL 模型进行配准与3D角度测量。,Orthodontics,3D data analysis and accuracy assessment,Geomagic,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 Geomagic（非牙科专用3D软件）对 T1/T2 STL 模型进行配准与3D角度测量。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic
+【研究设计】: computational"
+direct ink writing with dental composites a paradigm shift toward sustainable chair side production,Direct ink writing with dental composites: A paradigm shift toward sustainable chair-side production,DENTAL MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明将扫描图像导入开源软件 CloudCompare（v2.12.4）进行3D点云配准与偏差计算，属研究自身方法使用非牙科专用3D软件。,Prosthodontics,3D data analysis and accuracy assessment,CloudCompare,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将扫描图像导入开源软件 CloudCompare（v2.12.4）进行3D点云配准与偏差计算，属研究自身方法使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: CloudCompare
+【研究设计】: in_vitro"
+prosthesis repair of oral implants based on artificial intelligenc e finite element analysis,Prosthesis repair of oral implants based on artificial intelligenc`e finite element analysis,SLAS TECHNOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确说明 ""The MIMICS program models the mandible's geometry for the FEA analysis"" 并使用 ""ANSYS 14.0"" 进行仿真，属该研究自身使用非牙科3D软件。",Implantology,Biomechanical analysis and simulation,Mimics; ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明 ""The MIMICS program models the mandible's geometry for the FEA analysis"" 并使用 ""ANSYS 14.0"" 进行仿真，属该研究自身使用非牙科3D软件。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; ANSYS
+【研究设计】: computational"
+fracture resistance of posterior tooth supported cantilever fixed dental prostheses of different zirconia generations and framework thicknesses an in vitro study,Fracture Resistance of Posterior Tooth-Supported Cantilever Fixed Dental Prostheses of Different Zirconia Generations and Framework Thicknesses: An In Vitro Study,MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Geomagic DesignX 修改桥体几何形态并设计 typodont 模具，属自身使用非牙科专用3D软件。,Prosthodontics,Digital design and manufacturing,Geomagic DesignX,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Geomagic DesignX 修改桥体几何形态并设计 typodont 模具，属自身使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Geomagic DesignX
+【研究设计】: in_vitro"
+hierarchical 2d to 3d micro nano histology of human dental caries lesions using light x ray and electron microscopy,"Hierarchical 2D to 3D micro/nano-histology of human dental caries lesions using light, X-ray and electron microscopy",MATERIALS & DESIGN,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明使用 Avizo 软件对 FIB-SEM 2D/3D 图像进行分割、滤波和定量分析（""analysed using Avizo software""、""segmentation tools and editor in Avizo""）。",Cariology,Image segmentation and 3D reconstruction,Avizo,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用 Avizo 软件对 FIB-SEM 2D/3D 图像进行分割、滤波和定量分析（""analysed using Avizo software""、""segmentation tools and editor in Avizo""）。
+【专科】: Cariology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Avizo
+【研究设计】: in_vitro"
+three dimensional hard and soft tissue healing at implants with a modified neck design an in vivo preclinical study,Three-Dimensional Hard and Soft Tissue Healing at Implants With A Modified Neck Design: An In Vivo Preclinical Study,CLINICAL IMPLANT DENTISTRY AND RELATED RESEARCH,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 Gom Inspect 软件对 STL 与 DICOM 文件进行叠加配准及软硬组织体积/厚度分析。,Implantology,3D data analysis and accuracy assessment,GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Gom Inspect 软件对 STL 与 DICOM 文件进行叠加配准及软硬组织体积/厚度分析。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: in_vitro"
+the impact of mixed reality training method on novice trainees of dental implants an in vitro study,The impact of mixed reality training method on novice trainees of dental implants: an in vitro study,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 Geomagic Control 软件进行术前术后3D模型配准及植入位置偏差分析。,Implantology,3D data analysis and accuracy assessment,Geomagic Control,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Geomagic Control 软件进行术前术后3D模型配准及植入位置偏差分析。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control
+【研究设计】: in_vitro"
+evaluation of trueness and precision of removable partial denture metal frameworks manufactured with digital technology and different materials,Evaluation of trueness and precision of removable partial denture metal frameworks manufactured with digital technology and different materials,JOURNAL OF ADVANCED PROSTHODONTICS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明使用 GOM Inspect 软件处理数据，将数字化设计的参考文件与制造框架的 STL 文件进行叠加比对以测量误差。,Prosthodontics,3D data analysis and accuracy assessment,GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用 GOM Inspect 软件处理数据，将数字化设计的参考文件与制造框架的 STL 文件进行叠加比对以测量误差。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: in_vitro"
+clinical factors influencing implant positioning by guided surgery using a nonmetal sleeve template in the partially edentulous ridge multiple regression analysis of a prospective cohort,Clinical factors influencing implant positioning by guided surgery using a nonmetal sleeve template in the partially edentulous ridge: Multiple regression analysis of a prospective cohort,CLINICAL ORAL IMPLANTS RESEARCH,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明术前术后数据集加载入三维检测软件 Geomagic Verify 进行对齐与叠加分析。,Implantology,3D data analysis and accuracy assessment,Geomagic Verify,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明术前术后数据集加载入三维检测软件 Geomagic Verify 进行对齐与叠加分析。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Verify
+【研究设计】: clinical"
+bone implant osseointegration monitoring using electro mechanical impedance technique and convolutional neural network a numerical study,Bone-Implant Osseointegration Monitoring Using Electro-mechanical Impedance Technique and Convolutional Neural Network: A Numerical Study,JOURNAL OF NONDESTRUCTIVE EVALUATION,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身使用 COMSOL Multiphysics 有限元建模软件对 PZT-种植体-骨系统进行 3D 数值仿真，明确属于方法中自用非牙科专用3D软件。,Implantology,Biomechanical analysis and simulation,COMSOL Multiphysics,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身使用 COMSOL Multiphysics 有限元建模软件对 PZT-种植体-骨系统进行 3D 数值仿真，明确属于方法中自用非牙科专用3D软件。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: COMSOL Multiphysics
+【研究设计】: computational"
+feasibility of augmented reality using dental arch based registration applied to navigation in mandibular distraction osteogenesis a phantom experiment,Feasibility of augmented reality using dental arch-based registration applied to navigation in mandibular distraction osteogenesis: a phantom experiment,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明该研究自己使用 Mimics 21.0 导入 CT 数据、3-Matic 13.0 进行模型编辑与术后测量。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Mimics; 3-Matic,in_vitro,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明该研究自己使用 Mimics 21.0 导入 CT 数据、3-Matic 13.0 进行模型编辑与术后测量。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Mimics; 3-Matic
+【研究设计】: in_vitro"
+impact of framework material cantilever design and wing configuration on stress distribution in patient specific additively manufactured subperiosteal jaw implants a 3d finite element analysis,"Impact of framework material, cantilever design, and wing configuration on stress distribution in patient specific additively manufactured subperiosteal jaw implants: a 3D finite element analysis",BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明该研究自己使用 3D Slicer 创建并导出骨模型 STL，并在 ANSYS SpaceClaim/Workbench 中进行逆向工程、CAD 操作与有限元仿真。,Implantology,Biomechanical analysis and simulation,3D Slicer; ANSYS SpaceClaim; ANSYS Workbench; LS-DYNA,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明该研究自己使用 3D Slicer 创建并导出骨模型 STL，并在 ANSYS SpaceClaim/Workbench 中进行逆向工程、CAD 操作与有限元仿真。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; ANSYS SpaceClaim; ANSYS Workbench; LS-DYNA
+【研究设计】: computational"
+a novel approach to craniofacial analysis using automated 3d landmarking of the skull,A novel approach to craniofacial analysis using automated 3D landmarking of the skull,SCIENTIFIC REPORTS,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明CBCT数据在3D Slicer中处理、在Blender中应用shrink-wrap与subdivision modifier、并在Meshmixer中减面重网格化，属研究自身使用非牙科3D软件。,Oral and Maxillofacial Radiology,Morphological and phenotypic analysis,3D Slicer; Blender; Meshmixer,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明CBCT数据在3D Slicer中处理、在Blender中应用shrink-wrap与subdivision modifier、并在Meshmixer中减面重网格化，属研究自身使用非牙科3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Morphological and phenotypic analysis
+【软件】: 3D Slicer; Blender; Meshmixer
+【研究设计】: computational"
+mrcm uctransnet automatic and accurate 3d tooth segmentation network from cone beam ct images,MRCM-UCTransNet: Automatic and Accurate 3D Tooth Segmentation Network From Cone-Beam CT Images,INTERNATIONAL JOURNAL OF IMAGING SYSTEMS AND TECHNOLOGY,journalArticle,No non-dental 3D software identified,EXCLUDE,Mimics 仅作为对比基线（built-in segmentation algorithm in Mimics）出现，该研究自身方法为 MRCM-UCTransNet 深度学习网络，未使用非牙科3D软件处理数据。,-,-,-,-,"【判定】: EXCLUDE
+【判定理由】: Mimics 仅作为对比基线（built-in segmentation algorithm in Mimics）出现，该研究自身方法为 MRCM-UCTransNet 深度学习网络，未使用非牙科3D软件处理数据。
+【专科】: -
+【应用场景】: -
+【软件】: -
+【研究设计】: -"
+accuracy of guided implant surgery obtained using 3d printed surgical guides an in vitro comparison of four evaluation methods,Accuracy of guided implant surgery obtained using 3D-printed surgical guides - An in vitro comparison of four evaluation methods,INTERNATIONAL JOURNAL OF COMPUTERIZED DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,"该研究自身在方法中使用 GOM Inspect Suite 2020 进行扫描数据导入、配准、合并及偏差测量（""These surface scans were imported into 3D analysis software (GOM Inspect Suite 2020; GOM) and merged...""）。",Implantology,3D data analysis and accuracy assessment,GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 GOM Inspect Suite 2020 进行扫描数据导入、配准、合并及偏差测量（""These surface scans were imported into 3D analysis software (GOM Inspect Suite 2020; GOM) and merged...""）。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: in_vitro"
+effect of attachment flash on clear aligner force delivery an in vitro study,Effect of attachment flash on clear aligner force delivery: an in vitro study,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Autodesk Meshmixer 3.5 编辑修改后的 STL 模型，属于研究自身使用非牙科专用3D软件处理3D数据。,Orthodontics,Digital design and manufacturing,Autodesk Meshmixer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Autodesk Meshmixer 3.5 编辑修改后的 STL 模型，属于研究自身使用非牙科专用3D软件处理3D数据。
+【专科】: Orthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Autodesk Meshmixer
+【研究设计】: in_vitro"
+a customised 3d u net model for bifid mandibular canal segmentation and detection on cbct a diagnostic accuracy study,A customised 3D U-Net model for bifid mandibular canal segmentation and detection on CBCT: a diagnostic accuracy study,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 3D Slicer (version 5.8) 进行手动体素级分割以生成 ground truth 标注。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 3D Slicer (version 5.8) 进行手动体素级分割以生成 ground truth 标注。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: computational"
+a tmps designed personalized mandibular scaffolds with optimized sla parameters and mechanical properties,A TMPS-designed personalized mandibular scaffolds with optimized SLA parameters and mechanical properties,FRONTIERS IN MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 Mimics 19.0 对下颌 DICOM 数据进行阈值分割和三维重建，并使用 Magics 26.0 生成支撑结构。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Mimics; Magics,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 Mimics 19.0 对下颌 DICOM 数据进行阈值分割和三维重建，并使用 Magics 26.0 生成支撑结构。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics; Magics
+【研究设计】: computational"
+biomechanical analysis of all on 4 implant supported framework using different materials across various clinical practice,Biomechanical analysis of All-on-4 implant supported framework using different materials across various clinical practice,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明该研究自己使用 Mimics 将 CT 数据转为 STL、用 Geomagic Studio 逆向建模、用 SolidWorks 创建框架模型。,Implantology,Biomechanical analysis and simulation,Mimics; Geomagic Studio; SolidWorks,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明该研究自己使用 Mimics 将 CT 数据转为 STL、用 Geomagic Studio 逆向建模、用 SolidWorks 创建框架模型。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; Geomagic Studio; SolidWorks
+【研究设计】: computational"
+accuracy of dicom dicom vs dicom stl protocols in computer guided surgery a human clinical study,Accuracy of DICOM-DICOM vs. DICOM-STL Protocols in Computer-Guided Surgery: A Human Clinical Study,JOURNAL OF CLINICAL MEDICINE,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 Geomagic 软件的最佳拟合算法对 STL 数据进行配准并测量种植体位置偏差。,Implantology,3D data analysis and accuracy assessment,Geomagic,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Geomagic 软件的最佳拟合算法对 STL 数据进行配准并测量种植体位置偏差。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic
+【研究设计】: clinical"
+evaluation of the retentive forces from removable partial denture clasps manufactured by the digital method,Evaluation of the Retentive Forces from Removable Partial Denture Clasps Manufactured by the Digital Method,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明研究自身在方法中使用 Autodesk Meshmixer 设计 3D 打印树脂块（""In the Autodesk Meshmixer program... a 3D-printed resin block... was designed""）。",Prosthodontics,Digital design and manufacturing,Autodesk Meshmixer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明研究自身在方法中使用 Autodesk Meshmixer 设计 3D 打印树脂块（""In the Autodesk Meshmixer program... a 3D-printed resin block... was designed""）。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Autodesk Meshmixer
+【研究设计】: in_vitro"
+patient specific virtual surgical planning for tongue reconstruction evaluating hyperelastic inverse fem with four simulated tongue cancer cases,Patient-specific virtual surgical planning for tongue reconstruction: evaluating hyperelastic inverse FEM with four simulated tongue cancer cases,PHYSICS IN MEDICINE AND BIOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Mimics Medical 17.0 进行图像分割生成舌3D模型，并使用 MeshMixer 对切除面进行三角网格离散化。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Mimics; MeshMixer,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Mimics Medical 17.0 进行图像分割生成舌3D模型，并使用 MeshMixer 对切除面进行三角网格离散化。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Mimics; MeshMixer
+【研究设计】: computational"
+precise sparse view dental crown reconstruction via 3d gaussian neural fields,Precise sparse-view dental crown reconstruction via 3D Gaussian neural fields,BIOMEDICAL SIGNAL PROCESSING AND CONTROL,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明 ""We used Cloudcompare software to manually extract the crown area of the scanned 3D model""，即研究自身在方法中使用 CloudCompare 处理3D数据。",Orthodontics,Image segmentation and 3D reconstruction,CloudCompare,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明 ""We used Cloudcompare software to manually extract the crown area of the scanned 3D model""，即研究自身在方法中使用 CloudCompare 处理3D数据。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: CloudCompare
+【研究设计】: computational"
+efficacy of submucosal polydeoxyribonucleotide injection after impacted mandibular third molar extraction a randomized controlled trial,Efficacy of Submucosal Polydeoxyribonucleotide Injection after Impacted Mandibular Third Molar Extraction: A Randomized Controlled Trial,YONSEI MEDICAL JOURNAL,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明将STL文件导入 Materialise MIMICS 21.0 和 Materialise 3-matic 18.0 进行面部扫描叠加与体积差异量化分析。,Oral and Maxillofacial Surgery,3D data analysis and accuracy assessment,Materialise Mimics; Materialise 3-matic,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将STL文件导入 Materialise MIMICS 21.0 和 Materialise 3-matic 18.0 进行面部扫描叠加与体积差异量化分析。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Materialise Mimics; Materialise 3-matic
+【研究设计】: clinical"
+computer aided orthognathic surgery a general method for designing and manufacturing personalized cutting repositioning templates,Computer Aided Orthognathic Surgery: A General Method for Designing and Manufacturing Personalized Cutting/Repositioning Templates,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明将CT的DICOM图像导入开源软件3D Slicer并用于完成分割（""imported in the open-source software 3D Slicer ... and used to realize the segmentation""），属该研究自身方法中使用非牙科专用3D软件。",Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,3D Slicer,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将CT的DICOM图像导入开源软件3D Slicer并用于完成分割（""imported in the open-source software 3D Slicer ... and used to realize the segmentation""），属该研究自身方法中使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: clinical"
+traditional 2d and 3d workflows what is better for aesthetic rehabilitation of superior anterior teeth,"Traditional, 2D and 3D Workflows: What Is Better for Aesthetic Rehabilitation of Superior Anterior Teeth?",APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 Blender 软件（version 2.90）对数字化模型进行3D数字蜡型设计。,Prosthodontics,Digital design and manufacturing,Blender,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 Blender 软件（version 2.90）对数字化模型进行3D数字蜡型设计。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Blender
+【研究设计】: clinical"
+tissue surface adaptation and retention of digital obturator after one year of use,Tissue surface adaptation and retention of digital obturator after one year of use,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,作者在方法中明确使用 Geomagic Control X 2018 对参考模型与阻塞器贴合面 STL 进行配准和 3D 比较以评估组织面适应性。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 作者在方法中明确使用 Geomagic Control X 2018 对参考模型与阻塞器贴合面 STL 进行配准和 3D 比较以评估组织面适应性。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+dynamic navigation for prosthetically driven zygomatic implant placement in extensive maxillary defects results of a prospective case series,Dynamic navigation for prosthetically driven zygomatic implant placement in extensive maxillary defects: Results of a prospective case series,CLINICAL IMPLANT DENTISTRY AND RELATED RESEARCH,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明将STL数据导入商用导航系统规划软件（iPlan Navigator, BrainLAB）用于颧种植体手术规划，属于研究自身方法中使用非牙科专用3D软件。",Oral and Maxillofacial Surgery,Surgical planning and precise implementation,iPlan Navigator,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将STL数据导入商用导航系统规划软件（iPlan Navigator, BrainLAB）用于颧种植体手术规划，属于研究自身方法中使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: iPlan Navigator
+【研究设计】: clinical"
+an innovative tooth on chip microfluidic device emulating the structure and physiology of the dental pulp tissue,An Innovative “Tooth-On-Chip” Microfluidic Device Emulating the Structure and Physiology of the Dental Pulp Tissue,ADVANCED HEALTHCARE MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文实验部分明确说明该研究自己使用 AutoCAD 绘制芯片布局，并用 COMSOL Multiphysics 进行传质计算模拟。,Endodontics,Biomechanical analysis and simulation,AutoCAD; COMSOL Multiphysics,computational,"【判定】: INCLUDE
+【判定理由】: 全文实验部分明确说明该研究自己使用 AutoCAD 绘制芯片布局，并用 COMSOL Multiphysics 进行传质计算模拟。
+【专科】: Endodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: AutoCAD; COMSOL Multiphysics
+【研究设计】: computational"
+trueness of the apical and middle root portion segments of 3d printed removable die and alveolar cast designs manufactured using stereolithographic 3d printing,Trueness of the apical and middle root portion segments of 3D-printed removable die and alveolar cast designs manufactured using stereolithographic 3D printing,JOURNAL OF PROSTHODONTICS-IMPLANT ESTHETIC AND RECONSTRUCTIVE DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用非牙科专用3D计量软件 Geomagic Control X 对3D打印代型和牙槽铸型的扫描文件进行对齐、分割与偏差比较（RMS计算）。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用非牙科专用3D计量软件 Geomagic Control X 对3D打印代型和牙槽铸型的扫描文件进行对齐、分割与偏差比较（RMS计算）。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+effect of implant number attachment type and framework material on stress distribution in mandibular overdentures a finite element analysis,"Effect of implant number, attachment type, and framework material on stress distribution in mandibular overdentures: a finite element analysis",BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明将DICOM数据导入3D Slicer进行分割，并将STL模型导入ANSYS SpaceClaim进行几何处理，属研究自身使用非牙科专用3D软件。,Prosthodontics,Biomechanical analysis and simulation,3D Slicer; ANSYS SpaceClaim,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明将DICOM数据导入3D Slicer进行分割，并将STL模型导入ANSYS SpaceClaim进行几何处理，属研究自身使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: 3D Slicer; ANSYS SpaceClaim
+【研究设计】: computational"
+the link between abutment configuration and marginal bone loss in subcrestally placed posterior implant supported restorations,The link between abutment configuration and marginal bone loss in subcrestally placed posterior implant-supported restorations,JOURNAL OF PROSTHETIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用非牙科专用3D软件 AutoCAD 2024 进行影像测量以评估边缘骨水平。,Implantology,3D data analysis and accuracy assessment,AutoCAD,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用非牙科专用3D软件 AutoCAD 2024 进行影像测量以评估边缘骨水平。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: AutoCAD
+【研究设计】: clinical"
+automatic landmark identification for surgical 3d navigation a proposed method for marker free dental surgical navigation systems,Automatic landmark identification for surgical 3d-navigation - A proposed method for marker-free dental surgical navigation systems,BIOMEDICAL ENGINEERING-BIOMEDIZINISCHE TECHNIK,journalArticle,No non-dental 3D software identified,INCLUDE,摘要明确说明所提方法在 MATLAB 中实现并用于立体图像的三维点重建与相机位姿计算。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,MATLAB,computational,"【判定】: INCLUDE
+【判定理由】: 摘要明确说明所提方法在 MATLAB 中实现并用于立体图像的三维点重建与相机位姿计算。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: MATLAB
+【研究设计】: computational"
+clinical efficacy of maxillary digital removable partial dentures based on direct intraoral scanning and selective laser melting technology a double blind randomized controlled crossover clinical trial,Clinical efficacy of maxillary digital removable partial dentures based on direct intraoral scanning and selective laser melting technology: a double-blind randomized controlled crossover clinical trial,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 Geomagic Studio 2014 进行配准和偏差值计算以评估义齿适配性。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Studio,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Geomagic Studio 2014 进行配准和偏差值计算以评估义齿适配性。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Studio
+【研究设计】: clinical"
+biomechanical evaluation of prosthetic framework materials in subperiosteal implants a finite element analysis,Biomechanical evaluation of prosthetic framework materials in subperiosteal implants: a finite element analysis,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,方法中明确使用 Mimics Innovation Suite 24.0 将 CBCT 转为 STL，并用 SolidWorks 进行建模与接触定义。,Prosthodontics,Biomechanical analysis and simulation,Mimics; SolidWorks,computational,"【判定】: INCLUDE
+【判定理由】: 方法中明确使用 Mimics Innovation Suite 24.0 将 CBCT 转为 STL，并用 SolidWorks 进行建模与接触定义。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; SolidWorks
+【研究设计】: computational"
+digital assessment of the accuracy of implant impression techniques in free end saddle partially edentulous patients a controlled clinical trial,Digital assessment of the accuracy of implant impression techniques in free end saddle partially edentulous patients. A controlled clinical trial,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明使用非牙科专用3D检测计量软件 Geomagic Control X 进行模型分割、最佳拟合对齐及精度比较。,Implantology,3D data analysis and accuracy assessment,Geomagic Control X,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用非牙科专用3D检测计量软件 Geomagic Control X 进行模型分割、最佳拟合对齐及精度比较。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: clinical"
+biomechanics of the tooth cervical region investigated using 3d digital image correlation micro ct and finite element analysis,"Biomechanics of the tooth cervical region investigated using 3D digital image correlation, micro CT, and finite element analysis",SCIENTIFIC REPORTS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 Amira 软件进行 micro-CT 数据的3D可视化与配准，并用 Blender 渲染实验装置示意图，属非牙科专用3D软件。,Restorative Dentistry,Biomechanical analysis and simulation,Amira; Blender,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 Amira 软件进行 micro-CT 数据的3D可视化与配准，并用 Blender 渲染实验装置示意图，属非牙科专用3D软件。
+【专科】: Restorative Dentistry
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Amira; Blender
+【研究设计】: in_vitro"
+zirconia endocrown with intracanal extension and zi posts on maxillary molars in silico study,Zirconia endocrown with intracanal extension and zi posts on maxillary molars: in silico study,QUINTESSENCE INTERNATIONAL,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自身使用建模软件 Rhinoceros 4.0 及分析程序 VRMesh Studio、Algor Fempro 来构建模型并进行有限元应力分析。,Prosthodontics,Biomechanical analysis and simulation,Rhinoceros; VRMesh Studio; Algor Fempro,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自身使用建模软件 Rhinoceros 4.0 及分析程序 VRMesh Studio、Algor Fempro 来构建模型并进行有限元应力分析。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Rhinoceros; VRMesh Studio; Algor Fempro
+【研究设计】: computational"
+an application framework of 3d assessment image registration accuracy and untouched surface area in canal instrumentation laboratory research with micro computed tomography,An application framework of 3D assessment image registration accuracy and untouched surface area in canal instrumentation laboratory research with micro-computed tomography,CLINICAL ORAL INVESTIGATIONS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自行创建了基于 MeVisLab 的定制框架，用于配准精度评估和未触及表面积测量，属自身方法中使用非牙科专用3D软件。,Endodontics,3D data analysis and accuracy assessment,MeVisLab,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究自行创建了基于 MeVisLab 的定制框架，用于配准精度评估和未触及表面积测量，属自身方法中使用非牙科专用3D软件。
+【专科】: Endodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: MeVisLab
+【研究设计】: in_vitro"
+biomechanical analysis of different pacifiers and their effects on the upper jaw and tongue,Biomechanical Analysis of Different Pacifiers and Their Effects on the Upper Jaw and Tongue,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 SOLIDWORKS 2014 构建安抚奶嘴、腭和舌的3D模型，并导入 NEiFusion-NEiNastran 进行有限元分析。,Pediatric Dentistry,Biomechanical analysis and simulation,SolidWorks; NEiFusion-NEiNastran,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 SOLIDWORKS 2014 构建安抚奶嘴、腭和舌的3D模型，并导入 NEiFusion-NEiNastran 进行有限元分析。
+【专科】: Pediatric Dentistry
+【应用场景】: Biomechanical analysis and simulation
+【软件】: SolidWorks; NEiFusion-NEiNastran
+【研究设计】: computational"
+complete 3d kinematics parameters of the temporo mandibular joints using in vivo data fusion,Complete 3D Kinematics Parameters of the Temporo-Mandibular Joints Using in Vivo Data Fusion,IRBM,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明""3D bone models were reconstructed in Amira 4.0""，即该研究自身在方法中使用非牙科专用3D软件Amira进行三维骨模型重建。",Temporomandibular Joint Disorders,Image segmentation and 3D reconstruction,Amira,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明""3D bone models were reconstructed in Amira 4.0""，即该研究自身在方法中使用非牙科专用3D软件Amira进行三维骨模型重建。
+【专科】: Temporomandibular Joint Disorders
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Amira
+【研究设计】: clinical"
+automatic prediction of depth of invasion in oral tongue squamous cell carcinoma using a multimodal regression network fusing prior text and anatomical knowledge,Automatic prediction of depth of invasion in oral tongue squamous cell carcinoma using a multimodal regression network fusing prior text and anatomical knowledge,MEDICAL IMAGE ANALYSIS,journalArticle,No non-dental 3D software identified,INCLUDE,摘要明确该研究使用 3D nnUNet 进行 OTSCC 自动分割，全文片段显示研究者使用 ITK-SNAP 4.2.0 在 MRI 上手动标注分割和 landmark 金标准，属于自身方法中使用的非牙科专用3D软件。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,ITK-SNAP; 3D nnUNet,computational,"【判定】: INCLUDE
+【判定理由】: 摘要明确该研究使用 3D nnUNet 进行 OTSCC 自动分割，全文片段显示研究者使用 ITK-SNAP 4.2.0 在 MRI 上手动标注分割和 landmark 金标准，属于自身方法中使用的非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP; 3D nnUNet
+【研究设计】: computational"
+dentalarch ai based arch shape detection in orthodontics,DentalArch: AI-Based Arch Shape Detection in Orthodontics,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,"研究自身使用 MeshLab 的 measuring tool 对 18 个参数进行手动测量（""the 'measuring tool' feature of MeshLab was utilized to conduct manual assessments of 18 parameters on dental models""）。",Orthodontics,3D data analysis and accuracy assessment,MeshLab,computational,"【判定】: INCLUDE
+【判定理由】: 研究自身使用 MeshLab 的 measuring tool 对 18 个参数进行手动测量（""the 'measuring tool' feature of MeshLab was utilized to conduct manual assessments of 18 parameters on dental models""）。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: MeshLab
+【研究设计】: computational"
+protease responsive protein hydrogel enabling spatiotemporal clo2 release for precision treatment of intracellular infections and periodontitis,Protease-responsive protein hydrogel enabling spatiotemporal ClO2 release for precision treatment of intracellular infections and periodontitis,MATERIALS & DESIGN,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明该研究自己使用 Mimics Medical 21.0 软件对 micro-CT 样本进行三维重建并测量牙槽骨缺损。,Periodontology,Image segmentation and 3D reconstruction,Mimics,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明该研究自己使用 Mimics Medical 21.0 软件对 micro-CT 样本进行三维重建并测量牙槽骨缺损。
+【专科】: Periodontology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: in_vitro"
+a low cost wireless bite force measurement device,A Low-Cost Wireless Bite Force Measurement Device,MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用商业CAD软件AutoCAD设计定制咬合叉接口，并用3D打印制作。,Prosthodontics,Digital design and manufacturing,AutoCAD,technical_note,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用商业CAD软件AutoCAD设计定制咬合叉接口，并用3D打印制作。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: AutoCAD
+【研究设计】: technical_note"
+3d printed indirect bonding trays transfer accuracy of bar vs shell design in a prospective randomized clinical trial,"3D printed indirect bonding trays: transfer accuracy of bar vs shell design in a prospective, randomized clinical trial",ANGLE ORTHODONTIST,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 GOM Inspect 开源软件对 IDB 前后的 STL 模型进行叠加、建立局部坐标系并测量线距/角度差异。,Orthodontics,3D data analysis and accuracy assessment,GOM Inspect,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 GOM Inspect 开源软件对 IDB 前后的 STL 模型进行叠加、建立局部坐标系并测量线距/角度差异。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: clinical"
+influence of planning software and template design on the accuracy of static computer assisted implant surgery performed using guides fabricated with material extrusion technology an in vitro study,Influence of planning software and template design on the accuracy of static computer assisted implant surgery performed using guides fabricated with material extrusion technology: An in vitro study,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该体外研究在方法中明确使用开源设计软件 Meshmixer 将套筒数字化整合入手术导板，并使用 Geomagic Control X 进行偏差测量验证。,Implantology,Digital design and manufacturing,Meshmixer; Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该体外研究在方法中明确使用开源设计软件 Meshmixer 将套筒数字化整合入手术导板，并使用 Geomagic Control X 进行偏差测量验证。
+【专科】: Implantology
+【应用场景】: Digital design and manufacturing
+【软件】: Meshmixer; Geomagic Control X
+【研究设计】: in_vitro"
+is all on four effective in case of partial mandibular resection a 3d finite element study,Is All-on-four effective in case of partial mandibular resection? A 3D finite element study,JOURNAL OF STOMATOLOGY ORAL AND MAXILLOFACIAL SURGERY,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 Mimics version 10.01 处理CT数据生成3D掩膜，并用 SolidWorks version 2020 平滑下颌骨表面，随后导入 ANSYS v11 进行有限元分析。,Oral and Maxillofacial Surgery,Biomechanical analysis and simulation,Mimics; SolidWorks; ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 Mimics version 10.01 处理CT数据生成3D掩膜，并用 SolidWorks version 2020 平滑下颌骨表面，随后导入 ANSYS v11 进行有限元分析。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Mimics; SolidWorks; ANSYS
+【研究设计】: computational"
+microstructural heterogeneity of the collagenous network in the loaded and unloaded periodontal ligament and its biomechanical implications,Microstructural heterogeneity of the collagenous network in the loaded and unloaded periodontal ligament and its biomechanical implications,JOURNAL OF STRUCTURAL BIOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明微CT数据导入ScanIP进行分割，并导入自建MATLAB程序进行纤维分析，属于研究自身使用非牙科专用3D软件处理3D数据。,Periodontology,Image segmentation and 3D reconstruction,ScanIP; MATLAB,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明微CT数据导入ScanIP进行分割，并导入自建MATLAB程序进行纤维分析，属于研究自身使用非牙科专用3D软件处理3D数据。
+【专科】: Periodontology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ScanIP; MATLAB
+【研究设计】: in_vitro"
+study on 3d printed mxene berberine integrated scaffold for photo activated antibacterial activity and bone regeneration,Study on 3D printed MXene-berberine-integrated scaffold for photo-activated antibacterial activity and bone regeneration,JOURNAL OF MATERIALS CHEMISTRY B,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确写明使用 Mimics software (Materialise, Belgium) 对下颌骨进行重建和定量分析。",Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Mimics,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确写明使用 Mimics software (Materialise, Belgium) 对下颌骨进行重建和定量分析。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: in_vitro"
+comparison of the accuracy of removable partial denture frameworks fabricated using conventional and digital impressions a clinical study,Comparison of the accuracy of removable partial denture frameworks fabricated using conventional and digital impressions: a clinical study,JOURNAL OF ADVANCED PROSTHODONTICS,journalArticle,No non-dental 3D software identified,INCLUDE,"该研究在方法中明确使用非牙科专用3D软件 GOM Inspect 2018 进行三维叠加与间隙测量（""Data were analyzed using metrology software (GOM Inspect 2018...)""）。",Prosthodontics,3D data analysis and accuracy assessment,GOM Inspect,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用非牙科专用3D软件 GOM Inspect 2018 进行三维叠加与间隙测量（""Data were analyzed using metrology software (GOM Inspect 2018...)""）。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: clinical"
+fully automated 3d segmentation of periapical lesions on cbct images using nnu net v2,Fully automated 3D segmentation of periapical lesions on CBCT images using nnU-Net v2,BMC MEDICAL IMAGING,journalArticle,No non-dental 3D software identified,INCLUDE,作者在方法中明确将GT与预测分割导入3D Slicer (version 5.10.0) 进行病灶分离与体积计算。,Endodontics,Image segmentation and 3D reconstruction,3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 作者在方法中明确将GT与预测分割导入3D Slicer (version 5.10.0) 进行病灶分离与体积计算。
+【专科】: Endodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: computational"
+precision optimized process control in dlp printing of ultra thin zirconia prostheses a multi factor accuracy analysis,Precision-optimized process control in DLP printing of ultra-thin zirconia prostheses: A multi-factor accuracy analysis,DENTAL MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确使用 Geomagic Wrap 2014 进行 3D 偏差分析（""3D deviation analysis (Geomagic Wrap 2014; 3D Systems) was performed""）。",Prosthodontics,3D data analysis and accuracy assessment,Geomagic Wrap,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确使用 Geomagic Wrap 2014 进行 3D 偏差分析（""3D deviation analysis (Geomagic Wrap 2014; 3D Systems) was performed""）。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Wrap
+【研究设计】: in_vitro"
+intelligent geometry compensation for additive manufactured oral maxillary stent by genetic algorithm and backpropagation network,Intelligent geometry compensation for additive manufactured oral maxillary stent by genetic algorithm and backpropagation network,COMPUTERS IN BIOLOGY AND MEDICINE,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Geomagic wrap 将补偿后的3D坐标点云重建为几何模型，并用于口腔上颌支架的几何补偿验证。,Prosthodontics,Digital design and manufacturing,Geomagic Wrap,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Geomagic wrap 将补偿后的3D坐标点云重建为几何模型，并用于口腔上颌支架的几何补偿验证。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Geomagic Wrap
+【研究设计】: computational"
+effect of different cad cam milling and 3d printing digital fabrication techniques on the accuracy of pmma working models and vertical marginal fit of pmma provisional dental prosthesis an in vitro study,Effect of Different CAD/CAM Milling and 3D Printing Digital Fabrication Techniques on the Accuracy of PMMA Working Models and Vertical Marginal Fit of PMMA Provisional Dental Prosthesis: An In Vitro Study,POLYMERS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Geomagic Control X 软件对测试组与参考模型的 STL 数据进行叠加和 3D 比较以评估工作模型精度。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Geomagic Control X 软件对测试组与参考模型的 STL 数据进行叠加和 3D 比较以评估工作模型精度。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+reduced graphene oxide loaded with tetrahedral framework nucleic acids for combating orthodontically induced root resorption,Reduced graphene oxide loaded with tetrahedral framework nucleic acids for combating orthodontically induced root resorption,JOURNAL OF NANOBIOTECHNOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确写明""Three-dimensional (3D) images were reconstructed by Mimics and Geomagic Wrap 2017 for morphological assessment""，表明该研究自身在方法中使用了非牙科专用3D软件。",Orthodontics,Image segmentation and 3D reconstruction,Mimics; Geomagic Wrap,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确写明""Three-dimensional (3D) images were reconstructed by Mimics and Geomagic Wrap 2017 for morphological assessment""，表明该研究自身在方法中使用了非牙科专用3D软件。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics; Geomagic Wrap
+【研究设计】: in_vitro"
+a machine learning pipeline for cusp height prediction in worn lower molars methodological proof of concept and validation across homo,A Machine Learning Pipeline for Cusp Height Prediction in Worn Lower Molars: Methodological Proof-of-Concept and Validation Across Homo,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 Avizo 9.2/9.0.1 进行 micro-CT 体积分割、使用 Meshlab 优化三角网格，二者均为非牙科专用3D软件且用于该研究自身的3D数据处理。,Oral Anatomy / Dental Morphology,Image segmentation and 3D reconstruction,Avizo; MeshLab,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Avizo 9.2/9.0.1 进行 micro-CT 体积分割、使用 Meshlab 优化三角网格，二者均为非牙科专用3D软件且用于该研究自身的3D数据处理。
+【专科】: Oral Anatomy / Dental Morphology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Avizo; MeshLab
+【研究设计】: computational"
+mandibular stability and condylar changes following orthognathic surgery in mandibular hypoplasia patients associated with preoperative condylar resorption,Mandibular stability and condylar changes following orthognathic surgery in mandibular hypoplasia patients associated with preoperative condylar resorption,CLINICAL ORAL INVESTIGATIONS,journalArticle,No non-dental 3D software identified,INCLUDE,全文片段明确说明将髁突部分分割后导入 Geomagic Studio 软件计算体积，属该研究自身方法中使用非牙科3D软件。,Orthodontics,3D data analysis and accuracy assessment,Geomagic Studio,clinical,"【判定】: INCLUDE
+【判定理由】: 全文片段明确说明将髁突部分分割后导入 Geomagic Studio 软件计算体积，属该研究自身方法中使用非牙科3D软件。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Studio
+【研究设计】: clinical"
+in vivo trueness and precision of full arch implant scans using intraoral scanners with three different acquisition protocols,In vivo trueness and precision of full-arch implant scans using intraoral scanners with three different acquisition protocols,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 Geomagic Design X 对 CAD 文件进行去特征化处理，并使用 Geomagic Control X 进行基准对齐与偏差分析。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Design X; Geomagic Control X,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 Geomagic Design X 对 CAD 文件进行去特征化处理，并使用 Geomagic Control X 进行基准对齐与偏差分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Design X; Geomagic Control X
+【研究设计】: clinical"
+microrobotics for precision biofilm diagnostics and treatment,Microrobotics for Precision Biofilm Diagnostics and Treatment,JOURNAL OF DENTAL RESEARCH,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明使用 SolidWorks 设计 1 mm 负模具（""negative molds designed in SolidWorks""），属于该研究自身方法中使用的非牙科专用3D软件。",Endodontics,Digital design and manufacturing,SolidWorks,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用 SolidWorks 设计 1 mm 负模具（""negative molds designed in SolidWorks""），属于该研究自身方法中使用的非牙科专用3D软件。
+【专科】: Endodontics
+【应用场景】: Digital design and manufacturing
+【软件】: SolidWorks
+【研究设计】: in_vitro"
+evaluation of root angulations through panoramic films using artificial intelligence,Evaluation of Root Angulations Through Panoramic Films Using Artificial Intelligence,DIAGNOSTICS,journalArticle,No non-dental 3D software identified,INCLUDE,"研究自身在方法中使用 3D Slicer（version 5.8.1）进行手动测量作为参考标准，如""Manual measurements performed by experienced examiners using 3D Slicer software served as the reference standard""。",Orthodontics,3D data analysis and accuracy assessment,3D Slicer,clinical,"【判定】: INCLUDE
+【判定理由】: 研究自身在方法中使用 3D Slicer（version 5.8.1）进行手动测量作为参考标准，如""Manual measurements performed by experienced examiners using 3D Slicer software served as the reference standard""。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: 3D Slicer
+【研究设计】: clinical"
+randomized crossover study of immersive planning in craniomaxillofacial trauma comparing virtual reality and workstation workflows,Randomized crossover study of immersive planning in craniomaxillofacial trauma comparing virtual reality and workstation workflows,SCIENTIFIC REPORTS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Materialise Mimics 26.0 进行颅颌面创伤CT分割，属自身使用非牙科专用3D软件。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Materialise Mimics,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Materialise Mimics 26.0 进行颅颌面创伤CT分割，属自身使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Materialise Mimics
+【研究设计】: clinical"
+mechanical performance of chairside ceramic cad cam restorations and zirconia abutments with different internal implant connections in vitro study and finite element analysis,Mechanical Performance of Chairside Ceramic CAD/CAM Restorations and Zirconia Abutments with Different Internal Implant Connections: In Vitro Study and Finite Element Analysis,MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己用 SolidWorks 2019 建模并导入 ANSYS Workbench 2019 创建有限元模型进行应力分析。,Prosthodontics,Biomechanical analysis and simulation,SolidWorks; ANSYS,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己用 SolidWorks 2019 建模并导入 ANSYS Workbench 2019 创建有限元模型进行应力分析。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: SolidWorks; ANSYS
+【研究设计】: in_vitro"
+an open source ai tool for predicting cephalometric measurements from clinical data and photographic images,An open-source AI tool for predicting cephalometric measurements from clinical data and photographic images,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,"摘要明确说明输入变量来自口内扫描（iTero scanner, MeshMixer software），表明该研究自身在方法中使用了非牙科专用3D软件 MeshMixer 处理3D扫描数据。",Orthodontics,Morphological and phenotypic analysis,MeshMixer,computational,"【判定】: INCLUDE
+【判定理由】: 摘要明确说明输入变量来自口内扫描（iTero scanner, MeshMixer software），表明该研究自身在方法中使用了非牙科专用3D软件 MeshMixer 处理3D扫描数据。
+【专科】: Orthodontics
+【应用场景】: Morphological and phenotypic analysis
+【软件】: MeshMixer
+【研究设计】: computational"
+combining 3d multi object reconstruction with finite element analysis for accurate dental modelling and restoration,Combining 3D Multi-Object Reconstruction with Finite Element Analysis for Accurate Dental Modelling and Restoration,INTERNATIONAL DENTAL JOURNAL,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确说明使用 ANSYS (Release 14) 生成3D实体网格并进行有限元分析（""generating 3D solid meshes... using ANSYS""）。",Prosthodontics,Biomechanical analysis and simulation,ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 ANSYS (Release 14) 生成3D实体网格并进行有限元分析（""generating 3D solid meshes... using ANSYS""）。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ANSYS
+【研究设计】: computational"
+three dimensional finite element analysis of full arch implant supported dental restorations complete vs segmented frameworks,Three-dimensional finite element analysis of full-arch implant-supported dental restorations: complete vs. segmented frameworks,FRONTIERS IN BIOENGINEERING AND BIOTECHNOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,摘要明确该研究采用三维有限元分析，且全文中说明模型被导入 ANSYS Workbench 19R1 软件进行分析，属于研究自身方法中使用非牙科专用3D软件。,Implantology,Biomechanical analysis and simulation,ANSYS Workbench,computational,"【判定】: INCLUDE
+【判定理由】: 摘要明确该研究采用三维有限元分析，且全文中说明模型被导入 ANSYS Workbench 19R1 软件进行分析，属于研究自身方法中使用非牙科专用3D软件。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ANSYS Workbench
+【研究设计】: computational"
+the cumulative effect of error in the digital workflow for complete arch implant supported frameworks an in vitro study,The cumulative effect of error in the digital workflow for complete-arch implant-supported frameworks: An in vitro study,CLINICAL ORAL IMPLANTS RESEARCH,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确将扫描和虚拟框架的STL文件导入非牙科检测软件 Geomagic Control 2014 进行精度分析。,Implantology,3D data analysis and accuracy assessment,Geomagic Control,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确将扫描和虚拟框架的STL文件导入非牙科检测软件 Geomagic Control 2014 进行精度分析。
+【专科】: Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control
+【研究设计】: in_vitro"
+skeletal facial asymmetry reliability of manual and artificial intelligence driven analysis,Skeletal facial asymmetry: reliability of manual and artificial intelligence-driven analysis,DENTOMAXILLOFACIAL RADIOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明手动测量使用 OsiriX MD v.13.1 进行多平面CT重建和标志点距离测量，属研究自身方法中使用的非牙科专用3D软件。,Oral and Maxillofacial Radiology,3D data analysis and accuracy assessment,OsiriX,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明手动测量使用 OsiriX MD v.13.1 进行多平面CT重建和标志点距离测量，属研究自身方法中使用的非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: OsiriX
+【研究设计】: clinical"
+digital workflow with open source cad cam software aimed to design a customized 3d laser printed titanium mesh for guided bone regeneration,Digital Workflow with Open-Source CAD-CAM Software Aimed to Design a Customized 3D Laser-Printed Titanium Mesh for Guided Bone Regeneration,BIOENGINEERING-BASEL,journalArticle,Not an original research report,INCLUDE,"全文明确说明将骨缺损模型STL导入开源CAD-CAM软件（Meshmixer, Version 3.5.474, Autodesk）进行骨再生与网格设计的模拟。",Oral and Maxillofacial Surgery,Digital design and manufacturing,Meshmixer,case_report,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将骨缺损模型STL导入开源CAD-CAM软件（Meshmixer, Version 3.5.474, Autodesk）进行骨再生与网格设计的模拟。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Digital design and manufacturing
+【软件】: Meshmixer
+【研究设计】: case_report"
+direction oriented fiber guiding with a tunable tri layer 3d scaffold for periodontal regeneration,Direction-oriented fiber guiding with a tunable tri-layer-3D scaffold for periodontal regeneration,RSC ADVANCES,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 VGStudio Max 2.2.6 软件分析 micro-CT 扫描数据，属非牙科专用3D软件用于3D数据处理。,Periodontology,Image segmentation and 3D reconstruction,VGStudio Max,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 VGStudio Max 2.2.6 软件分析 micro-CT 扫描数据，属非牙科专用3D软件用于3D数据处理。
+【专科】: Periodontology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: VGStudio Max
+【研究设计】: in_vitro"
+automatic orbital segmentation using deep learning based 2d u net and accuracy evaluation a retrospective study,Automatic orbital segmentation using deep learning-based 2D U-net and accuracy evaluation: A retrospective study,JOURNAL OF CRANIO-MAXILLOFACIAL SURGERY,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明研究者自己使用免费软件 3D Slicer 由一名外科医生创建分割标签（""a correct label was created by one surgeon using the free software 3D Slicer""）。",Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明研究者自己使用免费软件 3D Slicer 由一名外科医生创建分割标签（""a correct label was created by one surgeon using the free software 3D Slicer""）。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: computational"
+a method based on 3d affine alignment for the quantification of palatal expansion,A method based on 3D affine alignment for the quantification of palatal expansion,PLOS ONE,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身将仿射对齐方法实现为开源 MeshLab 的扩展包，用于叠加和量化腭扩张的3D数字模型。,Orthodontics,3D data analysis and accuracy assessment,MeshLab,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身将仿射对齐方法实现为开源 MeshLab 的扩展包，用于叠加和量化腭扩张的3D数字模型。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: MeshLab
+【研究设计】: computational"
+effect of different storage conditions on dimensional accuracy of 3d printed dental models,Effect of different storage conditions on dimensional accuracy of 3D-printed dental models,JOURNAL OF PROSTHODONTICS-IMPLANT ESTHETIC AND RECONSTRUCTIVE DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确将扫描生成的STL文件导入非牙科专用3D检测软件Geomagic Control X进行对齐、叠加及偏差分析。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确将扫描生成的STL文件导入非牙科专用3D检测软件Geomagic Control X进行对齐、叠加及偏差分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+a benchmark dual modality dental imaging dataset and a novel cognitively inspired pipeline for high resolution dental point cloud synthesis,A Benchmark Dual-Modality Dental Imaging Dataset and a Novel Cognitively Inspired Pipeline for High-Resolution Dental Point Cloud Synthesis,COGNITIVE COMPUTATION,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Mimics 软件进行 CBCT 图像阈值调整与牙模重建，并使用 MeshLab 进行网格表面重建。,Orthodontics,Image segmentation and 3D reconstruction,Mimics; MeshLab,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Mimics 软件进行 CBCT 图像阈值调整与牙模重建，并使用 MeshLab 进行网格表面重建。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics; MeshLab
+【研究设计】: computational"
+a novel digitized method for the design and additive manufacturing of orthodontic space maintainers,A Novel Digitized Method for the Design and Additive Manufacturing of Orthodontic Space Maintainers,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 MeshLab 进行扫描模型表面选择与修剪，并使用 Ansys 2022 进行有限元分析。,Pediatric Dentistry,Digital design and manufacturing,MeshLab; ANSYS,technical_note,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 MeshLab 进行扫描模型表面选择与修剪，并使用 Ansys 2022 进行有限元分析。
+【专科】: Pediatric Dentistry
+【应用场景】: Digital design and manufacturing
+【软件】: MeshLab; ANSYS
+【研究设计】: technical_note"
+influence of age related changes on crack growth trajectories and toughening mechanisms in human dentin,Influence of age-related changes on crack growth trajectories and toughening mechanisms in human dentin,DENTAL MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己将用户自定义单元子程序（UEL）嵌入 Abaqus 中求解相场与位移问题，属于在方法中使用非牙科专用3D软件。,Restorative Dentistry,Biomechanical analysis and simulation,ABAQUS,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己将用户自定义单元子程序（UEL）嵌入 Abaqus 中求解相场与位移问题，属于在方法中使用非牙科专用3D软件。
+【专科】: Restorative Dentistry
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ABAQUS
+【研究设计】: computational"
+does adding markers increase the accuracy and efficiency of intraoral scanning of complete dentures,Does adding markers increase the accuracy and efficiency of intraoral scanning of complete dentures?,JOURNAL OF PROSTHETIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明将分割后的STL数据导入Geomagic Control X v2023.0.0进行3D分析并计算RMS值，属该研究自身方法中使用非牙科专用3D软件。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明将分割后的STL数据导入Geomagic Control X v2023.0.0进行3D分析并计算RMS值，属该研究自身方法中使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+three dimensional analysis of mandibular and condylar growth using artificial intelligence tools a comparison of twin block and frankel ii appliances,Three-dimensional analysis of mandibular and condylar growth using artificial intelligence tools: a comparison of twin-block and Frankel II Appliances,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明本研究使用 ITK-SNAP 4.0.1 进行半自动分割（slice-by-slice editing）以提取下颌骨与髁突三维模型。,Orthodontics,Image segmentation and 3D reconstruction,ITK-SNAP,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明本研究使用 ITK-SNAP 4.0.1 进行半自动分割（slice-by-slice editing）以提取下颌骨与髁突三维模型。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP
+【研究设计】: clinical"
+procedure increasing the accuracy of modelling and the manufacturing of surgical templates with the use of 3d printing techniques applied in planning the procedures of reconstruction of the mandible,"Procedure Increasing the Accuracy of Modelling and the Manufacturing of Surgical Templates with the Use of 3D Printing Techniques, Applied in Planning the Procedures of Reconstruction of the Mandible",JOURNAL OF CLINICAL MEDICINE,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确描述该研究自身使用 Geomagic 软件测定切除区域体积，并使用 GOM Inspect 软件进行模型精度分析。,Oral and Maxillofacial Surgery,Digital design and manufacturing,Geomagic; GOM Inspect,technical_note,"【判定】: INCLUDE
+【判定理由】: 全文明确描述该研究自身使用 Geomagic 软件测定切除区域体积，并使用 GOM Inspect 软件进行模型精度分析。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Digital design and manufacturing
+【软件】: Geomagic; GOM Inspect
+【研究设计】: technical_note"
+evaluation of the stability of the palatal rugae using the three dimensional orthodontic treatment,Evaluation of the stability of the palatal rugae using the three-dimensional orthodontic treatment,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确说明""palatal rugae were extracted manually using reverse engineering software (Geomagic Studio)""，即该研究自身在方法中使用了非牙科专用3D软件Geomagic Studio进行3D数据处理。",Orthodontics,3D data analysis and accuracy assessment,Geomagic Studio,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明""palatal rugae were extracted manually using reverse engineering software (Geomagic Studio)""，即该研究自身在方法中使用了非牙科专用3D软件Geomagic Studio进行3D数据处理。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Studio
+【研究设计】: clinical"
+workflow for guided implant placement based on anatomic landmarks and the cad cam fabrication of a prosthetic framework for an implant supported fixed dental prosthesis,Workflow for guided implant placement based on anatomic landmarks and the CAD-CAM fabrication of a prosthetic framework for an implant-supported fixed dental prosthesis,JOURNAL OF PROSTHETIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,方法步骤明确描述将DICOM数据导入Mimics/3D Slicer/InVesalius进行分割，并用SpaceClaim（Ansys）设计钛支架，属研究自身使用非牙科3D软件。,Prosthodontics,Surgical planning and precise implementation,Mimics; 3D Slicer; InVesalius; SpaceClaim,technical_note,"【判定】: INCLUDE
+【判定理由】: 方法步骤明确描述将DICOM数据导入Mimics/3D Slicer/InVesalius进行分割，并用SpaceClaim（Ansys）设计钛支架，属研究自身使用非牙科3D软件。
+【专科】: Prosthodontics
+【应用场景】: Surgical planning and precise implementation
+【软件】: Mimics; 3D Slicer; InVesalius; SpaceClaim
+【研究设计】: technical_note"
+clinical efficacy of early intervention timing for inversely impacted maxillary central incisors,Clinical efficacy of early intervention timing for inversely impacted maxillary central incisors,JOURNAL OF CLINICAL PEDIATRIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明使用 Mimics 21.0 软件对 CBCT 数据进行三维重建并测量牙体积、表面积及根长等参数。,Pediatric Dentistry,Image segmentation and 3D reconstruction,Mimics,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用 Mimics 21.0 软件对 CBCT 数据进行三维重建并测量牙体积、表面积及根长等参数。
+【专科】: Pediatric Dentistry
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: clinical"
+multi view deep learning for mandibular landmark localization,Multi-view deep learning for mandibular landmark localization,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 Mimics 24.0 进行CBCT骨掩膜提取与下颌骨分割，并使用 Geomagic Wrap 2021 进行表面修复与重网格化处理。,Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Mimics; Geomagic Wrap,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Mimics 24.0 进行CBCT骨掩膜提取与下颌骨分割，并使用 Geomagic Wrap 2021 进行表面修复与重网格化处理。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics; Geomagic Wrap
+【研究设计】: computational"
+surgical navigation augmented reality and 3d printing for hard palate adenoid cystic carcinoma en bloc resection case report and literature review,"Surgical Navigation, Augmented Reality, and 3D Printing for Hard Palate Adenoid Cystic Carcinoma En-Bloc Resection: Case Report and Literature Review",FRONTIERS IN ONCOLOGY,journalArticle,Not an original research report,INCLUDE,该病例报告自身在方法中使用 Autodesk Meshmixer 扩大肿瘤模型以确定手术切缘，并基于 3D Slicer 开发了定制手术导航模块。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Autodesk Meshmixer; 3D Slicer,case_report,"【判定】: INCLUDE
+【判定理由】: 该病例报告自身在方法中使用 Autodesk Meshmixer 扩大肿瘤模型以确定手术切缘，并基于 3D Slicer 开发了定制手术导航模块。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Autodesk Meshmixer; 3D Slicer
+【研究设计】: case_report"
+vertical and horizontal ridge augmentation using customized three dimensionally printed polycaprolactone mesh in atrophic posterior maxillae a case report,Vertical and Horizontal Ridge Augmentation Using Customized Three-Dimensionally Printed Polycaprolactone Mesh in Atrophic Posterior Maxillae: A Case Report,JOURNAL OF ORAL IMPLANTOLOGY,journalArticle,Not an original research report,INCLUDE,该病例报告在方法中明确使用通用CAD软件 PowerShape (Autodesk) 设计患者个性化PCL网格，属非牙科专用3D软件用于3D建模。,Oral and Maxillofacial Surgery,Digital design and manufacturing,PowerShape,case_report,"【判定】: INCLUDE
+【判定理由】: 该病例报告在方法中明确使用通用CAD软件 PowerShape (Autodesk) 设计患者个性化PCL网格，属非牙科专用3D软件用于3D建模。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Digital design and manufacturing
+【软件】: PowerShape
+【研究设计】: case_report"
+mandible segmentation of dental cbct scans affected by metal artifacts using coarse to fine learning model,Mandible Segmentation of Dental CBCT Scans Affected by Metal Artifacts Using Coarse-to-Fine Learning Model,JOURNAL OF PERSONALIZED MEDICINE,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明金标准标签由研究者使用 Mimics software 20.0 手动分割 CBCT/CT 扫描创建，属于该研究自身方法中使用非牙科专用3D软件。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,Mimics,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明金标准标签由研究者使用 Mimics software 20.0 手动分割 CBCT/CT 扫描创建，属于该研究自身方法中使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: computational"
+mandibular extracellular vesicles mediate morphogenesis and mineralization of tooth germs in miniature swine through the mir 206 hdac4 signaling axis,Mandibular extracellular vesicles mediate morphogenesis and mineralization of tooth germs in miniature swine through the miR-206/HDAC4 signaling axis,FRONTIERS IN CELL AND DEVELOPMENTAL BIOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,"方法部分明确说明""3D reconstructions and mineralization analyses were performed in Mimics Research 21.0 (Materialise)""，即该研究自身使用非牙科专用软件 Mimics 进行3D重建与分析。",Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,Mimics,clinical,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明""3D reconstructions and mineralization analyses were performed in Mimics Research 21.0 (Materialise)""，即该研究自身使用非牙科专用软件 Mimics 进行3D重建与分析。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: clinical"
+time resolved prediction of dental implant biomechanics through integration of finite element analysis osseointegration dynamics and deep learning,"Time-resolved prediction of dental implant biomechanics through integration of finite element analysis, osseointegration dynamics, and deep learning",JOURNAL OF THE MECHANICAL BEHAVIOR OF BIOMEDICAL MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明种植体几何在 SolidWorks® 中建模并导入 ANSYS® Workbench (R1 2024) 进行有限元分析，属研究自身使用非牙科3D软件。,Implantology,Biomechanical analysis and simulation,SolidWorks; ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明种植体几何在 SolidWorks® 中建模并导入 ANSYS® Workbench (R1 2024) 进行有限元分析，属研究自身使用非牙科3D软件。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: SolidWorks; ANSYS
+【研究设计】: computational"
+influence of the preparation design on the survival probability of occlusal veneers,Influence of the preparation design on the survival probability of occlusal veneers,DENTAL MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 ITK-SNAP 进行分割、Fiji 转换 micro-CT 数据、Iso2mesh/Octave 生成网格、Z88 进行有限元分析。,Prosthodontics,Biomechanical analysis and simulation,ITK-SNAP; Fiji; Iso2mesh; Octave; Z88,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 ITK-SNAP 进行分割、Fiji 转换 micro-CT 数据、Iso2mesh/Octave 生成网格、Z88 进行有限元分析。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ITK-SNAP; Fiji; Iso2mesh; Octave; Z88
+【研究设计】: computational"
+digital dental biometrics for human identification based on automated 3d point cloud feature extraction and registration,Digital Dental Biometrics for Human Identification Based on Automated 3D Point Cloud Feature Extraction and Registration,BIOENGINEERING-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确使用 MeshLab v2020.09 计算牙齿模型曲率，并使用 CloudCompare v2.10 提取特征点云。,Forensic Odontology,Morphological and phenotypic analysis,MeshLab; CloudCompare,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确使用 MeshLab v2020.09 计算牙齿模型曲率，并使用 CloudCompare v2.10 提取特征点云。
+【专科】: Forensic Odontology
+【应用场景】: Morphological and phenotypic analysis
+【软件】: MeshLab; CloudCompare
+【研究设计】: computational"
+effect of preparation design and scan pattern on the accuracy of intraoral scans for complete arch laminate veneers under simulated intraoral variables,Effect of preparation design and scan pattern on the accuracy of intraoral scans for complete arch laminate veneers under simulated intraoral variables,JOURNAL OF ESTHETIC AND RESTORATIVE DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用非牙科专用3D分析软件 Geomagic Control X 对 STL 文件进行配准和 3D 偏差分析以评估扫描精度。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用非牙科专用3D分析软件 Geomagic Control X 对 STL 文件进行配准和 3D 偏差分析以评估扫描精度。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+evaluation of zirconia and high performance polymer abutment surface roughness and stress concentration for implant supported fixed dental prostheses,Evaluation of Zirconia and High Performance Polymer Abutment Surface Roughness and Stress Concentration for Implant-Supported Fixed Dental Prostheses,COATINGS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Rhinoceros 5.0 建模并导出至 ANSYS 19.0 进行有限元应力分析，属自身使用非牙科专用3D软件。,Prosthodontics,Biomechanical analysis and simulation,Rhinoceros; ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Rhinoceros 5.0 建模并导出至 ANSYS 19.0 进行有限元应力分析，属自身使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Rhinoceros; ANSYS
+【研究设计】: computational"
+dimensional measurement accuracy of 3 dimensional models from cone beam computed tomography using different voxel sizes,Dimensional measurement accuracy of 3-dimensional models from cone beam computed tomography using different voxel sizes,ORAL SURGERY ORAL MEDICINE ORAL PATHOLOGY ORAL RADIOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 3D Slicer 4.8.1 将 CBCT DICOM 转换为 STL 模型，并使用 Geomagic Qualify 进行几何变换与数据分析。,Oral and Maxillofacial Radiology,3D data analysis and accuracy assessment,3D Slicer; Geomagic Qualify,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 3D Slicer 4.8.1 将 CBCT DICOM 转换为 STL 模型，并使用 Geomagic Qualify 进行几何变换与数据分析。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: 3D Slicer; Geomagic Qualify
+【研究设计】: in_vitro"
+comparison between relining of ill fitted maxillary complete denture versus cad cam milling of new one regarding patient satisfaction denture retention and adaptation,"Comparison between relining of ill-fitted maxillary complete denture versus CAD/CAM milling of new one regarding patient satisfaction, denture retention and adaptation",BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明该研究自己使用 Geomagic Control X 软件对义齿组织面与口内扫描 STL 文件进行翻转、配准叠加并计算 RMS 以评估义齿适配性。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自己使用 Geomagic Control X 软件对义齿组织面与口内扫描 STL 文件进行翻转、配准叠加并计算 RMS 以评估义齿适配性。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: clinical"
+augmented reality assisted micro invasive apicectomy with markerless visual inertial odometry an in vivo pilot study,Augmented Reality-Assisted Micro-Invasive Apicectomy with Markerless Visual-Inertial Odometry: An In Vivo Pilot Study,APPLIED SCIENCES-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Mimics 22.0 进行 CBCT 分割，并使用 MeshLab 2023.12 进行刚性叠加配准。,Endodontics,Surgical planning and precise implementation,Mimics; MeshLab,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Mimics 22.0 进行 CBCT 分割，并使用 MeshLab 2023.12 进行刚性叠加配准。
+【专科】: Endodontics
+【应用场景】: Surgical planning and precise implementation
+【软件】: Mimics; MeshLab
+【研究设计】: clinical"
+idnet a diffusion model enhanced framework for accurate cranio maxillofacial bone defect repair,IDNet: A Diffusion Model-Enhanced Framework for Accurate Cranio-Maxillofacial Bone Defect Repair,BIOENGINEERING-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确说明使用 3D Slicer 软件在3D重建颅骨上创建缺损（""21 distinct defects were created on each 3D reconstructed skull using 3D Slicer software""），属研究自身方法使用非牙科专用3D软件。",Oral and Maxillofacial Surgery,Image segmentation and 3D reconstruction,3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 3D Slicer 软件在3D重建颅骨上创建缺损（""21 distinct defects were created on each 3D reconstructed skull using 3D Slicer software""），属研究自身方法使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: computational"
+geometric accuracy of magnetic resonance imaging derived virtual 3 dimensional bone surface models of the mandible in comparison to computed tomography and cone beam computed tomography a porcine cadaver study,Geometric accuracy of magnetic resonance imaging-derived virtual 3-dimensional bone surface models of the mandible in comparison to computed tomography and cone beam computed tomography: A porcine cadaver study,CLINICAL IMPLANT DENTISTRY AND RELATED RESEARCH,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 Mimics 进行 MRI/CT/CBCT 图像分割与三维重建，并使用 3-matic 进行模型对齐与几何偏差测量。,Oral and Maxillofacial Surgery,3D data analysis and accuracy assessment,Mimics; 3-matic,in_vitro,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 Mimics 进行 MRI/CT/CBCT 图像分割与三维重建，并使用 3-matic 进行模型对齐与几何偏差测量。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Mimics; 3-matic
+【研究设计】: in_vitro"
+accuracy evaluation of dental cbct and scanned model registration method based on pulp horn mapping surface an in vitro proof of concept,Accuracy evaluation of dental CBCT and scanned model registration method based on pulp horn mapping surface: an in vitro proof-of-concept,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,作者在方法中明确使用 Matlab 2020b 进行图像滤波、分割、3D重建与配准误差计算，并使用 Geomagic Wrap 2017 提取目标牙及处理3D点云。,Endodontics,Image segmentation and 3D reconstruction,MATLAB; Geomagic Wrap,in_vitro,"【判定】: INCLUDE
+【判定理由】: 作者在方法中明确使用 Matlab 2020b 进行图像滤波、分割、3D重建与配准误差计算，并使用 Geomagic Wrap 2017 提取目标牙及处理3D点云。
+【专科】: Endodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: MATLAB; Geomagic Wrap
+【研究设计】: in_vitro"
+robot assisted augmented reality navigation for osteotomy and personalized guide plate in mandibular reconstruction a preclinical study,Robot-assisted augmented reality navigation for osteotomy and personalized guide-plate in mandibular reconstruction: a preclinical study,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 3-matic 软件设计个性化导板并比较虚拟与术后重建模型。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,3-matic,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 3-matic 软件设计个性化导板并比较虚拟与术后重建模型。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: 3-matic
+【研究设计】: clinical"
+passive fit and time efficiency for prefabricated versus conventionally constructed cobalt chromium cad textbackslashcam 3 unit implant supported frameworks in free end saddle models a pilot invitro study,Passive fit and time efficiency for prefabricated versus conventionally constructed cobalt chromium CAD\textbackslashCAM 3-unit implant supported frameworks in free end saddle models: a pilot invitro study,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,作者在方法中明确使用 Autodesk Meshmixer 软件修改虚拟模型并设计软组织索引，属研究自身使用非牙科专用3D软件。,Prosthodontics,Digital design and manufacturing,Autodesk Meshmixer,in_vitro,"【判定】: INCLUDE
+【判定理由】: 作者在方法中明确使用 Autodesk Meshmixer 软件修改虚拟模型并设计软组织索引，属研究自身使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Autodesk Meshmixer
+【研究设计】: in_vitro"
+effect of peri implant bone resorption on mechanical stress in the implant body in vivo measured load based finite element analysis,Effect of peri-implant bone resorption on mechanical stress in the implant body: In vivo measured load-based finite element analysis,JOURNAL OF ORAL REHABILITATION,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 SolidWorks 创建种植体组件和骨模型的3D模型用于有限元分析。,Implantology,Biomechanical analysis and simulation,SolidWorks,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 SolidWorks 创建种植体组件和骨模型的3D模型用于有限元分析。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: SolidWorks
+【研究设计】: computational"
+multi material 3d printing of a customized sports mouth guard proof of concept clinical case,Multi-Material 3D Printing of a Customized Sports Mouth Guard: Proof-of-Concept Clinical Case,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,"该病例报告在方法中明确使用非牙科专用3D软件 Zbrush 进行多层运动护齿的虚拟设计与建模（如用 ""inflate"" 工具生成内外层）。",Sports Dentistry,Digital design and manufacturing,Zbrush,case_report,"【判定】: INCLUDE
+【判定理由】: 该病例报告在方法中明确使用非牙科专用3D软件 Zbrush 进行多层运动护齿的虚拟设计与建模（如用 ""inflate"" 工具生成内外层）。
+【专科】: Sports Dentistry
+【应用场景】: Digital design and manufacturing
+【软件】: Zbrush
+【研究设计】: case_report"
+validation of a novel tool for automated tooth modelling by fusion of cbct derived roots with the respective ios derived crowns,Validation of a novel tool for automated tooth modelling by fusion of CBCT-derived roots with the respective IOS-derived crowns,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在手动融合方案中明确使用 3-matic 修剪 IOS 数据、并用 Mimics 进行 IOS 与 CBCT 的配准与融合，属自身方法使用非牙科专用3D软件。,Orthodontics,Image segmentation and 3D reconstruction,3-matic; Mimics,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在手动融合方案中明确使用 3-matic 修剪 IOS 数据、并用 Mimics 进行 IOS 与 CBCT 的配准与融合，属自身方法使用非牙科专用3D软件。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3-matic; Mimics
+【研究设计】: computational"
+a deep learning framework for automated dental segmentation and diagnostic report generation from cone beam computed tomography,A deep learning framework for automated dental segmentation and diagnostic report generation from cone-beam computed tomography,HEAD & FACE MEDICINE,journalArticle,No non-dental 3D software identified,INCLUDE,作者在方法中明确使用 ITK-SNAP version 4.2.0 进行 CBCT 标注，并用 3D Slicer 进行三维可视化。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,ITK-SNAP; 3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 作者在方法中明确使用 ITK-SNAP version 4.2.0 进行 CBCT 标注，并用 3D Slicer 进行三维可视化。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP; 3D Slicer
+【研究设计】: computational"
+fully digital versus conventional workflows for fabricating posterior three unit implant supported reconstructions a prospective crossover clinical trial,Fully Digital versus Conventional Workflows for Fabricating Posterior Three-Unit Implant-Supported Reconstructions: A Prospective Crossover Clinical Trial,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 GOM Inspect 进行 3D 数据配准与精度分析，并使用 AutoCAD 计算角度，均为非牙科专用3D软件。,Prosthodontics,3D data analysis and accuracy assessment,GOM Inspect; AutoCAD,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 GOM Inspect 进行 3D 数据配准与精度分析，并使用 AutoCAD 计算角度，均为非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect; AutoCAD
+【研究设计】: clinical"
+in vivo trueness of full arch implant supported cad cam restorations and models based on conventional impressions,In vivo trueness of full-arch implant-supported CAD/CAM restorations and models based on conventional impressions,JOURNAL OF DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确使用 Geomagic Design X 和 Geomagic Control X 进行 CAD 去特征化与基准对齐处理。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Design X; Geomagic Control X,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确使用 Geomagic Design X 和 Geomagic Control X 进行 CAD 去特征化与基准对齐处理。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Design X; Geomagic Control X
+【研究设计】: clinical"
+influence of exposure protocol voxel size and artifact removal algorithm on the trueness of segmentation utilizing an artificial intelligence based system,"Influence of exposure protocol, voxel size, and artifact removal algorithm on the trueness of segmentation utilizing an artificial-intelligence-based system",JOURNAL OF PROSTHODONTICS-IMPLANT ESTHETIC AND RECONSTRUCTIVE DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究方法中明确使用 Autodesk Meshmixer 进行下颌骨解剖区域分割，并使用 Geomagic Design X 进行3D模型对齐与偏差测量。,Prosthodontics,3D data analysis and accuracy assessment,Autodesk Meshmixer; Geomagic Design X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究方法中明确使用 Autodesk Meshmixer 进行下颌骨解剖区域分割，并使用 Geomagic Design X 进行3D模型对齐与偏差测量。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Autodesk Meshmixer; Geomagic Design X
+【研究设计】: in_vitro"
+impact of profile angle of cad cam abutment on the marginal bone loss of implant supported single tooth posterior restorations,Impact of profile angle of CAD-CAM abutment on the marginal bone loss of implant-supported single-tooth posterior restorations,JOURNAL OF PROSTHETIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 CAD 软件 AutoCAD 2019 绘制平行线以测量 profile angle，属于研究自身方法中使用的非牙科专用3D软件。,Implantology,Morphological and phenotypic analysis,AutoCAD,clinical,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 CAD 软件 AutoCAD 2019 绘制平行线以测量 profile angle，属于研究自身方法中使用的非牙科专用3D软件。
+【专科】: Implantology
+【应用场景】: Morphological and phenotypic analysis
+【软件】: AutoCAD
+【研究设计】: clinical"
+root canal treatment planning by automatic tooth and root canal segmentation in dental cbct with deep multi task feature learning,Root canal treatment planning by automatic tooth and root canal segmentation in dental CBCT with deep multi-task feature learning,MEDICAL IMAGE ANALYSIS,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明""endodontists used the ITK-SNAP software to manually label the voxels belonging to the pulp and root canal""，即该研究自身在方法中使用ITK-SNAP进行标注。",Endodontics,Image segmentation and 3D reconstruction,ITK-SNAP,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明""endodontists used the ITK-SNAP software to manually label the voxels belonging to the pulp and root canal""，即该研究自身在方法中使用ITK-SNAP进行标注。
+【专科】: Endodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP
+【研究设计】: computational"
+stress distribution of monolithic and veneered three unit zirconia fdps a finite element analysis,STRESS DISTRIBUTION OF MONOLITHIC AND VENEERED THREE-UNIT ZIRCONIA FDPS: A FINITE ELEMENT ANALYSIS,INTERNATIONAL JOURNAL OF PROSTHODONTICS,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明该研究自己使用 ANSYS SpaceClaim 清理转换模型、并用 ANSYS 18.2 进行网格划分和应力分析。,Prosthodontics,Biomechanical analysis and simulation,ANSYS; ANSYS SpaceClaim,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明该研究自己使用 ANSYS SpaceClaim 清理转换模型、并用 ANSYS 18.2 进行网格划分和应力分析。
+【专科】: Prosthodontics
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ANSYS; ANSYS SpaceClaim
+【研究设计】: computational"
+investigation of conventional vs nonoriginal cad cam bars with production stage differences an in vitro precision study using a novel technique,Investigation of Conventional vs Nonoriginal CAD/CAM Bars with Production Stage Differences: An In Vitro Precision Study Using a Novel Technique,INTERNATIONAL JOURNAL OF ORAL & MAXILLOFACIAL IMPLANTS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 GOM Inspect 软件对支架与种植体之间的边缘间隙进行数字化计算。,Prosthodontics,3D data analysis and accuracy assessment,GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 GOM Inspect 软件对支架与种植体之间的边缘间隙进行数字化计算。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: in_vitro"
+a novel fluoride tray assisted workflow for artificial intelligence driven automated maxillary gingival segmentation on cone beam ct,A novel fluoride tray-assisted workflow for artificial intelligence-driven automated maxillary gingival segmentation on cone beam CT,DENTOMAXILLOFACIAL RADIOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Mimics 和 3-matic 软件对 AI 分割的牙龈模型进行精修和手动分割。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,Mimics; 3-matic,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Mimics 和 3-matic 软件对 AI 分割的牙龈模型进行精修和手动分割。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics; 3-matic
+【研究设计】: clinical"
+objective characterization of dental occlusal and fissure morphologies method development and exploratory analysis,Objective characterization of dental occlusal and fissure morphologies: Method development and exploratory analysis,ARCHIVES OF ORAL BIOLOGY,journalArticle,No non-dental 3D software identified,INCLUDE,全文方法部分明确说明使用 MeshLab 和 Geomagic Wrap 处理口内扫描的3D数据（隔离、定向、对齐牙齿）。,Orthodontics,Morphological and phenotypic analysis,MeshLab; Geomagic Wrap,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 MeshLab 和 Geomagic Wrap 处理口内扫描的3D数据（隔离、定向、对齐牙齿）。
+【专科】: Orthodontics
+【应用场景】: Morphological and phenotypic analysis
+【软件】: MeshLab; Geomagic Wrap
+【研究设计】: clinical"
+3d printing titanium grid scaffold facilitates osteogenesis in mandibular segmental defects,3D printing titanium grid scaffold facilitates osteogenesis in mandibular segmental defects,NPJ REGENERATIVE MEDICINE,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确说明使用 3-Matic 软件（Materialize, Leuven, Belgium）构建支架的3D模型。",Oral and Maxillofacial Surgery,Digital design and manufacturing,3-Matic,clinical,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明使用 3-Matic 软件（Materialize, Leuven, Belgium）构建支架的3D模型。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Digital design and manufacturing
+【软件】: 3-Matic
+【研究设计】: clinical"
+the microbiological effect of virgin coconut oil on the morphological and volumetric dimensional changes of 3d printed surgical guides in vitro study,The microbiological effect of virgin coconut oil on the morphological and volumetric dimensional changes of 3D printed surgical guides (in vitro study),BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 GOM Inspect 进行表面比较和体积偏差分析，属非牙科专用3D软件。,Oral and Maxillofacial Surgery,3D data analysis and accuracy assessment,GOM Inspect,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 GOM Inspect 进行表面比较和体积偏差分析，属非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: GOM Inspect
+【研究设计】: in_vitro"
+biomechanical effects of platform diameter and screw length in an abutment free tissue level implant system compared with a ti base configuration 3d finite element analysis,Biomechanical Effects of Platform Diameter and Screw Length in an Abutment-Free Tissue-Level Implant System Compared with a Ti-Base Configuration: 3D Finite Element Analysis,JOURNAL OF FUNCTIONAL BIOMATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身在方法中使用 Ansys Workbench 2024 R1（SpaceClaim、DesignModeler、Ansys Mechanical）进行有限元建模、网格划分与求解。,Implantology,Biomechanical analysis and simulation,ANSYS,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身在方法中使用 Ansys Workbench 2024 R1（SpaceClaim、DesignModeler、Ansys Mechanical）进行有限元建模、网格划分与求解。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ANSYS
+【研究设计】: computational"
+effect of internal structural design on stress distribution in 3d printed subperiosteal implants under mechanical loading,Effect of Internal Structural Design on Stress Distribution in 3D-Printed Subperiosteal Implants Under Mechanical Loading,BIOENGINEERING-BASEL,journalArticle,No non-dental 3D software identified,INCLUDE,"该研究在方法中使用 Abaqus 2026 FD01 软件进行有限元建模与应力分析（""the test environment was virtually reconstructed using Abaqus 2026 FD01 software""）。",Implantology,Biomechanical analysis and simulation,ABAQUS,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Abaqus 2026 FD01 软件进行有限元建模与应力分析（""the test environment was virtually reconstructed using Abaqus 2026 FD01 software""）。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: ABAQUS
+【研究设计】: computational"
+a digital workflow for the fabrication of a milled removable partial denture,A Digital Workflow for the Fabrication of a Milled Removable Partial Denture,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,"该技术说明在自身方法步骤7中明确将数据导入非牙科专用3D软件 Meshmixer 进行建模处理（""Import...into a 3D modeling software program (Meshmixer...)""）。",Prosthodontics,Digital design and manufacturing,Meshmixer,technical_note,"【判定】: INCLUDE
+【判定理由】: 该技术说明在自身方法步骤7中明确将数据导入非牙科专用3D软件 Meshmixer 进行建模处理（""Import...into a 3D modeling software program (Meshmixer...)""）。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Meshmixer
+【研究设计】: technical_note"
+effect of print orientation of 3d printed aligner templates on the volumetric accuracy of transferred composite attachments an in vitro study,Effect of print orientation of 3D-printed aligner templates on the volumetric accuracy of transferred composite attachments: an in vitro study,CLINICAL ORAL INVESTIGATIONS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Geomagic Control X 软件进行模型叠加、体积偏差量化和附件分段切割分析。,Orthodontics,3D data analysis and accuracy assessment,Geomagic Control X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Geomagic Control X 软件进行模型叠加、体积偏差量化和附件分段切割分析。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: in_vitro"
+predicting 3d post orthodontic facial outcomes with a diffusion model trained on unpaired datasets,Predicting 3D Post-Orthodontic Facial Outcomes With a Diffusion Model Trained on Unpaired Datasets,INTERNATIONAL DENTAL JOURNAL,journalArticle,No non-dental 3D software identified,INCLUDE,方法部分明确说明使用 3D Slicer 进行 DICOM 数据加载与面部软组织分割，并使用 CloudCompare 将网格转换为点云数据。,Orthodontics,Image segmentation and 3D reconstruction,3D Slicer; CloudCompare,computational,"【判定】: INCLUDE
+【判定理由】: 方法部分明确说明使用 3D Slicer 进行 DICOM 数据加载与面部软组织分割，并使用 CloudCompare 将网格转换为点云数据。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer; CloudCompare
+【研究设计】: computational"
+digital model superimpositions are different software algorithms equally accurate in quantifying linear tooth movements,Digital model superimpositions: are different software algorithms equally accurate in quantifying linear tooth movements?,BMC ORAL HEALTH,journalArticle,No non-dental 3D software identified,INCLUDE,该研究自身将 Geomagic 作为三种被评估的配准软件之一，用于对 T1/T2 STL 模型进行三维配准并计算牙齿线性移动量。,Orthodontics,3D data analysis and accuracy assessment,Geomagic,computational,"【判定】: INCLUDE
+【判定理由】: 该研究自身将 Geomagic 作为三种被评估的配准软件之一，用于对 T1/T2 STL 模型进行三维配准并计算牙齿线性移动量。
+【专科】: Orthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic
+【研究设计】: computational"
+the effects of additive manufacturing technologies and finish line designs on the trueness and dimensional stability of 3d printed dies,The effects of additive manufacturing technologies and finish line designs on the trueness and dimensional stability of 3D-printed dies,JOURNAL OF PROSTHODONTICS-IMPLANT ESTHETIC AND RECONSTRUCTIVE DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中使用 Blender 3.1.2 对数字化代型进行角度和距离测量，并使用 Geomagic Design X 进行表面配准叠加分析。,Prosthodontics,3D data analysis and accuracy assessment,Blender; Geomagic Design X,in_vitro,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中使用 Blender 3.1.2 对数字化代型进行角度和距离测量，并使用 Geomagic Design X 进行表面配准叠加分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Blender; Geomagic Design X
+【研究设计】: in_vitro"
+fit and retention of complete denture bases part i e conventional versus cad cam methods a clinical controlled crossover study,Fit and retention of complete denture bases: Part I e Conventional versus CAD-CAM methods: A clinical controlled crossover study,JOURNAL OF PROSTHETIC DENTISTRY,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明扫描文件被导入比较软件（Geomagic Control X 2020; 3D systems）进行适配性分析，属于该研究自身方法中使用非牙科专用3D软件。,Prosthodontics,3D data analysis and accuracy assessment,Geomagic Control X,clinical,"【判定】: INCLUDE
+【判定理由】: 全文明确说明扫描文件被导入比较软件（Geomagic Control X 2020; 3D systems）进行适配性分析，属于该研究自身方法中使用非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Geomagic Control X
+【研究设计】: clinical"
+a comparison of denture base retention and adaptation between cad cam and conventional fabrication techniques,A Comparison of Denture Base Retention and Adaptation Between CAD/CAM and Conventional Fabrication Techniques,INTERNATIONAL JOURNAL OF PROSTHODONTICS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Meshmixer 翻转义齿基托组织面 STL 文件，并用 Geomagic Control X 64 进行配准与适应性分析。,Prosthodontics,3D data analysis and accuracy assessment,Meshmixer; Geomagic Control X,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Meshmixer 翻转义齿基托组织面 STL 文件，并用 Geomagic Control X 64 进行配准与适应性分析。
+【专科】: Prosthodontics
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Meshmixer; Geomagic Control X
+【研究设计】: clinical"
+oral anatomical knowledge informed semi supervised learning for 3d dental cbct segmentation and lesion detection,Oral-Anatomical Knowledge-Informed Semi-Supervised Learning for 3D Dental CBCT Segmentation and Lesion Detection,IEEE Transactions on Automation Science and Engineering,journalArticle,No non-dental 3D software identified,INCLUDE,"摘要及全文中明确说明使用 ITK-SNAP 进行手动分割以创建标注图像（""manual segmentation was obtained using ITK-SNAP""），属于该研究自身方法中使用非牙科专用3D软件。",Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,ITK-SNAP,computational,"【判定】: INCLUDE
+【判定理由】: 摘要及全文中明确说明使用 ITK-SNAP 进行手动分割以创建标注图像（""manual segmentation was obtained using ITK-SNAP""），属于该研究自身方法中使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: ITK-SNAP
+【研究设计】: computational"
+a platform combining automatic segmentation and automatic measurement of the maxillary sinus and adjacent structures,A platform combining automatic segmentation and automatic measurement of the maxillary sinus and adjacent structures,CLINICAL ORAL INVESTIGATIONS,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明作者将CBCT数据导入Mimics进行人工分割，并使用3-Matic计算体积、RMS及根尖距离等参数，属于研究自身方法中使用非牙科专用3D软件。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,Mimics; 3-Matic,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明作者将CBCT数据导入Mimics进行人工分割，并使用3-Matic计算体积、RMS及根尖距离等参数，属于研究自身方法中使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics; 3-Matic
+【研究设计】: computational"
+a smart projective imaging and navigation system for oral and maxillofacial surgery,A Smart Projective Imaging and Navigation System for Oral and Maxillofacial Surgery,IEEE Transactions on Biomedical Engineering,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明合成数据驱动学习平台""built on Blender 4.3""，即该研究自身在方法中使用非牙科专用3D软件Blender进行图像渲染与AI训练。",Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Blender,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明合成数据驱动学习平台""built on Blender 4.3""，即该研究自身在方法中使用非牙科专用3D软件Blender进行图像渲染与AI训练。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Blender
+【研究设计】: computational"
+ortho opd an automatic osteotomy planes design model for orthognathic surgery based on deep learning,Ortho-OPD: An Automatic Osteotomy Planes Design Model for Orthognathic Surgery Based on Deep Learning,IEEE Journal of Biomedical and Health Informatics,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明""All these data were transformed into nii.gz format using Mimics software (Materialise, Belgium) for the following model development""，表明该研究自身在方法中使用了非牙科专用3D软件Mimics进行数据处理。",Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Mimics,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明""All these data were transformed into nii.gz format using Mimics software (Materialise, Belgium) for the following model development""，表明该研究自身在方法中使用了非牙科专用3D软件Mimics进行数据处理。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Mimics
+【研究设计】: computational"
+estimating reference shape model for personalized surgical reconstruction of craniomaxillofacial defects,Estimating Reference Shape Model for Personalized Surgical Reconstruction of Craniomaxillofacial Defects,IEEE Transactions on Biomedical Engineering,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明研究者使用开源 Blender 软件对正常 CT 骨结构进行手动修改以模拟颅颌面缺损。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Blender,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明研究者使用开源 Blender 软件对正常 CT 骨结构进行手动修改以模拟颅颌面缺损。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Blender
+【研究设计】: computational"
+assessment of the inner surface roughness of 3d printed dental crowns via optical coherence tomography using a roughness quantification algorithm,Assessment of the Inner Surface Roughness of 3D Printed Dental Crowns via Optical Coherence Tomography Using a Roughness Quantification Algorithm,IEEE Access,journalArticle,No non-dental 3D software identified,EXCLUDE,摘要仅描述使用SS-OCT系统和自研图像处理算法评估3D打印牙冠内表面粗糙度，未提及使用任何非牙科专用3D软件（如Mimics、3D Slicer、ANSYS等）。,-,-,-,-,"【判定】: EXCLUDE
+【判定理由】: 摘要仅描述使用SS-OCT系统和自研图像处理算法评估3D打印牙冠内表面粗糙度，未提及使用任何非牙科专用3D软件（如Mimics、3D Slicer、ANSYS等）。
+【专科】: -
+【应用场景】: -
+【软件】: -
+【研究设计】: -"
+upper airway segmentation based on the attention mechanism of weak feature regions,Upper Airway Segmentation Based on the Attention Mechanism of Weak Feature Regions,IEEE Access,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明CBCT数据被读入MIMICS 21.0软件进行三维平面重定向处理，属于研究自身方法中使用非牙科专用3D软件。,Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,Mimics,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明CBCT数据被读入MIMICS 21.0软件进行三维平面重定向处理，属于研究自身方法中使用非牙科专用3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Mimics
+【研究设计】: computational"
+htcnet hierarchical point graph tooth point cloud completion with image assistance,HTCNet: Hierarchical Point-Graph Tooth Point Cloud Completion with Image Assistance,IEEE Transactions on Circuits and Systems for Video Technology,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明""数据生成过程基于 Open3D 和 MeshLab""，表明该研究自身在方法中使用了非牙科专用3D软件进行点云数据处理。",Orthodontics,Image segmentation and 3D reconstruction,Open3D; MeshLab,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明""数据生成过程基于 Open3D 和 MeshLab""，表明该研究自身在方法中使用了非牙科专用3D软件进行点云数据处理。
+【专科】: Orthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Open3D; MeshLab
+【研究设计】: computational"
+development and validation of a freehand 3 d ultrasound system for real time intraoral image reconstruction,Development and Validation of a Freehand 3-D Ultrasound System for Real-Time Intraoral Image Reconstruction,IEEE Transactions on Instrumentation and Measurement,journalArticle,No non-dental 3D software identified,INCLUDE,"全文方法部分明确说明""All volumes were rendered using the CT-AAA preset colormap in 3-D Slicer""，表明该研究自身在方法中使用3D Slicer进行三维渲染分析。",Periodontology,Image segmentation and 3D reconstruction,3D Slicer,computational,"【判定】: INCLUDE
+【判定理由】: 全文方法部分明确说明""All volumes were rendered using the CT-AAA preset colormap in 3-D Slicer""，表明该研究自身在方法中使用3D Slicer进行三维渲染分析。
+【专科】: Periodontology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: 3D Slicer
+【研究设计】: computational"
+3d single tooth reconstruction via curriculum learning and topology aware generation,3D Single-Tooth Reconstruction via Curriculum Learning and Topology-aware Generation,IEEE Journal of Biomedical and Health Informatics,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明该研究自身在方法中使用 MeshLab 将合成点云转换为流形三角网格（""convert the synthesized point clouds Pout into manifold triangular meshes using MeshLab""）。",Prosthodontics,Image segmentation and 3D reconstruction,MeshLab,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明该研究自身在方法中使用 MeshLab 将合成点云转换为流形三角网格（""convert the synthesized point clouds Pout into manifold triangular meshes using MeshLab""）。
+【专科】: Prosthodontics
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: MeshLab
+【研究设计】: computational"
+enlarge the error prediction dataset in 3 d printing an unsupervised dental crown mesh generator,Enlarge the Error Prediction Dataset in 3-D Printing: An Unsupervised Dental Crown Mesh Generator,IEEE Transactions on Computational Social Systems,journalArticle,No non-dental 3D software identified,INCLUDE,全文明确说明使用 Blender 软件生成 UV sphere 网格模板，属于该研究自身方法中使用的非牙科专用3D软件。,Prosthodontics,Digital design and manufacturing,Blender,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明使用 Blender 软件生成 UV sphere 网格模板，属于该研究自身方法中使用的非牙科专用3D软件。
+【专科】: Prosthodontics
+【应用场景】: Digital design and manufacturing
+【软件】: Blender
+【研究设计】: computational"
+continuous bijection supervised pyramid diffeomorphic deformation for learning tooth meshes from cbct images,Continuous Bijection Supervised Pyramid Diffeomorphic Deformation for Learning Tooth Meshes From CBCT Images,IEEE Transactions on Multimedia,journalArticle,No non-dental 3D software identified,INCLUDE,"全文明确说明研究自身使用 Blender 对非流形/非水密/非零亏格网格进行自动处理（""automatically processed using blender [52]""），属方法中自用非牙科3D软件。",Oral and Maxillofacial Radiology,Image segmentation and 3D reconstruction,Blender,computational,"【判定】: INCLUDE
+【判定理由】: 全文明确说明研究自身使用 Blender 对非流形/非水密/非零亏格网格进行自动处理（""automatically processed using blender [52]""），属方法中自用非牙科3D软件。
+【专科】: Oral and Maxillofacial Radiology
+【应用场景】: Image segmentation and 3D reconstruction
+【软件】: Blender
+【研究设计】: computational"
+instantaneous and markerless registration for mandible reconstruction robot with fibular holder,Instantaneous and Markerless Registration for Mandible Reconstruction Robot With Fibular Holder,IEEE Transactions on Medical Robotics and Bionics,journalArticle,No non-dental 3D software identified,INCLUDE,摘要及全文片段表明该研究自身在仿真环境中使用 SolidWorks 2022 创建 V 形支架夹持腓骨表面的场景模型，用于算法验证。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,SolidWorks,computational,"【判定】: INCLUDE
+【判定理由】: 摘要及全文片段表明该研究自身在仿真环境中使用 SolidWorks 2022 创建 V 形支架夹持腓骨表面的场景模型，用于算法验证。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: SolidWorks
+【研究设计】: computational"
+automated orthognathic surgery planning based on shape aware morphology prediction and anatomy constrained registration,Automated Orthognathic Surgery Planning Based on Shape-Aware Morphology Prediction and Anatomy-Constrained Registration,IEEE Transactions on Image Processing,journalArticle,No non-dental 3D software identified,INCLUDE,全文片段显示研究在方法中使用了 Mimics 21.0 生成手工规划结果作为对比基准，属于自身方法流程中的3D数据处理。,Oral and Maxillofacial Surgery,Surgical planning and precise implementation,Mimics,computational,"【判定】: INCLUDE
+【判定理由】: 全文片段显示研究在方法中使用了 Mimics 21.0 生成手工规划结果作为对比基准，属于自身方法流程中的3D数据处理。
+【专科】: Oral and Maxillofacial Surgery
+【应用场景】: Surgical planning and precise implementation
+【软件】: Mimics
+【研究设计】: computational"
+effect of crestal position on bone implant stress interface of three implant splinted prostheses a finite element analysis,Effect of Crestal Position on Bone-Implant Stress Interface of Three-Implant Splinted Prostheses: A Finite Element Analysis,MATERIALS,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 Autodesk Inventor 进行种植体三维建模，并使用 ANSYS Workbench R2023 进行有限元分析，均为非牙科专用3D软件。,Implantology,Biomechanical analysis and simulation,Autodesk Inventor; ANSYS Workbench,computational,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 Autodesk Inventor 进行种植体三维建模，并使用 ANSYS Workbench R2023 进行有限元分析，均为非牙科专用3D软件。
+【专科】: Implantology
+【应用场景】: Biomechanical analysis and simulation
+【软件】: Autodesk Inventor; ANSYS Workbench
+【研究设计】: computational"
+a novel digital and visualized guided bone regeneration procedure and digital precise bone augmentation a case series,A novel digital and visualized guided bone regeneration procedure and digital precise bone augmentation: A case series,CLINICAL IMPLANT DENTISTRY AND RELATED RESEARCH,journalArticle,No non-dental 3D software identified,INCLUDE,该研究在方法中明确使用 3-matic 13.0 和 Mimics 21.0 进行牙槽骨体积分析以评估数字化引导骨再生精度。,Oral Implantology,3D data analysis and accuracy assessment,Mimics; 3-matic,clinical,"【判定】: INCLUDE
+【判定理由】: 该研究在方法中明确使用 3-matic 13.0 和 Mimics 21.0 进行牙槽骨体积分析以评估数字化引导骨再生精度。
+【专科】: Oral Implantology
+【应用场景】: 3D data analysis and accuracy assessment
+【软件】: Mimics; 3-matic
+【研究设计】: clinical"
