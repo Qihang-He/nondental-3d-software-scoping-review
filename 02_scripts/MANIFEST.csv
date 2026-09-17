@@ -46,7 +46,7 @@
 05_analysis,_tools_rq3_fill3.py,Fill residual gaps in the RQ3 coding,02_scripts/05_analysis/_tools_rq3_fill3.py,62,6bfda7387d31d27a,rewritten
 05_analysis,_rq3_summarize.py,Summarise RQ3 frequencies over the final included set,02_scripts/05_analysis/_rq3_summarize.py,64,e36a760ad5fa6266,rewritten
 05_analysis,_verify_stats.py,Cross-check every reported statistic against the locked dataset,02_scripts/05_analysis/_verify_stats.py,45,86a0052152488927,verbatim
-06_figures,make_figures.py,"Figures 1-5 (PRISMA, landscape, software, archetypes, contingency)",02_scripts/06_figures/make_figures.py,673,90105d9cb2ee0b98,rewritten
+06_figures,make_figures.py,"Figures 1-5 (PRISMA, landscape, software, archetypes, contingency)",02_scripts/06_figures/make_figures.py,682,d672f241443d14c0,rewritten
 06_figures,_run_figs.py,Driver that renders the figure set,02_scripts/06_figures/_run_figs.py,16,e8473355dbcc0136,verbatim
 06_figures,make_supp_fig.py,Supplementary Figure S1: journal and proceedings distribution,02_scripts/06_figures/make_supp_fig.py,69,e54d0f8fb6b25e93,rewritten
 07_documents,_tools_supp2.py,"Supplementary File 2: screening logs, exclusion reasons, outcome coding, codebook, model metadata",02_scripts/07_documents/_tools_supp2.py,226,8ed0a0ca11dbc1e2,rewritten

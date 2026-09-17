@@ -8,7 +8,7 @@ _ROOTP = (_os.environ.get('SCOPING_ROOT')
               _os.path.abspath(__file__)))))
 # -------------------------------------------------------------------------
 """
-make_figures_v3.py  —— R2 定稿图（v5；N = 861）
+make_figures_v3.py  —— R2 定稿图（v6；N = 853）
 设计原则：简洁、直观、全图统一配色与字号；去图表垃圾；直接标注数值。
 唯一数字来源：03_数据/08_分析用/统计核心_v6.json + 分析数据集_final_v6.csv
 输出：05_图表/Figure1_PRISMA ~ Figure5_contingency (.png 600dpi + .pdf)
@@ -205,13 +205,22 @@ def fig1():
         '613 progressed from title/abstract screening\n'
         '+ %s excluded records re-assessed in full text'
         % (format(n_assess, ','), format(n_ft, ',')), C['blue_l'], C['blue'])
+    EB = ch['exclusion_breakdown']
     box(RX, 5.05, RW, 1.67,
         'Records excluded after\nfull-text assessment (n = %s)\n\n'
         'Not eligible on full-text review: %s\n'
-        'Excluded at full-text screening: 47\n'
-        'Removed from the previous set: 4\n'
-        'Outside the date window: 3'
-        % (format(n_ft_excl, ','), format(n_ft - n_new, ',')),
+        'Excluded at full-text screening: %s\n'
+        'No eligible package in full text: %s\n'
+        'Only named tool not 3D software: %s\n'
+        'Outside the date window: %s\n'
+        'Narrative review / software unsupported: %s'
+        % (format(n_ft_excl, ','),
+           format(n_ft - n_new, ','),
+           EB['excluded_at_full_text_screening'],
+           EB['removed_from_previous_set_no_named_software'],
+           EB['software_scope_not_a_nondental_3d_package'],
+           EB['outside_prespecified_date_window'],
+           EB['current_audit_narrative_review_or_unsupported_software']),
         C['grey_l'], C['grey'], fs=7.6, align='left')
     arrow(CX, 7.70, CX, 6.72)
     arrow(5.83, 5.88, 6.15, 5.88)
