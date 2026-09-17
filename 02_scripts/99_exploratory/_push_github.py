@@ -6,11 +6,15 @@ The access token is read from the environment and never written to the command l
 import os
 import shutil
 import subprocess
+import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 SRC = os.path.join(ROOT, '06_公共仓库')
 REPO = 'Qihang-He/nondental-3d-software-scoping-review'
 TMP = os.path.join(os.environ.get('TEMP', ROOT), 'nondental-repo-push')
+AMEND = os.environ.get('AMEND', '') == '1'
+MESSAGE = (sys.argv[1] if len(sys.argv) > 1 else
+           'Revise dataset after software-scope audit (853 studies, 100 packages)')
 
 TOKEN = os.environ.get('GITHUB_TOKEN', '').strip()
 if not TOKEN:
@@ -28,8 +32,27 @@ def run(args, cwd=None, check=True):
     return p.returncode, out
 
 
-if os.path.isdir(TMP):
-    shutil.rmtree(TMP, ignore_errors=True)
+def _force_remove(func, path, _exc):
+    import stat
+    try:
+        os.chmod(path, stat.S_IWRITE)
+        func(path)
+    except Exception:
+        pass
+
+
+def clean_dir(path):
+    """Remove a checkout robustly: git marks packed objects read-only on Windows."""
+    if not os.path.isdir(path):
+        return
+    shutil.rmtree(path, onerror=_force_remove)
+    if os.path.isdir(path):
+        shutil.rmtree(path, ignore_errors=True)
+    if os.path.isdir(path):
+        raise SystemExit('could not clear %s' % path)
+
+
+clean_dir(TMP)
 
 rc, out = run(['git', 'clone', '--quiet', URL, TMP])
 print('cloned:', out.strip()[:200] or 'ok')
@@ -49,19 +72,15 @@ for name in os.listdir(SRC):
         shutil.copy2(s, d)
 
 rc, out = run(['git', 'add', '-A'], cwd=TMP)
+commit_args = ['-m', MESSAGE]
+if AMEND:
+    commit_args = ['--amend'] + commit_args
 rc, out = run(['git', '-c', 'user.name=Qihang He',
                '-c', 'user.email=qihanghe05@foxmail.com',
-               'commit', '-m',
-               'Revise dataset after software-scope audit (853 studies, 100 packages)'
-               '\n\n- Re-verify every recorded package against the nondental 3D software definition'
-               '\n- Remove 10 non-conforming entries (programming/ML platforms, libraries,'
-               ' dental-specific tools)'
-               '\n- Exclude 8 records that named no other eligible package (861 -> 853)'
-               '\n- Regenerate all statistics, figures, supplementary files and documents',
-               '--allow-empty'], cwd=TMP)
+               'commit'] + commit_args + ['--allow-empty'], cwd=TMP)
 print('commit:', out.strip().splitlines()[-1][:180] if out.strip() else '')
 
-rc, out = run(['git', 'push', 'origin', 'HEAD:main'], cwd=TMP)
+rc, out = run(['git', 'push', '--force-with-lease', 'origin', 'HEAD:main'], cwd=TMP)
 print('push main:', out.strip()[:300] or 'ok')
 
 # refresh the release tag so the pinned release matches the revised dataset
