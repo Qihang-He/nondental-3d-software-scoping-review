@@ -80,7 +80,7 @@ has(M, 'China (184 studies), Turkey (80) and the United States (67)', 'top regio
 has(M, 'rose from 28 studies in 2020-H2 to 96 in 2025-H2', 'trend endpoints')
 has(M, '5.95 additional studies per half-year', 'trend slope')
 has(M, '4.93 excluding', 'trend slope excl')
-has(M, 'the 810 studies whose records carry a month-level publication date', 'trend base')
+has(M, '810 records with a month-level date', 'trend base')
 has(M, 'the remaining %d records carry only a year' % S['n_year_only'], 'year-only')
 
 # ------------------------------------------------ design / disciplines / scenarios
@@ -185,7 +185,7 @@ checks += 1
 if P['identified_total'] - P['duplicates_removed'] != P['screened_title_abstract']:
     fail.append('ARITH    prisma_flow                     identified - duplicates != screened')
 has(M, 'and %d were excluded' % P['excluded_after_fulltext_assessment'], 'PRISMA excluded')
-has(M, '**%d studies**' % P['included'], 'PRISMA included')
+has(M, 'comprises %d studies' % P['included'], 'PRISMA included')
 has(RSP, 'changed from 566 to **%d studies**' % N, 'response previous set')
 
 # ------------------------------------------------ other documents
