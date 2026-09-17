@@ -35,7 +35,23 @@ REPO = os.path.join(ROOT, _os.path.join(_ROOTP, '06_公共仓库'))
 ANA = os.path.join(ROOT, _os.path.join(_ROOTP, '03_数据'), '08_分析用')
 S2 = os.path.join(ROOT, _os.path.join(_ROOTP, '02_图表附件'), 'R2_补充材料')
 SRC_A, SRC_F, SRC_D = ('04_代码/05_分析', '04_代码/06_新图', '04_代码/07_文档')
-SKIP = {'_recover_from_transcript.py', '_clean_supp3.py', '_replay_edits.py'}
+SKIP = {
+    '_recover_from_transcript.py', '_clean_supp3.py', '_replay_edits.py',
+    # one-off probes, inspectors and scratch reconciliations (no analytical role)
+    '_probe_numbers.py', '_probe_frame.py', '_probe_ref_rows.py', '_inspect_supp.py',
+    '_inspect_7.py', '_scan_cjk_supp.py', '_reconcile_sampling.py', '_reconcile_prisma.py',
+    '_pick_replacement_refs.py', '_dump_guide.py', '_check_paths2.py', '_check_meta_fields.py',
+    '_check_sw_gap.py', '_check_sw_rule.py', '_sw_inspect.py', '_sw_variants.py', '_sw_fix_check.py',
+    # publishing / repository tooling and connectivity tests (not part of the analysis)
+    '_push_github.py', '_make_deposit_zip.py', '_figshare_create_reserve.py', '_figshare_deposit.py',
+    '_figshare_finish.py', '_figshare_supersede_old.py', '_figshare_upload_publish.py',
+    '_test_deepseek_connection.py',
+    # superseded build helpers
+    'make_figures_legacy.py', '_tools_build_repo_legacy.py', '_tools_build_repo_previous.py',
+    '_rebuild_v4.py', '_organize.py', '_organize2.py', '_organize3.py',
+    '_tools_organize.py', '_tools_organize2.py', '_tools_organize3.py',
+    '_install_manuscript.py', '_final_check.py',
+}
 
 # ---------------------------------------------------------------- 阶段清单
 STAGES = {

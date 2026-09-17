@@ -1,16 +1,17 @@
 {
-  "seed": 20260912,
-  "population_A_screening_excluded": 1939,
-  "sample_A_n": 200,
-  "allocation_A": {
-    "不在预设时间窗内": 1,
-    "不属于口腔医学范畴": 59,
-    "其他": 1,
-    "文献类型不符（综述/社论/会议摘要等）": 24,
-    "未使用非牙科专用3D软件": 116
-  },
-  "population_B_included": 866,
-  "sample_B_n": 100,
-  "decision_rule": "若样本 A 中错误排除例数为 0，报告 Clopper-Pearson 单侧 95% 上界 3/n",
-  "upper_bound_if_zero_A": 0.0149
+ "seed": 20260912,
+ "population_A_screening_excluded": 1943,
+ "sample_A_n": 200,
+ "allocation_A": {
+  "不在预设时间窗内": 1,
+  "不属于口腔医学范畴": 59,
+  "其他": 1,
+  "文献类型不符（综述/社论/会议摘要等）": 24,
+  "未使用非牙科专用3D软件": 116
+ },
+ "population_B_included": 866,
+ "sample_B_n": 100,
+ "decision_rule": "若样本 A 中错误排除例数为 0，报告 Clopper-Pearson 单侧 95% 上界 3/n",
+ "upper_bound_if_zero_A": 0.0149,
+ "population_A_note": "All records excluded at title and abstract level (n = 1,943, matching PRISMA_排除原因分类.csv); the 200-record stratified sample was drawn from this set."
 }
