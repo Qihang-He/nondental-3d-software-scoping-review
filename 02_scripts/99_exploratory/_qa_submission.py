@@ -33,7 +33,7 @@ for f in sorted(os.listdir(SUB)):
         issues.append('Chinese text')
     if '---' in body:
         issues.append('horizontal rule')
-    if re.search(r'\bR2\b', body):
+    if re.search(r'\bR2\b(?!\s+Gate)', body):
         issues.append('version tag "R2"')
     if '«' in body or '»' in body:
         issues.append('placeholder markers')
