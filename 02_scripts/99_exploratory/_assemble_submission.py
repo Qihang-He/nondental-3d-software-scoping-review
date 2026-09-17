@@ -75,7 +75,7 @@ with open(os.path.join(OUT, 'MANIFEST.txt'), 'w', encoding='utf-8') as f:
     for m in manifest:
         f.write('  - %s\n' % m)
     f.write('\nData archive:\n')
-    f.write('  - figshare DOI 10.6084/m9.figshare.33891811\n')
+    f.write('  - figshare DOI 10.6084/m9.figshare.33900364\n')
     f.write('  - GitHub https://github.com/Qihang-He/nondental-3d-software-scoping-review\n')
 
 print('已组装 %d 个文件 ->' % len(manifest), OUT)

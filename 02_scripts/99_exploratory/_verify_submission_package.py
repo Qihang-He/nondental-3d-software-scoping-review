@@ -8,7 +8,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 os.chdir(ROOT)
 SUB = os.path.join('01_投稿文件', 'R2_Submission')
 ZIP = os.path.join('01_投稿文件', 'R2_Submission.zip')
-DOI = '10.6084/m9.figshare.33891811'
+DOI = '10.6084/m9.figshare.33900364'
 REPO = 'https://github.com/Qihang-He/nondental-3d-software-scoping-review'
 
 names = sorted(os.listdir(SUB))

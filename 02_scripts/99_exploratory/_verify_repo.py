@@ -50,12 +50,11 @@ checks = [
      not set(['MATLAB', 'Python', 'GNU Octave', 'TensorFlow', 'Keras', 'Open3D', 'Trimesh',
               'Iso2mesh', 'R2 Gate', 'Viewbox']) & set(G['canonical_name'])),
     ('README cites the current figshare DOI',
-     '10.6084/m9.figshare.33891811' in open(os.path.join(REPO, 'README.md'),
+     '10.6084/m9.figshare.33900364' in open(os.path.join(REPO, 'README.md'),
                                             encoding='utf-8').read()),
     ('CITATION cites the current figshare DOI',
-     '10.6084/m9.figshare.33891811' in open(os.path.join(REPO, 'CITATION.cff'),
-                                            encoding='utf-8').read()),
-]
+     '10.6084/m9.figshare.33900364' in open(os.path.join(REPO, 'CITATION.cff'),
+                                            encoding='utf-8').read()),]
 print()
 bad = 0
 for label, ok in checks:
