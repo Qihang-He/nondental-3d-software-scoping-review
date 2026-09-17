@@ -57,7 +57,7 @@
 07_documents,_tools_renumber_refs.py,Renumber in-text citations after reference-list edits,02_scripts/07_documents/_tools_renumber_refs.py,72,0f056c793d355dd1,rewritten
 07_documents,_check_abstract.py,Verify the abstract word limit and the internal consistency of headline numbers,02_scripts/07_documents/_check_abstract.py,38,b89471ce4a711725,rewritten
 07_documents,_tools_final_audit.py,Final numerical audit of the submission package,02_scripts/07_documents/_tools_final_audit.py,85,0d9760a545864f7d,rewritten
-07_documents,_tools_build_repo.py,This script: assemble the public repository,02_scripts/07_documents/_tools_build_repo.py,930,bb072c4395a07250,rewritten
+07_documents,_tools_build_repo.py,This script: assemble the public repository,02_scripts/07_documents/_tools_build_repo.py,931,d1b8759f1bb31bcd,rewritten
 08_verification,_tools_verify_evidence.py,Build the evidence pack for the 300 sampled records,02_scripts/08_verification/_tools_verify_evidence.py,198,e44f8826f748883f,rewritten
 08_verification,_tools_verify_fill.py,"Record the per-record verdict, evidence level and reason",02_scripts/08_verification/_tools_verify_fill.py,220,620c4cdca450c583,rewritten
 08_verification,_fill_verification.py,Assemble the verification workbook from the sampled records,02_scripts/08_verification/_fill_verification.py,159,9bfa8ca9cf5d9e58,rewritten

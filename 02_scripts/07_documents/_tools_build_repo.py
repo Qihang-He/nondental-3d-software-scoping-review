@@ -46,7 +46,8 @@ SKIP = {
     '_push_github.py', '_make_deposit_zip.py', '_figshare_create_reserve.py', '_figshare_deposit.py',
     '_figshare_finish.py', '_figshare_supersede_old.py', '_figshare_upload_publish.py',
     '_figshare_probe.py', '_figshare_redeposit.py', '_figshare_new_deposit.py',
-    '_figshare_supersede_oldest.py',
+    '_figshare_supersede_oldest.py', '_figshare_unpublish_old.py', '_figshare_replace_file.py',
+    '_figshare_refresh_note.py',
     '_test_deepseek_connection.py',
     # superseded build helpers
     'make_figures_legacy.py', '_tools_build_repo_legacy.py', '_tools_build_repo_previous.py',
