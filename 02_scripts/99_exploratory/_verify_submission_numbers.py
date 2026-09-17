@@ -167,8 +167,8 @@ has(M, 'leaving %s records for screening' % format(P['screened_title_abstract'],
 EB = P['exclusion_breakdown']
 has(M, 'Title and abstract screening excluded 1,943 records', 'screening exclusions')
 has(M, 'and %d were excluded' % P['excluded_after_fulltext_assessment'], 'PRISMA excluded')
-has(M, 'four removed from the previous set', 'PRISMA prev-set removals')
-has(M, 'eight removed because the only named tool', 'PRISMA scope removals')
+has(M, 'four were removed from the previous set', 'PRISMA prev-set removals')
+has(M, 'eight because the only named tool', 'PRISMA scope removals')
 # PRISMA arithmetic must reconcile
 checks += 1
 brk = sum(EB.values())
@@ -186,7 +186,7 @@ if P['identified_total'] - P['duplicates_removed'] != P['screened_title_abstract
     fail.append('ARITH    prisma_flow                     identified - duplicates != screened')
 has(M, 'and %d were excluded' % P['excluded_after_fulltext_assessment'], 'PRISMA excluded')
 has(M, '**%d studies**' % P['included'], 'PRISMA included')
-has(M, 'changed from 566 to %d studies' % N, '§2.6 previous set')
+has(RSP, 'changed from 566 to **%d studies**' % N, 'response previous set')
 
 # ------------------------------------------------ other documents
 has(DEC, 'locked dataset (n = %d)' % N, 'decl dataset size')
