@@ -77,7 +77,7 @@ has(M, 'sum to %s assignments across %d studies'
 has(M, 'The included studies appeared in %d journals' % S['n_journals'], 'journals (§3.2)')
 has(M, 'the ten most frequent journals accounted for 331 studies (38.8%)', 'top10 journals')
 has(M, 'China (184 studies), Turkey (80) and the United States (67)', 'top regions')
-has(M, 'rose from 28 studies in 2020-H2 to 96 in 2025-H2', 'trend endpoints')
+has(M, 'rose from 28 studies in 2020-H2 to 119 in 2026-H1', 'trend endpoints')
 has(M, '5.95 additional studies per half-year', 'trend slope')
 has(M, '4.93 excluding', 'trend slope excl')
 has(M, '810 records with a month-level date', 'trend base')
